@@ -1,0 +1,75 @@
+{
+  "durationMinutes": 100,
+  "parts": [
+    {
+      "id": "adolescent-psychology",
+      "name": "Adolescent Psychology, Theories of Learning and Teaching Aptitude",
+      "perTest": 27,
+      "topics": [
+        { "id": "psy-adolescence", "name": "Adolescence: nature, characteristics, development", "perTest": 2 },
+        { "id": "psy-problems", "name": "Problems of adolescence", "perTest": 2 },
+        { "id": "psy-dev-theories", "name": "Developmental theories (Piaget, Bruner, Freud, Erikson, Kohlberg)", "perTest": 3 },
+        { "id": "learn-nature-factors", "name": "Nature of learning and factors affecting learning", "perTest": 3 },
+        { "id": "learn-creativity", "name": "Creativity", "perTest": 2 },
+        { "id": "learn-theories", "name": "Theories of learning", "perTest": 3 },
+        { "id": "learn-special-needs", "name": "Children with special needs and inclusion", "perTest": 2 },
+        { "id": "teach-nature-roles", "name": "Teaching: nature, steps, teacher roles", "perTest": 3 },
+        { "id": "teach-methods-evaluation", "name": "Methods, techniques, ICT and evaluation (CCE)", "perTest": 3 },
+        { "id": "teach-classroom-mgmt", "name": "Classroom management", "perTest": 1 },
+        { "id": "teach-personality-ethics", "name": "Teacher personality, values and ethics", "perTest": 1 },
+        { "id": "teach-frameworks", "name": "NCF 2005, KCF 2007 and RTE Act 2009", "perTest": 2 }
+      ]
+    },
+    {
+      "id": "malayalam",
+      "name": "Language I: Malayalam",
+      "perTest": 20,
+      "topics": [
+        { "id": "ml-comprehension-prose", "name": "Comprehension: prose", "perTest": 3 },
+        { "id": "ml-comprehension-poetry", "name": "Comprehension: poetry", "perTest": 3 },
+        { "id": "ml-expression", "name": "Exchange of ideas: sentence, word use, word meaning", "perTest": 7 },
+        { "id": "ml-language-knowledge", "name": "Language knowledge: style, idioms, usage, grammar", "perTest": 7 }
+      ]
+    },
+    {
+      "id": "physical-science",
+      "name": "Physical Science: Physics, Chemistry and Pedagogy",
+      "perTest": 53,
+      "topics": [
+        { "id": "phy-waves", "name": "Physics: Wave motion and sound", "perTest": 2 },
+        { "id": "phy-light", "name": "Physics: Light", "perTest": 2 },
+        { "id": "phy-force-pressure", "name": "Physics: Force and pressure", "perTest": 1 },
+        { "id": "phy-heat", "name": "Physics: Heat", "perTest": 1 },
+        { "id": "phy-motion", "name": "Physics: Motion", "perTest": 2 },
+        { "id": "phy-gravitation", "name": "Physics: Gravitation", "perTest": 1 },
+        { "id": "phy-work-energy", "name": "Physics: Work and energy", "perTest": 1 },
+        { "id": "phy-electricity-magnetism", "name": "Physics: Electricity and magnetism", "perTest": 3 },
+        { "id": "phy-current-effects-emi", "name": "Physics: Effects of current and electromagnetic induction", "perTest": 2 },
+        { "id": "phy-electronics", "name": "Physics: Electronics", "perTest": 2 },
+        { "id": "chem-changes", "name": "Chemistry: Physical and chemical changes", "perTest": 1 },
+        { "id": "chem-atoms-molecules", "name": "Chemistry: Atoms and molecules", "perTest": 2 },
+        { "id": "chem-metals", "name": "Chemistry: Metals", "perTest": 2 },
+        { "id": "chem-solutions-colloids", "name": "Chemistry: Solutions and colloids", "perTest": 1 },
+        { "id": "chem-matter-separation", "name": "Chemistry: Nature of matter and separation of mixtures", "perTest": 1 },
+        { "id": "chem-periodic-table", "name": "Chemistry: Periodic table", "perTest": 2 },
+        { "id": "chem-bonding", "name": "Chemistry: Chemical bonding", "perTest": 1 },
+        { "id": "chem-non-metals", "name": "Chemistry: Non-metals", "perTest": 2 },
+        { "id": "chem-organic", "name": "Chemistry: Organic compounds", "perTest": 1 },
+        { "id": "chem-acids-alkalis", "name": "Chemistry: Acids and alkalis", "perTest": 1 },
+        { "id": "chem-gas-laws", "name": "Chemistry: Gas laws", "perTest": 1 },
+        { "id": "chem-mole-rates", "name": "Chemistry: Mole concept and rates of reaction", "perTest": 1 },
+        { "id": "ped-science-india", "name": "Pedagogy: Science in India, scientific attitude", "perTest": 1 },
+        { "id": "ped-aims-objectives", "name": "Pedagogy: Aims, objectives, Bloom, process skills", "perTest": 3 },
+        { "id": "ped-theory-basis", "name": "Pedagogy: Cognitive theories and constructivism", "perTest": 2 },
+        { "id": "ped-planning", "name": "Pedagogy: Unit and lesson planning, audio-visual aids", "perTest": 2 },
+        { "id": "ped-models", "name": "Pedagogy: Models of teaching", "perTest": 2 },
+        { "id": "ped-methods", "name": "Pedagogy: Methods and strategies", "perTest": 3 },
+        { "id": "ped-approaches", "name": "Pedagogy: Approaches", "perTest": 1 },
+        { "id": "ped-curriculum", "name": "Pedagogy: Curriculum and textbook", "perTest": 2 },
+        { "id": "ped-labs-clubs", "name": "Pedagogy: Laboratory, library, clubs, fairs", "perTest": 1 },
+        { "id": "ped-evaluation", "name": "Pedagogy: Evaluation tools and techniques", "perTest": 2 },
+        { "id": "ped-professional", "name": "Pedagogy: Professional development of teachers", "perTest": 1 }
+      ]
+    }
+  ]
+}
