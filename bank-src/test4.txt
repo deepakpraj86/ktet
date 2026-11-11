@@ -1,0 +1,199 @@
+# Mock test 4. Format: question ||| A ||| B ||| C ||| D ||| correct letter ||| explanation (never cite option letters in explanations)
+
+## psy-adolescence
+The development of secondary sex characteristics at puberty is controlled mainly by: ||| Sex hormones from the gonads ||| The digestive system ||| The sense organs ||| Muscular exercise ||| A ||| Hormones from the gonads trigger the changes of puberty.
+The principle that development proceeds from the head downwards to the feet is called: ||| Proximodistal ||| Cephalocaudal ||| Differentiation ||| Integration ||| B ||| Cephalocaudal means head to tail.
+
+## psy-problems
+A student weak in sports works hard and excels in studies. This adjustment mechanism is: ||| Compensation ||| Projection ||| Denial ||| Regression ||| A ||| Compensation makes up for a weakness in one area by excelling in another.
+The term "identity crisis" was popularised by: ||| Freud ||| Erikson ||| Skinner ||| Pavlov ||| B ||| Erik Erikson used it for the adolescent search for identity.
+
+## psy-dev-theories
+Egocentrism, where the child finds it hard to take another's point of view, is a feature of Piaget's: ||| Sensorimotor stage ||| Preoperational stage ||| Concrete operational stage ||| Formal operational stage ||| B ||| Egocentric thought is typical of children aged about 2 to 7.
+Erikson's stage "industry versus inferiority" corresponds to the age of about: ||| 0 to 1 year ||| 3 to 5 years ||| 6 to 12 years ||| 13 to 19 years ||| C ||| Children in school years develop a sense of competence or inferiority.
+In Kohlberg's pre-conventional level, moral reasoning is based on: ||| Punishment and reward ||| Universal principles ||| Social contracts ||| Law and order ||| A ||| At this level right and wrong depend on consequences to oneself.
+
+## learn-nature-factors
+Information held for only a second or two after it is perceived is in: ||| Sensory memory ||| Long-term memory ||| Semantic memory ||| Episodic memory ||| A ||| Sensory memory holds raw sensory input very briefly.
+According to the Yerkes-Dodson principle, performance is best when arousal (anxiety) is: ||| Absent ||| Moderate ||| Very high ||| Extremely low ||| B ||| A moderate level of arousal improves performance.
+Interest in a subject is best described as: ||| A tendency to attend to and be involved with it ||| A kind of memory ||| A reflex ||| An inborn skill ||| A ||| Interest is a motivating tendency to attend to something.
+
+## learn-creativity
+In Wallas's stages of the creative process, the sudden flash of the solution is called: ||| Preparation ||| Incubation ||| Illumination ||| Verification ||| C ||| The stages are preparation, incubation, illumination and verification.
+Convergent thinking usually leads to: ||| Many original answers ||| One correct answer ||| No answer ||| Random answers ||| B ||| Convergent thinking narrows down to a single best answer.
+
+## learn-theories
+In Skinner's experiments, a rat learns to press a lever to obtain food. This is: ||| Classical conditioning ||| Operant conditioning ||| Insight learning ||| Imitation ||| B ||| Behaviour is shaped by its consequences: operant conditioning.
+The Gestalt law that makes us perceive an incomplete figure as complete is the law of: ||| Closure ||| Similarity ||| Contrast ||| Exercise ||| A ||| The mind fills in gaps to see a whole: closure.
+The first of Gagne's nine events of instruction is: ||| Gaining the learner's attention ||| Assessing performance ||| Providing feedback ||| Enhancing retention ||| A ||| Instruction begins by gaining attention.
+
+## learn-special-needs
+A child with a specific learning disability usually has: ||| Normal or above-normal intelligence but difficulty in particular skills ||| Very low intelligence ||| No sense organs ||| Complete deafness ||| A ||| Learning disability is unexpected difficulty in reading, writing or mathematics despite normal intelligence.
+Which of the following helps a child with a hearing impairment most in class? ||| Visual aids and seating near the teacher ||| Loud dictation ||| Back-bench seating ||| Only oral tests ||| A ||| Visual support and good positioning compensate for reduced hearing.
+
+## teach-nature-roles
+Which sequence correctly shows the steps of teaching? ||| Evaluating, planning, implementing ||| Planning, implementing, evaluating ||| Implementing, evaluating, planning ||| Implementing, planning, evaluating ||| B ||| Teaching is planned, carried out and then evaluated.
+A teacher who keeps updating his knowledge and skills plays the role of a: ||| Lifelong learner ||| Spectator ||| Dictator ||| Examiner only ||| A ||| Continuing learning keeps a teacher effective.
+An authoritative teacher is one who: ||| Is warm and also sets and explains high expectations ||| Is cold and harsh ||| Gives no direction ||| Ignores students ||| A ||| The authoritative style combines warmth with clear standards.
+
+## teach-methods-evaluation
+Which of the following is a formative assessment technique? ||| A short class quiz during the unit ||| The annual examination ||| The board examination ||| The entrance test ||| A ||| Formative assessment is done during learning to give feedback.
+A debate in class mainly develops: ||| Reasoning and the ability to present arguments ||| Handwriting ||| Memorisation of dates ||| Silence ||| A ||| Debates build argumentation and communication skills.
+Which tool is commonly used to assess co-scholastic areas in CCE? ||| Observation checklists ||| Only written tests ||| Only dictation ||| Only recitation ||| A ||| Checklists and rating scales record behaviour and skills.
+
+## teach-classroom-mgmt
+Moving near a student who is talking in class to stop the behaviour is called: ||| Proximity control ||| Detention ||| Suspension ||| Isolation ||| A ||| Proximity control is a non-verbal, non-punitive management technique.
+
+## teach-personality-ethics
+A balanced personality in a teacher is shown by: ||| Responding calmly to both praise and criticism ||| Being elated by praise and angry at criticism ||| Avoiding all feedback ||| Blaming others ||| A ||| Balance means steady, reasoned responses.
+
+## teach-frameworks
+The National Curriculum Framework 2005 was prepared under the chairmanship of: ||| Yash Pal ||| D. S. Kothari ||| Radhakrishnan ||| Ishwarbhai Patel ||| A ||| The NCF 2005 steering committee was chaired by Prof. Yash Pal.
+The Right to Education Act came into force on: ||| 1 April 2010 ||| 15 August 2009 ||| 26 January 2008 ||| 1 January 2011 ||| A ||| The Act was passed in 2009 and came into effect on 1 April 2010.
+
+## ml-comprehension-prose
+ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ജലം ജീവന്റെ ആധാരമാണ്. എന്നാൽ ശുദ്ധജലത്തിന്റെ അളവ് ഭൂമിയിൽ വളരെ കുറവാണ്. അതുകൊണ്ട് ഓരോ തുള്ളി വെള്ളവും നാം സൂക്ഷിച്ച് ഉപയോഗിക്കണം.” ഈ ഭാഗത്തിന്റെ സന്ദേശം എന്താണ്? ||| വെള്ളം ധാരാളം ഉണ്ട് ||| ജലം സൂക്ഷിച്ച് ഉപയോഗിക്കണം ||| ജലം പാഴാക്കാം ||| ജലം ആവശ്യമില്ല ||| B ||| ശുദ്ധജലം കുറവായതിനാൽ അത് സൂക്ഷിച്ച് ഉപയോഗിക്കണമെന്നാണ് അവസാനവാക്യം പറയുന്നത്.
+ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഗ്രാമങ്ങളിൽ ആളുകൾ പരസ്പരം അറിയുന്നു. ഒരാളുടെ സങ്കടം എല്ലാവരുടെയും സങ്കടമാകുന്നു. നഗരത്തിലെ തിരക്കിൽ ഈ സ്നേഹബന്ധം കുറഞ്ഞു വരുന്നു.” ഖണ്ഡിക അനുസരിച്ച് നഗരത്തിൽ കുറഞ്ഞുവരുന്നത് എന്താണ്? ||| തിരക്ക് ||| ആളുകൾ തമ്മിലുള്ള സ്നേഹബന്ധം ||| കെട്ടിടങ്ങൾ ||| വാഹനങ്ങൾ ||| B ||| അവസാനവാക്യത്തിൽ നഗരത്തിൽ സ്നേഹബന്ധം കുറഞ്ഞുവരുന്നു എന്ന് പറയുന്നു.
+ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ശാസ്ത്രം മനുഷ്യജീവിതം സുഖപ്രദമാക്കി. എന്നാൽ അതിന്റെ ദുരുപയോഗം വലിയ നാശത്തിനും കാരണമാകും. അതിനാൽ വിവേകത്തോടെ വേണം ശാസ്ത്രത്തെ ഉപയോഗിക്കാൻ.” ‘ദുരുപയോഗം’ എന്ന പദത്തിന്റെ അർഥം എന്താണ്? ||| നല്ല രീതിയിലുള്ള ഉപയോഗം ||| തെറ്റായ രീതിയിലുള്ള ഉപയോഗം ||| ഉപയോഗിക്കാതിരിക്കൽ ||| കുറച്ചു മാത്രം ഉപയോഗിക്കൽ ||| B ||| ‘ദുർ’ എന്ന ഉപസർഗം ചീത്തയെ സൂചിപ്പിക്കുന്നു; ദുരുപയോഗം എന്നാൽ തെറ്റായ ഉപയോഗം.
+
+## ml-comprehension-poetry
+വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഗ്രാമമെൻ ഹൃദയത്തിൽ പച്ചപ്പായ് നിൽക്കുന്നു, പാടവും തോടും കിളികൾതൻ പാട്ടും; നഗരമോ തിരക്കിൻ ശബ്ദത്തിൽ മുങ്ങുന്നു, ഗ്രാമത്തിൻ ശാന്തത ഞാനോർത്തിടുന്നു.” കവി ഓർക്കുന്നത് എന്താണ്? ||| നഗരത്തിന്റെ തിരക്ക് ||| ഗ്രാമത്തിന്റെ ശാന്തത ||| വിദേശയാത്ര ||| വിദ്യാലയം ||| B ||| അവസാന വരിയിൽ ‘ഗ്രാമത്തിൻ ശാന്തത ഞാനോർത്തിടുന്നു’ എന്ന് കവി പറയുന്നു.
+വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “നഗരമോ തിരക്കിൻ ശബ്ദത്തിൽ മുങ്ങുന്നു.” ഇവിടെ നഗരത്തെ കവി എങ്ങനെ ചിത്രീകരിക്കുന്നു? ||| ശാന്തമായത് ||| ശബ്ദമുഖരിതമായത് ||| പച്ചപ്പുള്ളത് ||| ഭംഗിയില്ലാത്തത് മാത്രം ||| B ||| തിരക്കിന്റെ ശബ്ദത്തിൽ മുങ്ങുന്നു എന്നതിനാൽ ശബ്ദമുഖരിതമാണ്.
+വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഗ്രാമമെൻ ഹൃദയത്തിൽ പച്ചപ്പായ് നിൽക്കുന്നു.” ഈ വരിയിൽ ‘പച്ചപ്പ്’ എന്നത് എന്തിനെ സൂചിപ്പിക്കുന്നു? ||| ഗ്രാമത്തിന്റെ സമൃദ്ധിയെയും മനസ്സിലെ കുളിർമയെയും ||| ഒരു നിറത്തെ മാത്രം ||| രോഗത്തെ ||| വേനലിനെ ||| A ||| ഗ്രാമം കവിയുടെ മനസ്സിൽ പച്ചപ്പായും ഓർമയായും നിൽക്കുന്നു എന്നാണ് ഭാവം.
+
+## ml-expression
+‘കണ്ണ്’ എന്ന പദത്തിന്റെ പര്യായമല്ലാത്തത് ഏത്? ||| നേത്രം ||| നയനം ||| ലോചനം ||| കാത് ||| D ||| നേത്രം, നയനം, ലോചനം എന്നിവ കണ്ണിന്റെ പര്യായങ്ങളാണ്.
+‘പ്രകാശം’ എന്ന പദത്തിന്റെ വിപരീതപദം ഏത്? ||| ദീപം ||| ഉജ്ജ്വലം ||| അന്ധകാരം ||| തേജസ്സ് ||| C ||| പ്രകാശത്തിന്റെ വിപരീതം അന്ധകാരമാണ്.
+‘ഗ്രന്ഥം എഴുതുന്നവൻ’ എന്നതിന് ഒറ്റപ്പദം ഏത്? ||| വായനക്കാരൻ ||| ഗ്രന്ഥകാരൻ ||| പ്രസാധകൻ ||| വിമർശകൻ ||| B ||| ഗ്രന്ഥം എഴുതുന്നവൻ ഗ്രന്ഥകാരൻ.
+‘അച്ഛൻ എന്നെ വിളിച്ചു’ എന്ന വാക്യത്തിലെ കർത്താവ് ആര്? ||| അച്ഛൻ ||| ഞാൻ ||| വിളി ||| എന്നെ ||| A ||| ക്രിയ ചെയ്യുന്ന ആളാണ് കർത്താവ്; ഇവിടെ വിളിക്കുന്നത് അച്ഛനാണ്.
+ഉചിതമായ പദം ചേർത്ത് വാക്യം പൂർത്തിയാക്കുക: “കടുത്ത വെയിൽ കാരണം ഞങ്ങൾ മരത്തണലിൽ ......” ||| വിശ്രമിച്ചു ||| നീന്തി ||| ഓടി ||| പാടി ||| A ||| വെയിലിൽ നിന്ന് രക്ഷതേടി തണലിൽ വിശ്രമിക്കുന്നതാണ് യുക്തിസഹം.
+‘കവി’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ഏത്? ||| കവയിത്രി ||| കവിനി ||| കവിക ||| കവിയാൾ ||| A ||| ‘കവി’യുടെ സ്ത്രീലിംഗം ‘കവയിത്രി’.
+‘കുഞ്ഞ്’ എന്ന പദത്തിന്റെ ബഹുവചനം ഏത്? ||| കുഞ്ഞുകൾ ||| കുഞ്ഞുങ്ങൾ ||| കുഞ്ഞന്മാർ ||| കുഞ്ഞർ ||| B ||| ‘കുഞ്ഞ്’ എന്ന പദത്തിന്റെ ബഹുവചനം ‘കുഞ്ഞുങ്ങൾ’.
+
+## ml-language-knowledge
+‘മണി + അറ = മണിയറ’ ഏത് സന്ധിക്ക് ഉദാഹരണം? ||| ലോപസന്ധി ||| ആദേശസന്ധി ||| ആഗമസന്ധി ||| ദ്വിത്വസന്ധി ||| C ||| ‘യ്’ എന്ന വർണം പുതുതായി വരുന്നതിനാൽ ആഗമസന്ധി.
+‘മരത്തിൽ’ എന്ന പദം ഏത് വിഭക്തിയിൽപ്പെടുന്നു? ||| ആധാരിക ||| പ്രയോജിക ||| ഉദ്ദേശിക ||| നിർദ്ദേശിക ||| A ||| ‘-ഇൽ’ പ്രത്യയം ആധാരിക വിഭക്തിയുടേതാണ്.
+‘കണ്ണിൽ പൊടിയിടുക’ എന്ന ശൈലിയുടെ അർഥം ഏത്? ||| കണ്ണ് വൃത്തിയാക്കുക ||| വഞ്ചിക്കുക ||| സഹായിക്കുക ||| കരയുക ||| B ||| ഒരാളെ കബളിപ്പിച്ച് വഞ്ചിക്കുക എന്നാണ് ഇതിന്റെ അർഥം.
+‘അരമനരഹസ്യം അങ്ങാടിപ്പാട്ട്’ എന്ന പഴഞ്ചൊല്ലിന്റെ ആശയം ഏത്? ||| രഹസ്യങ്ങൾ എപ്പോഴും പുറത്തുവരും ||| അങ്ങാടിയിൽ പാട്ടുണ്ട് ||| അരമന വലുതാണ് ||| രഹസ്യം സൂക്ഷിക്കണം എന്നു മാത്രം ||| A ||| രഹസ്യമായ കാര്യം പെട്ടെന്ന് എല്ലാവരും അറിയും എന്നാണ് ഇതിന്റെ അർഥം.
+‘ചെമ്മീൻ’ എന്ന നോവൽ രചിച്ചതാര്? ||| വൈക്കം മുഹമ്മദ് ബഷീർ ||| തകഴി ശിവശങ്കരപ്പിള്ള ||| ഉറൂബ് ||| കേശവദേവ് ||| B ||| ചെമ്മീൻ തകഴിയുടെ പ്രശസ്തമായ നോവലാണ്.
+‘മാർത്താണ്ഡവർമ്മ’ എന്ന ചരിത്രനോവൽ രചിച്ചതാര്? ||| ഒ. ചന്തുമേനോൻ ||| സി. വി. രാമൻപിള്ള ||| അപ്പു നെടുങ്ങാടി ||| ഇ. വി. കൃഷ്ണപിള്ള ||| B ||| മാർത്താണ്ഡവർമ്മ എഴുതിയത് സി. വി. രാമൻപിള്ളയാണ്.
+ജ്ഞാനപീഠം പുരസ്കാരം നേടിയ ആദ്യ മലയാളി ആര്? ||| തകഴി ||| ജി. ശങ്കരക്കുറുപ്പ് ||| എസ്. കെ. പൊറ്റെക്കാട്ട് ||| എം. ടി. ||| B ||| 1965-ൽ ‘ഓടക്കുഴൽ’ എന്ന കൃതിക്ക് ജി. ശങ്കരക്കുറുപ്പിന് ലഭിച്ചു.
+
+## phy-waves
+Which of the following is a transverse wave? ||| Sound in air ||| Light ||| Compression wave in a spring ||| Ultrasonic wave in water ||| B ||| Light is a transverse electromagnetic wave; sound waves in fluids are longitudinal.
+The pitch of a sound depends on its: ||| Amplitude ||| Frequency ||| Speed ||| Intensity ||| B ||| Higher frequency means higher pitch; amplitude decides loudness.
+
+## phy-light
+An object is placed 20 cm in front of a convex lens of focal length 10 cm. The image is formed at a distance of: ||| 10 cm ||| 20 cm ||| 30 cm ||| 40 cm ||| B ||| 1/v = 1/f + 1/u = 1/10 - 1/20 = 1/20, so v = 20 cm.
+The image formed by a plane mirror is: ||| Real and inverted ||| Virtual, erect and of the same size ||| Real and magnified ||| Virtual and diminished ||| B ||| A plane mirror forms a virtual, erect image the same size as the object, laterally inverted.
+
+## phy-force-pressure
+A force of 100 N acts on an area of 0.5 m². The pressure is: ||| 20 Pa ||| 50 Pa ||| 200 Pa ||| 5000 Pa ||| C ||| P = F/A = 100 / 0.5 = 200 Pa.
+
+## phy-heat
+A temperature of 50 °C is equal to how many degrees Fahrenheit? ||| 82 °F ||| 90 °F ||| 122 °F ||| 212 °F ||| C ||| F = 50 x 9/5 + 32 = 122.
+
+## phy-motion
+The area under a velocity-time graph gives the: ||| Acceleration ||| Displacement ||| Force ||| Momentum ||| B ||| Area under the v-t graph is the displacement; the slope is the acceleration.
+The momentum of a 2 kg body moving at 5 m/s is: ||| 2.5 kg m/s ||| 5 kg m/s ||| 10 kg m/s ||| 25 kg m/s ||| C ||| p = mv = 2 x 5 = 10 kg m/s.
+
+## phy-gravitation
+If the distance between two masses is doubled, the gravitational force between them becomes: ||| Doubled ||| Halved ||| One-fourth ||| Four times ||| C ||| F is proportional to 1/r², so doubling r reduces F to one-fourth.
+
+## phy-work-energy
+A person holds a heavy load stationary for some time. The work done on the load by the person is: ||| Maximum ||| Zero ||| Negative ||| Equal to its weight ||| B ||| There is no displacement, so W = Fs = 0.
+
+## phy-electricity-magnetism
+Three resistors of 2 Ω, 3 Ω and 5 Ω are connected in series. The total resistance is: ||| 3 Ω ||| 5 Ω ||| 10 Ω ||| 30 Ω ||| C ||| In series, resistances add: 2 + 3 + 5 = 10 Ω.
+The SI unit of resistivity is: ||| Ohm ||| Ohm metre ||| Ohm per metre ||| Siemens ||| B ||| Resistivity = RA/l, so the unit is ohm metre.
+Two like magnetic poles: ||| Attract each other ||| Repel each other ||| Neither attract nor repel ||| Cancel each other ||| B ||| Like poles repel; unlike poles attract.
+
+## phy-current-effects-emi
+Lenz's law is a consequence of the law of conservation of: ||| Mass ||| Energy ||| Charge only ||| Momentum ||| B ||| The induced current opposes the change that causes it, which conserves energy.
+Alternating current supplied in India has a frequency of: ||| 25 Hz ||| 50 Hz ||| 60 Hz ||| 100 Hz ||| B ||| The mains frequency in India is 50 Hz.
+
+## phy-electronics
+When a p-n junction is forward biased, the depletion region: ||| Widens ||| Narrows ||| Remains unchanged ||| Disappears forever ||| B ||| Forward bias pushes carriers towards the junction, narrowing the depletion layer.
+The main advantage of an integrated circuit (IC) is its: ||| Large size ||| Small size, low cost and reliability ||| High weight ||| Low speed ||| B ||| Thousands of components fit on a tiny chip.
+
+## chem-changes
+Which of the following is a chemical change? ||| Melting of wax ||| Burning of magnesium ribbon ||| Dissolving salt in water ||| Boiling of water ||| B ||| Magnesium burns to form magnesium oxide, a new substance.
+
+## chem-atoms-molecules
+The atomic number of an element is the number of: ||| Neutrons ||| Protons ||| Protons plus neutrons ||| Electron shells ||| B ||| Atomic number equals the number of protons in the nucleus.
+Thomson's model of the atom is often called the: ||| Planetary model ||| Plum pudding model ||| Shell model ||| Wave model ||| B ||| He imagined electrons embedded in a positively charged sphere.
+
+## chem-metals
+Which metal can displace copper from a copper sulphate solution? ||| Silver ||| Zinc ||| Gold ||| Mercury ||| B ||| Zinc is more reactive than copper, so it displaces copper.
+The property of metals by which they can be drawn into thin wires is called: ||| Malleability ||| Ductility ||| Sonority ||| Lustre ||| B ||| Ductility is the ability to be drawn into wires; malleability is beating into sheets.
+
+## chem-solutions-colloids
+A solution contains 10 g of salt dissolved in 90 g of water. The mass percentage of salt is: ||| 5% ||| 10% ||| 11.1% ||| 90% ||| B ||| Mass percentage = 10 / (10 + 90) x 100 = 10%.
+
+## chem-matter-separation
+A mixture of sodium chloride and ammonium chloride can be separated by: ||| Sublimation ||| Decantation ||| Filtration ||| Centrifugation ||| A ||| Ammonium chloride sublimes on heating, while sodium chloride does not.
+
+## chem-periodic-table
+The noble gases belong to group: ||| 1 ||| 16 ||| 17 ||| 18 ||| D ||| Helium, neon, argon and others are in group 18.
+Across a period from left to right, ionisation energy generally: ||| Decreases ||| Increases ||| Remains constant ||| Becomes zero ||| B ||| Greater nuclear pull makes it harder to remove an electron.
+
+## chem-bonding
+A covalent bond is formed by: ||| Transfer of electrons ||| Sharing of electron pairs ||| Loss of protons ||| Attraction of nuclei ||| B ||| Atoms share pairs of electrons to complete their octets.
+
+## chem-non-metals
+In the laboratory, hydrogen chloride gas is prepared by heating sodium chloride with: ||| Dilute nitric acid ||| Concentrated sulphuric acid ||| Water ||| Sodium hydroxide ||| B ||| NaCl + H₂SO₄ gives NaHSO₄ + HCl.
+Which of these gases is the main contributor to the enhanced greenhouse effect (global warming) caused by human activity? ||| Oxygen ||| Carbon dioxide ||| Nitrogen ||| Argon ||| B ||| Carbon dioxide released by burning fuels traps extra heat in the atmosphere.
+
+## chem-organic
+Which of the following is an unsaturated hydrocarbon? ||| Ethane ||| Ethene ||| Methane ||| Propane ||| B ||| Ethene (C₂H₄) has a carbon-carbon double bond; the others have only single bonds.
+
+## chem-acids-alkalis
+Antacid tablets are used to relieve acidity because they contain: ||| Acids ||| Bases that neutralise excess stomach acid ||| Salt only ||| Sugar ||| B ||| Mild bases such as magnesium hydroxide neutralise stomach acid.
+
+## chem-gas-laws
+"Equal volumes of all gases at the same temperature and pressure contain equal numbers of molecules." This is: ||| Boyle's law ||| Charles's law ||| Avogadro's law ||| Dalton's law ||| C ||| This statement is Avogadro's law.
+
+## chem-mole-rates
+The number of moles in 11 g of carbon dioxide (C = 12, O = 16) is: ||| 0.25 ||| 0.5 ||| 1 ||| 4 ||| A ||| Molar mass of CO₂ = 44 g, so 11 / 44 = 0.25 mol.
+
+## ped-science-india
+Which Indian scientist is associated with Bose statistics? ||| Satyendra Nath Bose ||| Meghnad Saha ||| S. Ramanujan ||| K. S. Krishnan ||| A ||| Bose's work with Einstein led to Bose-Einstein statistics.
+
+## ped-aims-objectives
+In the revised Bloom's taxonomy, the highest cognitive level is: ||| Remembering ||| Understanding ||| Analysing ||| Creating ||| D ||| The revised levels end with creating, above evaluating.
+The recreational value of science teaching is achieved through: ||| Hobbies, science clubs and activities ||| Long lectures ||| Written tests only ||| Dictation ||| A ||| Hobbies and clubs let pupils enjoy science in leisure time.
+The practical value of science teaching is seen when a learner: ||| Applies science to daily life, for example in food preservation ||| Memorises definitions ||| Copies notes ||| Scores marks only ||| A ||| The practical value links science to everyday needs.
+
+## ped-theory-basis
+Problem-based learning usually begins with: ||| A lecture ||| An open, real-life problem ||| A final test ||| Silent reading ||| B ||| Learners start from a real problem and work to solve it.
+Piaget's theory suggests that teaching should be matched to the learner's: ||| Cognitive developmental stage ||| Height ||| Handwriting ||| Hobby only ||| A ||| Tasks should suit the child's stage of thinking.
+
+## ped-planning
+Which of the following is an advantage of video lessons in science? ||| They can show processes that are hard to see directly ||| They remove the need for any teacher ||| They need no electricity ||| They give no feedback ||| A ||| Videos can show microscopic, distant or dangerous phenomena.
+An important component at the end of a lesson plan is: ||| Evaluation and assignment ||| The teacher's biography ||| School history ||| Tea break ||| A ||| A lesson plan closes with evaluation and follow-up work.
+
+## ped-models
+The syntax of a teaching model, according to Joyce and Weil, refers to: ||| The grammar of the lesson ||| The sequence of phases or steps of the model ||| The classroom size ||| The marks scheme ||| B ||| Syntax describes the phases of the model.
+The inductive thinking model was developed by: ||| Hilda Taba ||| Suchman ||| Ausubel ||| Skinner ||| A ||| Hilda Taba's model teaches students to form concepts from data.
+
+## ped-methods
+In the guided discovery method, the teacher: ||| Gives all the answers ||| Provides hints and questions but lets pupils find the answer ||| Leaves the class ||| Only dictates ||| B ||| The teacher guides without telling the answer.
+A limitation of the pure lecture method in science is that it: ||| Keeps learners passive ||| Is too active ||| Needs many laboratories ||| Is expensive ||| A ||| Lectures make learners listeners rather than active participants.
+Which method is best for developing manipulative skills? ||| Laboratory method ||| Lecture method ||| Story telling ||| Dictation ||| A ||| Handling apparatus builds manipulative skill.
+
+## ped-approaches
+The integrated approach in science teaching presents: ||| Physics, chemistry and biology as parts of general science ||| Only physics ||| Only recall questions ||| Subjects strictly separate ||| A ||| It combines content from several branches into a unified whole.
+
+## ped-curriculum
+A core curriculum is: ||| The set of essential learnings common to all learners ||| An optional hobby course ||| A list of holidays ||| A sports programme ||| A ||| The core curriculum contains the common essentials for everyone.
+The language of a good science textbook should be: ||| Suited to the learners' level and clear ||| Full of difficult terms ||| Unrelated to pupils ||| Very ornate ||| A ||| Clear, graded language helps comprehension.
+
+## ped-labs-clubs
+A school science library helps learners by providing: ||| Reference books and periodicals for self-study ||| Only fiction ||| Sports equipment ||| Uniforms ||| A ||| A science library supports wider reading and self-study.
+
+## ped-evaluation
+An achievement test measures: ||| What the student has learned ||| Only intelligence ||| Only personality ||| Only height ||| A ||| An achievement test assesses learning of content and skills.
+Open-book examinations mainly test: ||| Ability to apply and use information ||| Ability to memorise ||| Handwriting speed only ||| Attendance ||| A ||| Such tests focus on application, not recall.
+
+## ped-professional
+Observing one another's classes and giving feedback helps teachers by: ||| Sharing good practice and improving their teaching ||| Wasting class time ||| Lowering standards ||| Avoiding reflection ||| A ||| Peer observation is a practical way to learn from colleagues.

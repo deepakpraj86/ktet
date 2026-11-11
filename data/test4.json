@@ -1,0 +1,1402 @@
+[
+ {
+  "id": "t4-adolescent-psychology-001",
+  "part": "adolescent-psychology",
+  "topic": "psy-adolescence",
+  "text": "The development of secondary sex characteristics at puberty is controlled mainly by:",
+  "options": [
+   "The digestive system",
+   "The sense organs",
+   "Muscular exercise",
+   "Sex hormones from the gonads"
+  ],
+  "answer": 3,
+  "explanation": "Hormones from the gonads trigger the changes of puberty."
+ },
+ {
+  "id": "t4-adolescent-psychology-002",
+  "part": "adolescent-psychology",
+  "topic": "psy-adolescence",
+  "text": "The principle that development proceeds from the head downwards to the feet is called:",
+  "options": [
+   "Cephalocaudal",
+   "Integration",
+   "Differentiation",
+   "Proximodistal"
+  ],
+  "answer": 0,
+  "explanation": "Cephalocaudal means head to tail."
+ },
+ {
+  "id": "t4-adolescent-psychology-003",
+  "part": "adolescent-psychology",
+  "topic": "psy-problems",
+  "text": "A student weak in sports works hard and excels in studies. This adjustment mechanism is:",
+  "options": [
+   "Regression",
+   "Projection",
+   "Denial",
+   "Compensation"
+  ],
+  "answer": 3,
+  "explanation": "Compensation makes up for a weakness in one area by excelling in another."
+ },
+ {
+  "id": "t4-adolescent-psychology-004",
+  "part": "adolescent-psychology",
+  "topic": "psy-problems",
+  "text": "The term \"identity crisis\" was popularised by:",
+  "options": [
+   "Skinner",
+   "Freud",
+   "Pavlov",
+   "Erikson"
+  ],
+  "answer": 3,
+  "explanation": "Erik Erikson used it for the adolescent search for identity."
+ },
+ {
+  "id": "t4-adolescent-psychology-005",
+  "part": "adolescent-psychology",
+  "topic": "psy-dev-theories",
+  "text": "Egocentrism, where the child finds it hard to take another's point of view, is a feature of Piaget's:",
+  "options": [
+   "Sensorimotor stage",
+   "Preoperational stage",
+   "Formal operational stage",
+   "Concrete operational stage"
+  ],
+  "answer": 1,
+  "explanation": "Egocentric thought is typical of children aged about 2 to 7."
+ },
+ {
+  "id": "t4-adolescent-psychology-006",
+  "part": "adolescent-psychology",
+  "topic": "psy-dev-theories",
+  "text": "Erikson's stage \"industry versus inferiority\" corresponds to the age of about:",
+  "options": [
+   "0 to 1 year",
+   "3 to 5 years",
+   "6 to 12 years",
+   "13 to 19 years"
+  ],
+  "answer": 2,
+  "explanation": "Children in school years develop a sense of competence or inferiority."
+ },
+ {
+  "id": "t4-adolescent-psychology-007",
+  "part": "adolescent-psychology",
+  "topic": "psy-dev-theories",
+  "text": "In Kohlberg's pre-conventional level, moral reasoning is based on:",
+  "options": [
+   "Punishment and reward",
+   "Law and order",
+   "Social contracts",
+   "Universal principles"
+  ],
+  "answer": 0,
+  "explanation": "At this level right and wrong depend on consequences to oneself."
+ },
+ {
+  "id": "t4-adolescent-psychology-008",
+  "part": "adolescent-psychology",
+  "topic": "learn-nature-factors",
+  "text": "Information held for only a second or two after it is perceived is in:",
+  "options": [
+   "Sensory memory",
+   "Long-term memory",
+   "Semantic memory",
+   "Episodic memory"
+  ],
+  "answer": 0,
+  "explanation": "Sensory memory holds raw sensory input very briefly."
+ },
+ {
+  "id": "t4-adolescent-psychology-009",
+  "part": "adolescent-psychology",
+  "topic": "learn-nature-factors",
+  "text": "According to the Yerkes-Dodson principle, performance is best when arousal (anxiety) is:",
+  "options": [
+   "Very high",
+   "Moderate",
+   "Extremely low",
+   "Absent"
+  ],
+  "answer": 1,
+  "explanation": "A moderate level of arousal improves performance."
+ },
+ {
+  "id": "t4-adolescent-psychology-010",
+  "part": "adolescent-psychology",
+  "topic": "learn-nature-factors",
+  "text": "Interest in a subject is best described as:",
+  "options": [
+   "A kind of memory",
+   "A reflex",
+   "An inborn skill",
+   "A tendency to attend to and be involved with it"
+  ],
+  "answer": 3,
+  "explanation": "Interest is a motivating tendency to attend to something."
+ },
+ {
+  "id": "t4-adolescent-psychology-011",
+  "part": "adolescent-psychology",
+  "topic": "learn-creativity",
+  "text": "In Wallas's stages of the creative process, the sudden flash of the solution is called:",
+  "options": [
+   "Preparation",
+   "Incubation",
+   "Illumination",
+   "Verification"
+  ],
+  "answer": 2,
+  "explanation": "The stages are preparation, incubation, illumination and verification."
+ },
+ {
+  "id": "t4-adolescent-psychology-012",
+  "part": "adolescent-psychology",
+  "topic": "learn-creativity",
+  "text": "Convergent thinking usually leads to:",
+  "options": [
+   "Random answers",
+   "No answer",
+   "Many original answers",
+   "One correct answer"
+  ],
+  "answer": 3,
+  "explanation": "Convergent thinking narrows down to a single best answer."
+ },
+ {
+  "id": "t4-adolescent-psychology-013",
+  "part": "adolescent-psychology",
+  "topic": "learn-theories",
+  "text": "In Skinner's experiments, a rat learns to press a lever to obtain food. This is:",
+  "options": [
+   "Classical conditioning",
+   "Operant conditioning",
+   "Imitation",
+   "Insight learning"
+  ],
+  "answer": 1,
+  "explanation": "Behaviour is shaped by its consequences: operant conditioning."
+ },
+ {
+  "id": "t4-adolescent-psychology-014",
+  "part": "adolescent-psychology",
+  "topic": "learn-theories",
+  "text": "The Gestalt law that makes us perceive an incomplete figure as complete is the law of:",
+  "options": [
+   "Closure",
+   "Exercise",
+   "Similarity",
+   "Contrast"
+  ],
+  "answer": 0,
+  "explanation": "The mind fills in gaps to see a whole: closure."
+ },
+ {
+  "id": "t4-adolescent-psychology-015",
+  "part": "adolescent-psychology",
+  "topic": "learn-theories",
+  "text": "The first of Gagne's nine events of instruction is:",
+  "options": [
+   "Gaining the learner's attention",
+   "Providing feedback",
+   "Enhancing retention",
+   "Assessing performance"
+  ],
+  "answer": 0,
+  "explanation": "Instruction begins by gaining attention."
+ },
+ {
+  "id": "t4-adolescent-psychology-016",
+  "part": "adolescent-psychology",
+  "topic": "learn-special-needs",
+  "text": "A child with a specific learning disability usually has:",
+  "options": [
+   "No sense organs",
+   "Very low intelligence",
+   "Normal or above-normal intelligence but difficulty in particular skills",
+   "Complete deafness"
+  ],
+  "answer": 2,
+  "explanation": "Learning disability is unexpected difficulty in reading, writing or mathematics despite normal intelligence."
+ },
+ {
+  "id": "t4-adolescent-psychology-017",
+  "part": "adolescent-psychology",
+  "topic": "learn-special-needs",
+  "text": "Which of the following helps a child with a hearing impairment most in class?",
+  "options": [
+   "Loud dictation",
+   "Visual aids and seating near the teacher",
+   "Only oral tests",
+   "Back-bench seating"
+  ],
+  "answer": 1,
+  "explanation": "Visual support and good positioning compensate for reduced hearing."
+ },
+ {
+  "id": "t4-adolescent-psychology-018",
+  "part": "adolescent-psychology",
+  "topic": "teach-nature-roles",
+  "text": "Which sequence correctly shows the steps of teaching?",
+  "options": [
+   "Implementing, evaluating, planning",
+   "Evaluating, planning, implementing",
+   "Implementing, planning, evaluating",
+   "Planning, implementing, evaluating"
+  ],
+  "answer": 3,
+  "explanation": "Teaching is planned, carried out and then evaluated."
+ },
+ {
+  "id": "t4-adolescent-psychology-019",
+  "part": "adolescent-psychology",
+  "topic": "teach-nature-roles",
+  "text": "A teacher who keeps updating his knowledge and skills plays the role of a:",
+  "options": [
+   "Examiner only",
+   "Dictator",
+   "Lifelong learner",
+   "Spectator"
+  ],
+  "answer": 2,
+  "explanation": "Continuing learning keeps a teacher effective."
+ },
+ {
+  "id": "t4-adolescent-psychology-020",
+  "part": "adolescent-psychology",
+  "topic": "teach-nature-roles",
+  "text": "An authoritative teacher is one who:",
+  "options": [
+   "Is warm and also sets and explains high expectations",
+   "Is cold and harsh",
+   "Ignores students",
+   "Gives no direction"
+  ],
+  "answer": 0,
+  "explanation": "The authoritative style combines warmth with clear standards."
+ },
+ {
+  "id": "t4-adolescent-psychology-021",
+  "part": "adolescent-psychology",
+  "topic": "teach-methods-evaluation",
+  "text": "Which of the following is a formative assessment technique?",
+  "options": [
+   "The entrance test",
+   "The annual examination",
+   "The board examination",
+   "A short class quiz during the unit"
+  ],
+  "answer": 3,
+  "explanation": "Formative assessment is done during learning to give feedback."
+ },
+ {
+  "id": "t4-adolescent-psychology-022",
+  "part": "adolescent-psychology",
+  "topic": "teach-methods-evaluation",
+  "text": "A debate in class mainly develops:",
+  "options": [
+   "Handwriting",
+   "Reasoning and the ability to present arguments",
+   "Silence",
+   "Memorisation of dates"
+  ],
+  "answer": 1,
+  "explanation": "Debates build argumentation and communication skills."
+ },
+ {
+  "id": "t4-adolescent-psychology-023",
+  "part": "adolescent-psychology",
+  "topic": "teach-methods-evaluation",
+  "text": "Which tool is commonly used to assess co-scholastic areas in CCE?",
+  "options": [
+   "Only written tests",
+   "Only dictation",
+   "Observation checklists",
+   "Only recitation"
+  ],
+  "answer": 2,
+  "explanation": "Checklists and rating scales record behaviour and skills."
+ },
+ {
+  "id": "t4-adolescent-psychology-024",
+  "part": "adolescent-psychology",
+  "topic": "teach-classroom-mgmt",
+  "text": "Moving near a student who is talking in class to stop the behaviour is called:",
+  "options": [
+   "Proximity control",
+   "Detention",
+   "Suspension",
+   "Isolation"
+  ],
+  "answer": 0,
+  "explanation": "Proximity control is a non-verbal, non-punitive management technique."
+ },
+ {
+  "id": "t4-adolescent-psychology-025",
+  "part": "adolescent-psychology",
+  "topic": "teach-personality-ethics",
+  "text": "A balanced personality in a teacher is shown by:",
+  "options": [
+   "Blaming others",
+   "Responding calmly to both praise and criticism",
+   "Being elated by praise and angry at criticism",
+   "Avoiding all feedback"
+  ],
+  "answer": 1,
+  "explanation": "Balance means steady, reasoned responses."
+ },
+ {
+  "id": "t4-adolescent-psychology-026",
+  "part": "adolescent-psychology",
+  "topic": "teach-frameworks",
+  "text": "The National Curriculum Framework 2005 was prepared under the chairmanship of:",
+  "options": [
+   "Ishwarbhai Patel",
+   "Radhakrishnan",
+   "D. S. Kothari",
+   "Yash Pal"
+  ],
+  "answer": 3,
+  "explanation": "The NCF 2005 steering committee was chaired by Prof. Yash Pal."
+ },
+ {
+  "id": "t4-adolescent-psychology-027",
+  "part": "adolescent-psychology",
+  "topic": "teach-frameworks",
+  "text": "The Right to Education Act came into force on:",
+  "options": [
+   "1 April 2010",
+   "15 August 2009",
+   "26 January 2008",
+   "1 January 2011"
+  ],
+  "answer": 0,
+  "explanation": "The Act was passed in 2009 and came into effect on 1 April 2010."
+ },
+ {
+  "id": "t4-malayalam-001",
+  "part": "malayalam",
+  "topic": "ml-comprehension-prose",
+  "text": "ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ജലം ജീവന്റെ ആധാരമാണ്. എന്നാൽ ശുദ്ധജലത്തിന്റെ അളവ് ഭൂമിയിൽ വളരെ കുറവാണ്. അതുകൊണ്ട് ഓരോ തുള്ളി വെള്ളവും നാം സൂക്ഷിച്ച് ഉപയോഗിക്കണം.” ഈ ഭാഗത്തിന്റെ സന്ദേശം എന്താണ്?",
+  "options": [
+   "വെള്ളം ധാരാളം ഉണ്ട്",
+   "ജലം സൂക്ഷിച്ച് ഉപയോഗിക്കണം",
+   "ജലം പാഴാക്കാം",
+   "ജലം ആവശ്യമില്ല"
+  ],
+  "answer": 1,
+  "explanation": "ശുദ്ധജലം കുറവായതിനാൽ അത് സൂക്ഷിച്ച് ഉപയോഗിക്കണമെന്നാണ് അവസാനവാക്യം പറയുന്നത്."
+ },
+ {
+  "id": "t4-malayalam-002",
+  "part": "malayalam",
+  "topic": "ml-comprehension-prose",
+  "text": "ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഗ്രാമങ്ങളിൽ ആളുകൾ പരസ്പരം അറിയുന്നു. ഒരാളുടെ സങ്കടം എല്ലാവരുടെയും സങ്കടമാകുന്നു. നഗരത്തിലെ തിരക്കിൽ ഈ സ്നേഹബന്ധം കുറഞ്ഞു വരുന്നു.” ഖണ്ഡിക അനുസരിച്ച് നഗരത്തിൽ കുറഞ്ഞുവരുന്നത് എന്താണ്?",
+  "options": [
+   "തിരക്ക്",
+   "വാഹനങ്ങൾ",
+   "ആളുകൾ തമ്മിലുള്ള സ്നേഹബന്ധം",
+   "കെട്ടിടങ്ങൾ"
+  ],
+  "answer": 2,
+  "explanation": "അവസാനവാക്യത്തിൽ നഗരത്തിൽ സ്നേഹബന്ധം കുറഞ്ഞുവരുന്നു എന്ന് പറയുന്നു."
+ },
+ {
+  "id": "t4-malayalam-003",
+  "part": "malayalam",
+  "topic": "ml-comprehension-prose",
+  "text": "ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ശാസ്ത്രം മനുഷ്യജീവിതം സുഖപ്രദമാക്കി. എന്നാൽ അതിന്റെ ദുരുപയോഗം വലിയ നാശത്തിനും കാരണമാകും. അതിനാൽ വിവേകത്തോടെ വേണം ശാസ്ത്രത്തെ ഉപയോഗിക്കാൻ.” ‘ദുരുപയോഗം’ എന്ന പദത്തിന്റെ അർഥം എന്താണ്?",
+  "options": [
+   "തെറ്റായ രീതിയിലുള്ള ഉപയോഗം",
+   "കുറച്ചു മാത്രം ഉപയോഗിക്കൽ",
+   "നല്ല രീതിയിലുള്ള ഉപയോഗം",
+   "ഉപയോഗിക്കാതിരിക്കൽ"
+  ],
+  "answer": 0,
+  "explanation": "‘ദുർ’ എന്ന ഉപസർഗം ചീത്തയെ സൂചിപ്പിക്കുന്നു; ദുരുപയോഗം എന്നാൽ തെറ്റായ ഉപയോഗം."
+ },
+ {
+  "id": "t4-malayalam-004",
+  "part": "malayalam",
+  "topic": "ml-comprehension-poetry",
+  "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഗ്രാമമെൻ ഹൃദയത്തിൽ പച്ചപ്പായ് നിൽക്കുന്നു, പാടവും തോടും കിളികൾതൻ പാട്ടും; നഗരമോ തിരക്കിൻ ശബ്ദത്തിൽ മുങ്ങുന്നു, ഗ്രാമത്തിൻ ശാന്തത ഞാനോർത്തിടുന്നു.” കവി ഓർക്കുന്നത് എന്താണ്?",
+  "options": [
+   "വിദ്യാലയം",
+   "വിദേശയാത്ര",
+   "നഗരത്തിന്റെ തിരക്ക്",
+   "ഗ്രാമത്തിന്റെ ശാന്തത"
+  ],
+  "answer": 3,
+  "explanation": "അവസാന വരിയിൽ ‘ഗ്രാമത്തിൻ ശാന്തത ഞാനോർത്തിടുന്നു’ എന്ന് കവി പറയുന്നു."
+ },
+ {
+  "id": "t4-malayalam-005",
+  "part": "malayalam",
+  "topic": "ml-comprehension-poetry",
+  "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “നഗരമോ തിരക്കിൻ ശബ്ദത്തിൽ മുങ്ങുന്നു.” ഇവിടെ നഗരത്തെ കവി എങ്ങനെ ചിത്രീകരിക്കുന്നു?",
+  "options": [
+   "ഭംഗിയില്ലാത്തത് മാത്രം",
+   "ശബ്ദമുഖരിതമായത്",
+   "പച്ചപ്പുള്ളത്",
+   "ശാന്തമായത്"
+  ],
+  "answer": 1,
+  "explanation": "തിരക്കിന്റെ ശബ്ദത്തിൽ മുങ്ങുന്നു എന്നതിനാൽ ശബ്ദമുഖരിതമാണ്."
+ },
+ {
+  "id": "t4-malayalam-006",
+  "part": "malayalam",
+  "topic": "ml-comprehension-poetry",
+  "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഗ്രാമമെൻ ഹൃദയത്തിൽ പച്ചപ്പായ് നിൽക്കുന്നു.” ഈ വരിയിൽ ‘പച്ചപ്പ്’ എന്നത് എന്തിനെ സൂചിപ്പിക്കുന്നു?",
+  "options": [
+   "ഗ്രാമത്തിന്റെ സമൃദ്ധിയെയും മനസ്സിലെ കുളിർമയെയും",
+   "വേനലിനെ",
+   "രോഗത്തെ",
+   "ഒരു നിറത്തെ മാത്രം"
+  ],
+  "answer": 0,
+  "explanation": "ഗ്രാമം കവിയുടെ മനസ്സിൽ പച്ചപ്പായും ഓർമയായും നിൽക്കുന്നു എന്നാണ് ഭാവം."
+ },
+ {
+  "id": "t4-malayalam-007",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘കണ്ണ്’ എന്ന പദത്തിന്റെ പര്യായമല്ലാത്തത് ഏത്?",
+  "options": [
+   "നേത്രം",
+   "നയനം",
+   "ലോചനം",
+   "കാത്"
+  ],
+  "answer": 3,
+  "explanation": "നേത്രം, നയനം, ലോചനം എന്നിവ കണ്ണിന്റെ പര്യായങ്ങളാണ്."
+ },
+ {
+  "id": "t4-malayalam-008",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘പ്രകാശം’ എന്ന പദത്തിന്റെ വിപരീതപദം ഏത്?",
+  "options": [
+   "ദീപം",
+   "ഉജ്ജ്വലം",
+   "അന്ധകാരം",
+   "തേജസ്സ്"
+  ],
+  "answer": 2,
+  "explanation": "പ്രകാശത്തിന്റെ വിപരീതം അന്ധകാരമാണ്."
+ },
+ {
+  "id": "t4-malayalam-009",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘ഗ്രന്ഥം എഴുതുന്നവൻ’ എന്നതിന് ഒറ്റപ്പദം ഏത്?",
+  "options": [
+   "പ്രസാധകൻ",
+   "ഗ്രന്ഥകാരൻ",
+   "വിമർശകൻ",
+   "വായനക്കാരൻ"
+  ],
+  "answer": 1,
+  "explanation": "ഗ്രന്ഥം എഴുതുന്നവൻ ഗ്രന്ഥകാരൻ."
+ },
+ {
+  "id": "t4-malayalam-010",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘അച്ഛൻ എന്നെ വിളിച്ചു’ എന്ന വാക്യത്തിലെ കർത്താവ് ആര്?",
+  "options": [
+   "ഞാൻ",
+   "വിളി",
+   "എന്നെ",
+   "അച്ഛൻ"
+  ],
+  "answer": 3,
+  "explanation": "ക്രിയ ചെയ്യുന്ന ആളാണ് കർത്താവ്; ഇവിടെ വിളിക്കുന്നത് അച്ഛനാണ്."
+ },
+ {
+  "id": "t4-malayalam-011",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "ഉചിതമായ പദം ചേർത്ത് വാക്യം പൂർത്തിയാക്കുക: “കടുത്ത വെയിൽ കാരണം ഞങ്ങൾ മരത്തണലിൽ ......”",
+  "options": [
+   "വിശ്രമിച്ചു",
+   "പാടി",
+   "നീന്തി",
+   "ഓടി"
+  ],
+  "answer": 0,
+  "explanation": "വെയിലിൽ നിന്ന് രക്ഷതേടി തണലിൽ വിശ്രമിക്കുന്നതാണ് യുക്തിസഹം."
+ },
+ {
+  "id": "t4-malayalam-012",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘കവി’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ഏത്?",
+  "options": [
+   "കവിക",
+   "കവിനി",
+   "കവയിത്രി",
+   "കവിയാൾ"
+  ],
+  "answer": 2,
+  "explanation": "‘കവി’യുടെ സ്ത്രീലിംഗം ‘കവയിത്രി’."
+ },
+ {
+  "id": "t4-malayalam-013",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘കുഞ്ഞ്’ എന്ന പദത്തിന്റെ ബഹുവചനം ഏത്?",
+  "options": [
+   "കുഞ്ഞുകൾ",
+   "കുഞ്ഞുങ്ങൾ",
+   "കുഞ്ഞർ",
+   "കുഞ്ഞന്മാർ"
+  ],
+  "answer": 1,
+  "explanation": "‘കുഞ്ഞ്’ എന്ന പദത്തിന്റെ ബഹുവചനം ‘കുഞ്ഞുങ്ങൾ’."
+ },
+ {
+  "id": "t4-malayalam-014",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘മണി + അറ = മണിയറ’ ഏത് സന്ധിക്ക് ഉദാഹരണം?",
+  "options": [
+   "ആഗമസന്ധി",
+   "ആദേശസന്ധി",
+   "ദ്വിത്വസന്ധി",
+   "ലോപസന്ധി"
+  ],
+  "answer": 0,
+  "explanation": "‘യ്’ എന്ന വർണം പുതുതായി വരുന്നതിനാൽ ആഗമസന്ധി."
+ },
+ {
+  "id": "t4-malayalam-015",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘മരത്തിൽ’ എന്ന പദം ഏത് വിഭക്തിയിൽപ്പെടുന്നു?",
+  "options": [
+   "പ്രയോജിക",
+   "ഉദ്ദേശിക",
+   "നിർദ്ദേശിക",
+   "ആധാരിക"
+  ],
+  "answer": 3,
+  "explanation": "‘-ഇൽ’ പ്രത്യയം ആധാരിക വിഭക്തിയുടേതാണ്."
+ },
+ {
+  "id": "t4-malayalam-016",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘കണ്ണിൽ പൊടിയിടുക’ എന്ന ശൈലിയുടെ അർഥം ഏത്?",
+  "options": [
+   "സഹായിക്കുക",
+   "കരയുക",
+   "വഞ്ചിക്കുക",
+   "കണ്ണ് വൃത്തിയാക്കുക"
+  ],
+  "answer": 2,
+  "explanation": "ഒരാളെ കബളിപ്പിച്ച് വഞ്ചിക്കുക എന്നാണ് ഇതിന്റെ അർഥം."
+ },
+ {
+  "id": "t4-malayalam-017",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘അരമനരഹസ്യം അങ്ങാടിപ്പാട്ട്’ എന്ന പഴഞ്ചൊല്ലിന്റെ ആശയം ഏത്?",
+  "options": [
+   "അരമന വലുതാണ്",
+   "രഹസ്യങ്ങൾ എപ്പോഴും പുറത്തുവരും",
+   "അങ്ങാടിയിൽ പാട്ടുണ്ട്",
+   "രഹസ്യം സൂക്ഷിക്കണം എന്നു മാത്രം"
+  ],
+  "answer": 1,
+  "explanation": "രഹസ്യമായ കാര്യം പെട്ടെന്ന് എല്ലാവരും അറിയും എന്നാണ് ഇതിന്റെ അർഥം."
+ },
+ {
+  "id": "t4-malayalam-018",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘ചെമ്മീൻ’ എന്ന നോവൽ രചിച്ചതാര്?",
+  "options": [
+   "വൈക്കം മുഹമ്മദ് ബഷീർ",
+   "ഉറൂബ്",
+   "തകഴി ശിവശങ്കരപ്പിള്ള",
+   "കേശവദേവ്"
+  ],
+  "answer": 2,
+  "explanation": "ചെമ്മീൻ തകഴിയുടെ പ്രശസ്തമായ നോവലാണ്."
+ },
+ {
+  "id": "t4-malayalam-019",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘മാർത്താണ്ഡവർമ്മ’ എന്ന ചരിത്രനോവൽ രചിച്ചതാര്?",
+  "options": [
+   "അപ്പു നെടുങ്ങാടി",
+   "ഒ. ചന്തുമേനോൻ",
+   "ഇ. വി. കൃഷ്ണപിള്ള",
+   "സി. വി. രാമൻപിള്ള"
+  ],
+  "answer": 3,
+  "explanation": "മാർത്താണ്ഡവർമ്മ എഴുതിയത് സി. വി. രാമൻപിള്ളയാണ്."
+ },
+ {
+  "id": "t4-malayalam-020",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "ജ്ഞാനപീഠം പുരസ്കാരം നേടിയ ആദ്യ മലയാളി ആര്?",
+  "options": [
+   "ജി. ശങ്കരക്കുറുപ്പ്",
+   "തകഴി",
+   "എം. ടി.",
+   "എസ്. കെ. പൊറ്റെക്കാട്ട്"
+  ],
+  "answer": 0,
+  "explanation": "1965-ൽ ‘ഓടക്കുഴൽ’ എന്ന കൃതിക്ക് ജി. ശങ്കരക്കുറുപ്പിന് ലഭിച്ചു."
+ },
+ {
+  "id": "t4-physical-science-001",
+  "part": "physical-science",
+  "topic": "phy-waves",
+  "text": "Which of the following is a transverse wave?",
+  "options": [
+   "Compression wave in a spring",
+   "Light",
+   "Ultrasonic wave in water",
+   "Sound in air"
+  ],
+  "answer": 1,
+  "explanation": "Light is a transverse electromagnetic wave; sound waves in fluids are longitudinal."
+ },
+ {
+  "id": "t4-physical-science-002",
+  "part": "physical-science",
+  "topic": "phy-waves",
+  "text": "The pitch of a sound depends on its:",
+  "options": [
+   "Speed",
+   "Intensity",
+   "Amplitude",
+   "Frequency"
+  ],
+  "answer": 3,
+  "explanation": "Higher frequency means higher pitch; amplitude decides loudness."
+ },
+ {
+  "id": "t4-physical-science-003",
+  "part": "physical-science",
+  "topic": "phy-light",
+  "text": "An object is placed 20 cm in front of a convex lens of focal length 10 cm. The image is formed at a distance of:",
+  "options": [
+   "10 cm",
+   "20 cm",
+   "30 cm",
+   "40 cm"
+  ],
+  "answer": 1,
+  "explanation": "1/v = 1/f + 1/u = 1/10 - 1/20 = 1/20, so v = 20 cm."
+ },
+ {
+  "id": "t4-physical-science-004",
+  "part": "physical-science",
+  "topic": "phy-light",
+  "text": "The image formed by a plane mirror is:",
+  "options": [
+   "Real and inverted",
+   "Real and magnified",
+   "Virtual, erect and of the same size",
+   "Virtual and diminished"
+  ],
+  "answer": 2,
+  "explanation": "A plane mirror forms a virtual, erect image the same size as the object, laterally inverted."
+ },
+ {
+  "id": "t4-physical-science-005",
+  "part": "physical-science",
+  "topic": "phy-force-pressure",
+  "text": "A force of 100 N acts on an area of 0.5 m². The pressure is:",
+  "options": [
+   "20 Pa",
+   "50 Pa",
+   "200 Pa",
+   "5000 Pa"
+  ],
+  "answer": 2,
+  "explanation": "P = F/A = 100 / 0.5 = 200 Pa."
+ },
+ {
+  "id": "t4-physical-science-006",
+  "part": "physical-science",
+  "topic": "phy-heat",
+  "text": "A temperature of 50 °C is equal to how many degrees Fahrenheit?",
+  "options": [
+   "82 °F",
+   "90 °F",
+   "122 °F",
+   "212 °F"
+  ],
+  "answer": 2,
+  "explanation": "F = 50 x 9/5 + 32 = 122."
+ },
+ {
+  "id": "t4-physical-science-007",
+  "part": "physical-science",
+  "topic": "phy-motion",
+  "text": "The area under a velocity-time graph gives the:",
+  "options": [
+   "Displacement",
+   "Force",
+   "Momentum",
+   "Acceleration"
+  ],
+  "answer": 0,
+  "explanation": "Area under the v-t graph is the displacement; the slope is the acceleration."
+ },
+ {
+  "id": "t4-physical-science-008",
+  "part": "physical-science",
+  "topic": "phy-motion",
+  "text": "The momentum of a 2 kg body moving at 5 m/s is:",
+  "options": [
+   "2.5 kg m/s",
+   "5 kg m/s",
+   "10 kg m/s",
+   "25 kg m/s"
+  ],
+  "answer": 2,
+  "explanation": "p = mv = 2 x 5 = 10 kg m/s."
+ },
+ {
+  "id": "t4-physical-science-009",
+  "part": "physical-science",
+  "topic": "phy-gravitation",
+  "text": "If the distance between two masses is doubled, the gravitational force between them becomes:",
+  "options": [
+   "Halved",
+   "Four times",
+   "Doubled",
+   "One-fourth"
+  ],
+  "answer": 3,
+  "explanation": "F is proportional to 1/r², so doubling r reduces F to one-fourth."
+ },
+ {
+  "id": "t4-physical-science-010",
+  "part": "physical-science",
+  "topic": "phy-work-energy",
+  "text": "A person holds a heavy load stationary for some time. The work done on the load by the person is:",
+  "options": [
+   "Negative",
+   "Zero",
+   "Equal to its weight",
+   "Maximum"
+  ],
+  "answer": 1,
+  "explanation": "There is no displacement, so W = Fs = 0."
+ },
+ {
+  "id": "t4-physical-science-011",
+  "part": "physical-science",
+  "topic": "phy-electricity-magnetism",
+  "text": "Three resistors of 2 Ω, 3 Ω and 5 Ω are connected in series. The total resistance is:",
+  "options": [
+   "3 Ω",
+   "5 Ω",
+   "10 Ω",
+   "30 Ω"
+  ],
+  "answer": 2,
+  "explanation": "In series, resistances add: 2 + 3 + 5 = 10 Ω."
+ },
+ {
+  "id": "t4-physical-science-012",
+  "part": "physical-science",
+  "topic": "phy-electricity-magnetism",
+  "text": "The SI unit of resistivity is:",
+  "options": [
+   "Ohm",
+   "Ohm per metre",
+   "Ohm metre",
+   "Siemens"
+  ],
+  "answer": 2,
+  "explanation": "Resistivity = RA/l, so the unit is ohm metre."
+ },
+ {
+  "id": "t4-physical-science-013",
+  "part": "physical-science",
+  "topic": "phy-electricity-magnetism",
+  "text": "Two like magnetic poles:",
+  "options": [
+   "Repel each other",
+   "Neither attract nor repel",
+   "Cancel each other",
+   "Attract each other"
+  ],
+  "answer": 0,
+  "explanation": "Like poles repel; unlike poles attract."
+ },
+ {
+  "id": "t4-physical-science-014",
+  "part": "physical-science",
+  "topic": "phy-current-effects-emi",
+  "text": "Lenz's law is a consequence of the law of conservation of:",
+  "options": [
+   "Charge only",
+   "Momentum",
+   "Energy",
+   "Mass"
+  ],
+  "answer": 2,
+  "explanation": "The induced current opposes the change that causes it, which conserves energy."
+ },
+ {
+  "id": "t4-physical-science-015",
+  "part": "physical-science",
+  "topic": "phy-current-effects-emi",
+  "text": "Alternating current supplied in India has a frequency of:",
+  "options": [
+   "25 Hz",
+   "50 Hz",
+   "60 Hz",
+   "100 Hz"
+  ],
+  "answer": 1,
+  "explanation": "The mains frequency in India is 50 Hz."
+ },
+ {
+  "id": "t4-physical-science-016",
+  "part": "physical-science",
+  "topic": "phy-electronics",
+  "text": "When a p-n junction is forward biased, the depletion region:",
+  "options": [
+   "Widens",
+   "Remains unchanged",
+   "Disappears forever",
+   "Narrows"
+  ],
+  "answer": 3,
+  "explanation": "Forward bias pushes carriers towards the junction, narrowing the depletion layer."
+ },
+ {
+  "id": "t4-physical-science-017",
+  "part": "physical-science",
+  "topic": "phy-electronics",
+  "text": "The main advantage of an integrated circuit (IC) is its:",
+  "options": [
+   "High weight",
+   "Small size, low cost and reliability",
+   "Low speed",
+   "Large size"
+  ],
+  "answer": 1,
+  "explanation": "Thousands of components fit on a tiny chip."
+ },
+ {
+  "id": "t4-physical-science-018",
+  "part": "physical-science",
+  "topic": "chem-changes",
+  "text": "Which of the following is a chemical change?",
+  "options": [
+   "Burning of magnesium ribbon",
+   "Melting of wax",
+   "Dissolving salt in water",
+   "Boiling of water"
+  ],
+  "answer": 0,
+  "explanation": "Magnesium burns to form magnesium oxide, a new substance."
+ },
+ {
+  "id": "t4-physical-science-019",
+  "part": "physical-science",
+  "topic": "chem-atoms-molecules",
+  "text": "The atomic number of an element is the number of:",
+  "options": [
+   "Electron shells",
+   "Protons plus neutrons",
+   "Neutrons",
+   "Protons"
+  ],
+  "answer": 3,
+  "explanation": "Atomic number equals the number of protons in the nucleus."
+ },
+ {
+  "id": "t4-physical-science-020",
+  "part": "physical-science",
+  "topic": "chem-atoms-molecules",
+  "text": "Thomson's model of the atom is often called the:",
+  "options": [
+   "Shell model",
+   "Wave model",
+   "Plum pudding model",
+   "Planetary model"
+  ],
+  "answer": 2,
+  "explanation": "He imagined electrons embedded in a positively charged sphere."
+ },
+ {
+  "id": "t4-physical-science-021",
+  "part": "physical-science",
+  "topic": "chem-metals",
+  "text": "Which metal can displace copper from a copper sulphate solution?",
+  "options": [
+   "Mercury",
+   "Zinc",
+   "Gold",
+   "Silver"
+  ],
+  "answer": 1,
+  "explanation": "Zinc is more reactive than copper, so it displaces copper."
+ },
+ {
+  "id": "t4-physical-science-022",
+  "part": "physical-science",
+  "topic": "chem-metals",
+  "text": "The property of metals by which they can be drawn into thin wires is called:",
+  "options": [
+   "Ductility",
+   "Sonority",
+   "Lustre",
+   "Malleability"
+  ],
+  "answer": 0,
+  "explanation": "Ductility is the ability to be drawn into wires; malleability is beating into sheets."
+ },
+ {
+  "id": "t4-physical-science-023",
+  "part": "physical-science",
+  "topic": "chem-solutions-colloids",
+  "text": "A solution contains 10 g of salt dissolved in 90 g of water. The mass percentage of salt is:",
+  "options": [
+   "5%",
+   "10%",
+   "11.1%",
+   "90%"
+  ],
+  "answer": 1,
+  "explanation": "Mass percentage = 10 / (10 + 90) x 100 = 10%."
+ },
+ {
+  "id": "t4-physical-science-024",
+  "part": "physical-science",
+  "topic": "chem-matter-separation",
+  "text": "A mixture of sodium chloride and ammonium chloride can be separated by:",
+  "options": [
+   "Decantation",
+   "Filtration",
+   "Sublimation",
+   "Centrifugation"
+  ],
+  "answer": 2,
+  "explanation": "Ammonium chloride sublimes on heating, while sodium chloride does not."
+ },
+ {
+  "id": "t4-physical-science-025",
+  "part": "physical-science",
+  "topic": "chem-periodic-table",
+  "text": "The noble gases belong to group:",
+  "options": [
+   "1",
+   "16",
+   "17",
+   "18"
+  ],
+  "answer": 3,
+  "explanation": "Helium, neon, argon and others are in group 18."
+ },
+ {
+  "id": "t4-physical-science-026",
+  "part": "physical-science",
+  "topic": "chem-periodic-table",
+  "text": "Across a period from left to right, ionisation energy generally:",
+  "options": [
+   "Increases",
+   "Becomes zero",
+   "Decreases",
+   "Remains constant"
+  ],
+  "answer": 0,
+  "explanation": "Greater nuclear pull makes it harder to remove an electron."
+ },
+ {
+  "id": "t4-physical-science-027",
+  "part": "physical-science",
+  "topic": "chem-bonding",
+  "text": "A covalent bond is formed by:",
+  "options": [
+   "Loss of protons",
+   "Attraction of nuclei",
+   "Transfer of electrons",
+   "Sharing of electron pairs"
+  ],
+  "answer": 3,
+  "explanation": "Atoms share pairs of electrons to complete their octets."
+ },
+ {
+  "id": "t4-physical-science-028",
+  "part": "physical-science",
+  "topic": "chem-non-metals",
+  "text": "In the laboratory, hydrogen chloride gas is prepared by heating sodium chloride with:",
+  "options": [
+   "Dilute nitric acid",
+   "Concentrated sulphuric acid",
+   "Sodium hydroxide",
+   "Water"
+  ],
+  "answer": 1,
+  "explanation": "NaCl + H₂SO₄ gives NaHSO₄ + HCl."
+ },
+ {
+  "id": "t4-physical-science-029",
+  "part": "physical-science",
+  "topic": "chem-non-metals",
+  "text": "Which of these gases is the main contributor to the enhanced greenhouse effect (global warming) caused by human activity?",
+  "options": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Argon",
+   "Oxygen"
+  ],
+  "answer": 0,
+  "explanation": "Carbon dioxide released by burning fuels traps extra heat in the atmosphere."
+ },
+ {
+  "id": "t4-physical-science-030",
+  "part": "physical-science",
+  "topic": "chem-organic",
+  "text": "Which of the following is an unsaturated hydrocarbon?",
+  "options": [
+   "Methane",
+   "Ethene",
+   "Ethane",
+   "Propane"
+  ],
+  "answer": 1,
+  "explanation": "Ethene (C₂H₄) has a carbon-carbon double bond; the others have only single bonds."
+ },
+ {
+  "id": "t4-physical-science-031",
+  "part": "physical-science",
+  "topic": "chem-acids-alkalis",
+  "text": "Antacid tablets are used to relieve acidity because they contain:",
+  "options": [
+   "Sugar",
+   "Acids",
+   "Salt only",
+   "Bases that neutralise excess stomach acid"
+  ],
+  "answer": 3,
+  "explanation": "Mild bases such as magnesium hydroxide neutralise stomach acid."
+ },
+ {
+  "id": "t4-physical-science-032",
+  "part": "physical-science",
+  "topic": "chem-gas-laws",
+  "text": "\"Equal volumes of all gases at the same temperature and pressure contain equal numbers of molecules.\" This is:",
+  "options": [
+   "Dalton's law",
+   "Boyle's law",
+   "Avogadro's law",
+   "Charles's law"
+  ],
+  "answer": 2,
+  "explanation": "This statement is Avogadro's law."
+ },
+ {
+  "id": "t4-physical-science-033",
+  "part": "physical-science",
+  "topic": "chem-mole-rates",
+  "text": "The number of moles in 11 g of carbon dioxide (C = 12, O = 16) is:",
+  "options": [
+   "0.25",
+   "0.5",
+   "1",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "Molar mass of CO₂ = 44 g, so 11 / 44 = 0.25 mol."
+ },
+ {
+  "id": "t4-physical-science-034",
+  "part": "physical-science",
+  "topic": "ped-science-india",
+  "text": "Which Indian scientist is associated with Bose statistics?",
+  "options": [
+   "K. S. Krishnan",
+   "S. Ramanujan",
+   "Satyendra Nath Bose",
+   "Meghnad Saha"
+  ],
+  "answer": 2,
+  "explanation": "Bose's work with Einstein led to Bose-Einstein statistics."
+ },
+ {
+  "id": "t4-physical-science-035",
+  "part": "physical-science",
+  "topic": "ped-aims-objectives",
+  "text": "In the revised Bloom's taxonomy, the highest cognitive level is:",
+  "options": [
+   "Understanding",
+   "Creating",
+   "Analysing",
+   "Remembering"
+  ],
+  "answer": 1,
+  "explanation": "The revised levels end with creating, above evaluating."
+ },
+ {
+  "id": "t4-physical-science-036",
+  "part": "physical-science",
+  "topic": "ped-aims-objectives",
+  "text": "The recreational value of science teaching is achieved through:",
+  "options": [
+   "Hobbies, science clubs and activities",
+   "Written tests only",
+   "Long lectures",
+   "Dictation"
+  ],
+  "answer": 0,
+  "explanation": "Hobbies and clubs let pupils enjoy science in leisure time."
+ },
+ {
+  "id": "t4-physical-science-037",
+  "part": "physical-science",
+  "topic": "ped-aims-objectives",
+  "text": "The practical value of science teaching is seen when a learner:",
+  "options": [
+   "Copies notes",
+   "Memorises definitions",
+   "Scores marks only",
+   "Applies science to daily life, for example in food preservation"
+  ],
+  "answer": 3,
+  "explanation": "The practical value links science to everyday needs."
+ },
+ {
+  "id": "t4-physical-science-038",
+  "part": "physical-science",
+  "topic": "ped-theory-basis",
+  "text": "Problem-based learning usually begins with:",
+  "options": [
+   "Silent reading",
+   "An open, real-life problem",
+   "A final test",
+   "A lecture"
+  ],
+  "answer": 1,
+  "explanation": "Learners start from a real problem and work to solve it."
+ },
+ {
+  "id": "t4-physical-science-039",
+  "part": "physical-science",
+  "topic": "ped-theory-basis",
+  "text": "Piaget's theory suggests that teaching should be matched to the learner's:",
+  "options": [
+   "Height",
+   "Hobby only",
+   "Handwriting",
+   "Cognitive developmental stage"
+  ],
+  "answer": 3,
+  "explanation": "Tasks should suit the child's stage of thinking."
+ },
+ {
+  "id": "t4-physical-science-040",
+  "part": "physical-science",
+  "topic": "ped-planning",
+  "text": "Which of the following is an advantage of video lessons in science?",
+  "options": [
+   "They can show processes that are hard to see directly",
+   "They give no feedback",
+   "They need no electricity",
+   "They remove the need for any teacher"
+  ],
+  "answer": 0,
+  "explanation": "Videos can show microscopic, distant or dangerous phenomena."
+ },
+ {
+  "id": "t4-physical-science-041",
+  "part": "physical-science",
+  "topic": "ped-planning",
+  "text": "An important component at the end of a lesson plan is:",
+  "options": [
+   "Tea break",
+   "School history",
+   "Evaluation and assignment",
+   "The teacher's biography"
+  ],
+  "answer": 2,
+  "explanation": "A lesson plan closes with evaluation and follow-up work."
+ },
+ {
+  "id": "t4-physical-science-042",
+  "part": "physical-science",
+  "topic": "ped-models",
+  "text": "The syntax of a teaching model, according to Joyce and Weil, refers to:",
+  "options": [
+   "The sequence of phases or steps of the model",
+   "The grammar of the lesson",
+   "The classroom size",
+   "The marks scheme"
+  ],
+  "answer": 0,
+  "explanation": "Syntax describes the phases of the model."
+ },
+ {
+  "id": "t4-physical-science-043",
+  "part": "physical-science",
+  "topic": "ped-models",
+  "text": "The inductive thinking model was developed by:",
+  "options": [
+   "Skinner",
+   "Ausubel",
+   "Hilda Taba",
+   "Suchman"
+  ],
+  "answer": 2,
+  "explanation": "Hilda Taba's model teaches students to form concepts from data."
+ },
+ {
+  "id": "t4-physical-science-044",
+  "part": "physical-science",
+  "topic": "ped-methods",
+  "text": "In the guided discovery method, the teacher:",
+  "options": [
+   "Only dictates",
+   "Leaves the class",
+   "Gives all the answers",
+   "Provides hints and questions but lets pupils find the answer"
+  ],
+  "answer": 3,
+  "explanation": "The teacher guides without telling the answer."
+ },
+ {
+  "id": "t4-physical-science-045",
+  "part": "physical-science",
+  "topic": "ped-methods",
+  "text": "A limitation of the pure lecture method in science is that it:",
+  "options": [
+   "Is expensive",
+   "Keeps learners passive",
+   "Needs many laboratories",
+   "Is too active"
+  ],
+  "answer": 1,
+  "explanation": "Lectures make learners listeners rather than active participants."
+ },
+ {
+  "id": "t4-physical-science-046",
+  "part": "physical-science",
+  "topic": "ped-methods",
+  "text": "Which method is best for developing manipulative skills?",
+  "options": [
+   "Story telling",
+   "Lecture method",
+   "Dictation",
+   "Laboratory method"
+  ],
+  "answer": 3,
+  "explanation": "Handling apparatus builds manipulative skill."
+ },
+ {
+  "id": "t4-physical-science-047",
+  "part": "physical-science",
+  "topic": "ped-approaches",
+  "text": "The integrated approach in science teaching presents:",
+  "options": [
+   "Only recall questions",
+   "Physics, chemistry and biology as parts of general science",
+   "Subjects strictly separate",
+   "Only physics"
+  ],
+  "answer": 1,
+  "explanation": "It combines content from several branches into a unified whole."
+ },
+ {
+  "id": "t4-physical-science-048",
+  "part": "physical-science",
+  "topic": "ped-curriculum",
+  "text": "A core curriculum is:",
+  "options": [
+   "An optional hobby course",
+   "A list of holidays",
+   "The set of essential learnings common to all learners",
+   "A sports programme"
+  ],
+  "answer": 2,
+  "explanation": "The core curriculum contains the common essentials for everyone."
+ },
+ {
+  "id": "t4-physical-science-049",
+  "part": "physical-science",
+  "topic": "ped-curriculum",
+  "text": "The language of a good science textbook should be:",
+  "options": [
+   "Suited to the learners' level and clear",
+   "Full of difficult terms",
+   "Unrelated to pupils",
+   "Very ornate"
+  ],
+  "answer": 0,
+  "explanation": "Clear, graded language helps comprehension."
+ },
+ {
+  "id": "t4-physical-science-050",
+  "part": "physical-science",
+  "topic": "ped-labs-clubs",
+  "text": "A school science library helps learners by providing:",
+  "options": [
+   "Uniforms",
+   "Sports equipment",
+   "Reference books and periodicals for self-study",
+   "Only fiction"
+  ],
+  "answer": 2,
+  "explanation": "A science library supports wider reading and self-study."
+ },
+ {
+  "id": "t4-physical-science-051",
+  "part": "physical-science",
+  "topic": "ped-evaluation",
+  "text": "An achievement test measures:",
+  "options": [
+   "Only intelligence",
+   "What the student has learned",
+   "Only personality",
+   "Only height"
+  ],
+  "answer": 1,
+  "explanation": "An achievement test assesses learning of content and skills."
+ },
+ {
+  "id": "t4-physical-science-052",
+  "part": "physical-science",
+  "topic": "ped-evaluation",
+  "text": "Open-book examinations mainly test:",
+  "options": [
+   "Attendance",
+   "Handwriting speed only",
+   "Ability to memorise",
+   "Ability to apply and use information"
+  ],
+  "answer": 3,
+  "explanation": "Such tests focus on application, not recall."
+ },
+ {
+  "id": "t4-physical-science-053",
+  "part": "physical-science",
+  "topic": "ped-professional",
+  "text": "Observing one another's classes and giving feedback helps teachers by:",
+  "options": [
+   "Sharing good practice and improving their teaching",
+   "Avoiding reflection",
+   "Wasting class time",
+   "Lowering standards"
+  ],
+  "answer": 0,
+  "explanation": "Peer observation is a practical way to learn from colleagues."
+ }
+]

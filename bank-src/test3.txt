@@ -1,0 +1,199 @@
+# Mock test 3. Format: question ||| A ||| B ||| C ||| D ||| correct letter ||| explanation (never cite option letters in explanations)
+
+## psy-adolescence
+The word "adolescence" comes from the Latin word "adolescere", which means: ||| To grow up or grow to maturity ||| To play ||| To obey ||| To remember ||| A ||| Adolescere means to grow up towards maturity.
+Which of the following is typical of emotional development in adolescence? ||| Complete emotional stability ||| Heightened emotions and mood swings ||| Absence of feelings ||| Fear of all social contact ||| B ||| Hormonal and social changes make adolescent emotions intense and changeable.
+
+## psy-problems
+A student with a strong aggressive urge takes up boxing and wins medals. This defence mechanism is: ||| Sublimation ||| Regression ||| Denial ||| Repression ||| A ||| Sublimation channels an unacceptable impulse into a socially approved activity.
+Substance abuse among adolescents is best prevented by: ||| Strict punishment alone ||| Awareness programmes, life-skills training and a supportive environment ||| Ignoring the problem ||| Banning all friendships ||| B ||| Prevention works through education, life skills and support.
+
+## psy-dev-theories
+Which stage of Freud's psychosexual theory covers puberty and adolescence? ||| Oral stage ||| Latency stage ||| Genital stage ||| Phallic stage ||| C ||| The genital stage begins at puberty.
+Kohlberg studied moral reasoning mainly by presenting people with: ||| Moral dilemmas such as the Heinz dilemma ||| Intelligence tests ||| Drawing tasks ||| Memory lists ||| A ||| He asked subjects to reason about hypothetical moral dilemmas.
+The ability to understand that an object still exists when it is out of sight develops in Piaget's: ||| Sensorimotor stage ||| Preoperational stage ||| Concrete operational stage ||| Formal operational stage ||| A ||| Object permanence is the main achievement of the sensorimotor stage.
+
+## learn-nature-factors
+Thorndike's theory of identical elements explains: ||| Forgetting ||| Transfer of learning ||| Intelligence ||| Motivation ||| B ||| Transfer is greater when two tasks share identical elements.
+Which type of practice is generally more effective for long-term retention? ||| Massed practice in one long session ||| Distributed practice over several sessions ||| No practice ||| Practice only before examinations ||| B ||| Spacing study sessions improves retention.
+A period of no apparent progress in a learning curve is called a: ||| Plateau ||| Peak ||| Slope ||| Dip ||| A ||| A plateau is a flat stretch in the learning curve.
+
+## learn-creativity
+The Torrance Tests are used to measure: ||| Intelligence ||| Creative thinking ||| Personality disorders ||| Reading speed ||| B ||| The Torrance Tests of Creative Thinking assess fluency, flexibility, originality and elaboration.
+Which of the following is a barrier to creativity in the classroom? ||| Freedom to ask questions ||| Fear of failure and strict rules about the one right answer ||| Open-ended activities ||| Encouragement of new ideas ||| B ||| Fear of mistakes and rigid answers discourage original thinking.
+
+## learn-theories
+Bandura's social learning theory states that people learn largely by: ||| Observing and imitating models ||| Trial and error alone ||| Reward and punishment alone ||| Instinct ||| A ||| Observational learning from models is the core of Bandura's theory.
+Kurt Lewin's field theory explains behaviour as a function of the person and the: ||| Heredity ||| Psychological environment ||| Intelligence quotient ||| Age ||| B ||| Behaviour is a function of the person and the environment, B = f(P, E); together they form the life space.
+In classical conditioning, repeatedly presenting the conditioned stimulus without the unconditioned stimulus leads to: ||| Extinction ||| Reinforcement ||| Generalisation ||| Discrimination ||| A ||| The conditioned response gradually disappears: extinction.
+
+## learn-special-needs
+Braille is a system of reading and writing used by: ||| Hearing-impaired learners ||| Visually impaired learners ||| Learners with dyslexia only ||| Gifted learners only ||| B ||| Braille uses raised dots read by touch.
+Gifted children are best helped through: ||| Enrichment and acceleration programmes ||| Repetition of easy tasks ||| Ignoring their needs ||| Punishment for being different ||| A ||| Enrichment and acceleration meet their need for challenge.
+
+## teach-nature-roles
+Before planning a lesson, an effective teacher first tries to know the learners': ||| Needs and prior knowledge ||| Family income ||| Religion ||| Birthdays ||| A ||| Identifying learner needs and prior knowledge is the basis of planning.
+A teacher who advises learners and shows them the right path acts as a: ||| Guide ||| Judge ||| Dictator ||| Clerk ||| A ||| A guide helps learners find their own way.
+A teacher who influences pupils by setting an example through his own conduct and values acts as a: ||| Source of all knowledge ||| Role model ||| Strict punisher ||| Passive observer ||| B ||| Pupils learn values by observing the teacher's behaviour.
+
+## teach-methods-evaluation
+A seminar is a teaching technique in which: ||| The teacher reads the text aloud ||| Participants present and discuss a prepared topic ||| Students copy notes ||| The class is silent ||| B ||| In a seminar participants prepare and present papers followed by discussion.
+The reliability of a test means: ||| It measures what it is supposed to measure ||| It gives consistent results ||| It is easy to administer ||| It is short ||| B ||| Reliability is consistency; validity is measuring what is intended.
+A question bank is: ||| A collection of tested questions classified by topic and difficulty ||| A place to keep money ||| A list of students ||| A timetable ||| A ||| A question bank stores good questions for later use.
+
+## teach-classroom-mgmt
+Classroom rules are most effective when they are: ||| Imposed without explanation ||| Framed clearly with the participation of students ||| Changed daily ||| Known only to the teacher ||| B ||| Rules made with students are better understood and followed.
+
+## teach-personality-ethics
+Which of the following is the most essential value in a teacher? ||| Integrity and honesty ||| Wealth ||| Fame ||| Strictness only ||| A ||| Integrity and honesty earn trust and set an example.
+
+## teach-frameworks
+The Kerala Curriculum Framework 2007 is based on which approach to learning? ||| Constructivist approach ||| Behaviourist approach ||| Rote approach ||| Dictation approach ||| A ||| The KCF 2007 follows the constructivist, activity-based approach.
+Which of the following is prohibited by the RTE Act 2009? ||| Free textbooks ||| Physical punishment and mental harassment of children ||| Mid-day meals ||| Neighbourhood schools ||| B ||| The Act bans physical punishment and mental harassment.
+
+## ml-comprehension-prose
+ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “വായന മരിക്കുന്നു എന്ന് ചിലർ പറയുന്നു. എന്നാൽ മൊബൈൽ ഫോണിലൂടെയും വായിക്കുന്നവർ ധാരാളമുണ്ട്. മാധ്യമം മാറിയെന്നേയുള്ളൂ, വായന മരിച്ചിട്ടില്ല.” ഈ ഭാഗത്തിന്റെ ആശയം എന്താണ്? ||| വായന പൂർണമായും ഇല്ലാതായി ||| വായനയുടെ മാധ്യമം മാറി, എന്നാൽ വായന നിലച്ചിട്ടില്ല ||| മൊബൈൽ ഫോൺ ഉപയോഗിക്കരുത് ||| ആരും വായിക്കുന്നില്ല ||| B ||| അവസാനവാക്യം മാധ്യമം മാറിയെന്നും വായന മരിച്ചിട്ടില്ലെന്നും പറയുന്നു.
+ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “മരങ്ങൾ നമുക്ക് തണലും പ്രാണവായുവും നൽകുന്നു. മരം മുറിക്കുമ്പോൾ നാം പ്രകൃതിയെ മാത്രമല്ല, നമ്മെത്തന്നെയാണ് ദ്രോഹിക്കുന്നത്.” ‘നമ്മെത്തന്നെയാണ് ദ്രോഹിക്കുന്നത്’ എന്ന് പറയാൻ കാരണം എന്താണ്? ||| മരങ്ങൾ വിലയേറിയതാണ് ||| മരമില്ലാതായാൽ തണലും പ്രാണവായുവും നമുക്ക് നഷ്ടമാകും ||| മരം മുറിക്കുന്നത് ശിക്ഷാർഹമാണ് ||| മരങ്ങൾ മനുഷ്യരാണ് ||| B ||| മരങ്ങൾ നൽകുന്ന തണലും പ്രാണവായുവും ഇല്ലാതാകുന്നത് നമ്മെത്തന്നെ ബാധിക്കും.
+ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഗാന്ധിജി സത്യത്തെ ദൈവമായി കണ്ടു. അഹിംസയായിരുന്നു അദ്ദേഹത്തിന്റെ ആയുധം.” ഗാന്ധിജിയുടെ ആയുധം എന്തായിരുന്നു? ||| തോക്ക് ||| അഹിംസ ||| പണം ||| സൈന്യം ||| B ||| ഖണ്ഡികയിൽ ‘അഹിംസയായിരുന്നു അദ്ദേഹത്തിന്റെ ആയുധം’ എന്ന് പറയുന്നു.
+
+## ml-comprehension-poetry
+വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “വിദ്യ നേടുക നാം ജീവിതത്തിൻ വെളിച്ചമാകുമത് നിശ്ചയം; വിനയമോടെ പഠിച്ചിടേണം വിജയമെത്തും പിന്നാലെ.” ഈ വരികളിലെ സന്ദേശം എന്താണ്? ||| വിദ്യ ജീവിതത്തിന് വെളിച്ചമാണ്; വിനയത്തോടെ പഠിച്ചാൽ വിജയം ലഭിക്കും ||| പഠിക്കേണ്ടതില്ല ||| വിജയം കാത്തിരിക്കണം ||| വെളിച്ചം വേണ്ട ||| A ||| വിദ്യയുടെ പ്രാധാന്യവും വിനയത്തോടെയുള്ള പഠനവുമാണ് വരികളുടെ കാതൽ.
+വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “വിനയമോടെ പഠിച്ചിടേണം വിജയമെത്തും പിന്നാലെ.” ‘വിനയമോടെ’ എന്ന പദത്തിന്റെ അർഥം എന്താണ്? ||| അഹങ്കാരത്തോടെ ||| എളിമയോടെ ||| ദേഷ്യത്തോടെ ||| അലസതയോടെ ||| B ||| വിനയം എന്നാൽ എളിമ എന്നാണ് അർഥം.
+വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഒരു തൈ നടാം നമുക്കിന്ന്, നാളെയതൊരു തണലായ് നിൽക്കും.” ഈ വരികൾ പ്രോത്സാഹിപ്പിക്കുന്നത് എന്താണ്? ||| മരം മുറിക്കൽ ||| മരം നടൽ ||| വീടുപണി ||| യാത്ര ||| B ||| ഇന്ന് തൈ നട്ടാൽ നാളെ അത് തണൽ നൽകും എന്ന് വരികൾ പറയുന്നു.
+
+## ml-expression
+‘സൂര്യൻ’ എന്ന പദത്തിന്റെ പര്യായമല്ലാത്തത് ഏത്? ||| ഭാനു ||| ആദിത്യൻ ||| ദിവാകരൻ ||| ചന്ദ്രൻ ||| D ||| ഭാനു, ആദിത്യൻ, ദിവാകരൻ എന്നിവ സൂര്യന്റെ പര്യായങ്ങളാണ്.
+‘സുഖം’ എന്ന പദത്തിന്റെ വിപരീതപദം ഏത്? ||| ദുഃഖം ||| സന്തോഷം ||| ആനന്ദം ||| ഉല്ലാസം ||| A ||| സുഖത്തിന്റെ വിപരീതം ദുഃഖമാണ്.
+‘ഗ്രാമത്തിൽ താമസിക്കുന്നവൻ’ എന്നതിന് ഒറ്റപ്പദം ഏത്? ||| നാഗരികൻ ||| ഗ്രാമീണൻ ||| വിദേശി ||| യാത്രികൻ ||| B ||| ഗ്രാമത്തിൽ താമസിക്കുന്നവൻ ഗ്രാമീണനാണ്.
+‘ചെയ്യുക’ എന്ന ക്രിയയുടെ ഭാവികാലരൂപം ഏത്? ||| ചെയ്തു ||| ചെയ്യുന്നു ||| ചെയ്യും ||| ചെയ്ത ||| C ||| ഭാവികാലത്തിൽ ‘ചെയ്യും’ എന്ന രൂപം വരുന്നു.
+‘അധ്യാപകൻ’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ഏത്? ||| അധ്യാപിക ||| അധ്യാപകി ||| അധ്യാപൻ ||| അധ്യാപക ||| A ||| ‘അധ്യാപകൻ’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ‘അധ്യാപിക’.
+ഉചിതമായ പദം ചേർത്ത് വാക്യം പൂർത്തിയാക്കുക: “പഠിച്ചാൽ മാത്രം പോരാ, പഠിച്ചത് ......” ||| മറക്കണം ||| പ്രയോഗത്തിൽ വരുത്തണം ||| ഒളിച്ചുവെക്കണം ||| ഉപേക്ഷിക്കണം ||| B ||| പഠിച്ചത് പ്രയോഗത്തിൽ കൊണ്ടുവരണമെന്നതാണ് യുക്തിസഹം.
+ശരിയായ വാക്യം തിരഞ്ഞെടുക്കുക: ||| ഞാൻ നാളെ നിങ്ങളെ കണ്ടു ||| ഞാൻ നാളെ നിങ്ങളെ കാണും ||| ഞാൻ ഇന്നലെ നിങ്ങളെ കാണും ||| ഞാൻ ഇന്നലെ നിങ്ങളെ കാണുന്നു ||| B ||| ‘നാളെ’ എന്ന ഭാവികാല സൂചകത്തോടൊപ്പം ‘കാണും’ എന്ന ഭാവികാലരൂപമാണ് ചേരുക.
+
+## ml-language-knowledge
+‘കേട്ടു + ഇല്ല = കേട്ടില്ല’ ഏത് സന്ധിക്ക് ഉദാഹരണം? ||| ആദേശസന്ധി ||| ആഗമസന്ധി ||| ലോപസന്ധി ||| ദ്വിത്വസന്ധി ||| C ||| ‘ഉ’ എന്ന വർണം ലോപിക്കുന്നതിനാൽ ലോപസന്ധിയാണ്.
+‘കുട്ടിയുടെ’ എന്ന പദം ഏത് വിഭക്തിയിൽപ്പെടുന്നു? ||| നിർദ്ദേശിക ||| സംബന്ധിക ||| ആധാരിക ||| പ്രതിഗ്രാഹിക ||| B ||| ‘-ഉടെ’ പ്രത്യയം സംബന്ധിക വിഭക്തിയുടേതാണ്.
+‘തല പുകയ്ക്കുക’ എന്ന ശൈലിയുടെ അർഥം ഏത്? ||| തല കഴുകുക ||| വളരെയധികം ആലോചിച്ച് ബുദ്ധിമുട്ടുക ||| തീ കത്തിക്കുക ||| ഉറങ്ങുക ||| B ||| ഒരു പ്രശ്നത്തെക്കുറിച്ച് വല്ലാതെ ആലോചിച്ച് വിഷമിക്കുക എന്നാണ് ഇതിന്റെ അർഥം.
+‘കാക്കയ്ക്കും തൻകുഞ്ഞ് പൊൻകുഞ്ഞ്’ എന്ന പഴഞ്ചൊല്ലിന്റെ ആശയം ഏത്? ||| കാക്കകൾ സ്നേഹമുള്ളവയാണ് ||| ഏതൊരാൾക്കും സ്വന്തം കുഞ്ഞ് ഏറ്റവും പ്രിയപ്പെട്ടതാണ് ||| പൊന്ന് വിലയേറിയതാണ് ||| കുഞ്ഞുങ്ങളെ സൂക്ഷിക്കണം ||| B ||| എത്ര വിരൂപമായാലും സ്വന്തം കുഞ്ഞ് എല്ലാവർക്കും പ്രിയപ്പെട്ടതാണ് എന്ന ആശയമാണിത്.
+‘ഒരു ദേശത്തിന്റെ കഥ’ എന്ന നോവലിന്റെ കർത്താവ് ആര്? ||| തകഴി ||| ബഷീർ ||| എസ്. കെ. പൊറ്റെക്കാട്ട് ||| എം. ടി. ||| C ||| ‘ഒരു ദേശത്തിന്റെ കഥ’ എസ്. കെ. പൊറ്റെക്കാട്ടിന്റെ കൃതിയാണ്.
+‘കേരളപാണിനീയം’ രചിച്ചതാര്? ||| എ. ആർ. രാജരാജവർമ ||| ഉള്ളൂർ ||| വള്ളത്തോൾ ||| ചെറുശ്ശേരി ||| A ||| മലയാള വ്യാകരണഗ്രന്ഥമായ കേരളപാണിനീയം എ. ആർ. രാജരാജവർമയുടേതാണ്.
+‘അവൾ ചന്ദ്രനെപ്പോലെ സുന്ദരിയാണ്’ എന്ന വാക്യത്തിലെ അലങ്കാരം ഏത്? ||| രൂപകം ||| ഉപമ ||| ഉത്പ്രേക്ഷ ||| അതിശയോക്തി ||| B ||| ‘പോലെ’ എന്ന പദം ഉപയോഗിച്ച് സാദൃശ്യം പറയുന്നതിനാൽ ഉപമയാണ്.
+
+## phy-waves
+Two tuning forks of frequencies 256 Hz and 260 Hz are sounded together. The number of beats heard per second is: ||| 2 ||| 4 ||| 256 ||| 516 ||| B ||| Beat frequency = difference of frequencies = 260 - 256 = 4 per second.
+Reverberation is: ||| The persistence of sound due to repeated reflections ||| A change in pitch due to motion ||| The splitting of a wave into two ||| The bending of sound around a corner ||| A ||| Repeated reflections make sound linger after the source stops.
+
+## phy-light
+The refractive index of glass is 1.5 and the speed of light in vacuum is 3 x 10⁸ m/s. The speed of light in glass is: ||| 1 x 10⁸ m/s ||| 2 x 10⁸ m/s ||| 3 x 10⁸ m/s ||| 4.5 x 10⁸ m/s ||| B ||| v = c/n = 3 x 10⁸ / 1.5 = 2 x 10⁸ m/s.
+Which of the following phenomena are involved in the formation of a rainbow? ||| Dispersion, refraction and internal reflection ||| Only reflection ||| Only diffraction ||| Polarisation ||| A ||| Sunlight is refracted and dispersed on entering a water drop, reflected inside it, and refracted again on leaving.
+
+## phy-force-pressure
+A liquid drop takes a spherical shape because of: ||| Gravity ||| Surface tension ||| Viscosity ||| Density ||| B ||| Surface tension tends to minimise the surface area, giving a sphere.
+
+## phy-heat
+The heat required to melt 2 kg of ice at 0 °C is (latent heat of fusion = 3.3 x 10⁵ J/kg): ||| 1.65 x 10⁵ J ||| 3.3 x 10⁵ J ||| 6.6 x 10⁵ J ||| 6.6 x 10⁶ J ||| C ||| Q = mL = 2 x 3.3 x 10⁵ = 6.6 x 10⁵ J.
+
+## phy-motion
+A force of how much produces an acceleration of 2 m/s² in a body of mass 5 kg? ||| 2.5 N ||| 7 N ||| 10 N ||| 25 N ||| C ||| F = ma = 5 x 2 = 10 N.
+A body moving with uniform velocity in a straight line has: ||| Zero acceleration ||| Constant acceleration ||| Increasing acceleration ||| Negative acceleration ||| A ||| Uniform velocity means velocity does not change, so acceleration is zero.
+
+## phy-gravitation
+Astronauts in an orbiting satellite feel weightless because: ||| There is no gravity at all there ||| The astronauts and the satellite are in free fall together ||| The Earth stops attracting them ||| Air pressure is high ||| B ||| Both fall towards the Earth with the same acceleration, so there is no contact force.
+
+## phy-work-energy
+Which of the following is a non-conventional source of energy? ||| Coal ||| Petroleum ||| Natural gas ||| Solar energy ||| D ||| Solar, wind and tidal energy are non-conventional (renewable) sources.
+
+## phy-electricity-magnetism
+A current of 2 A flows through a 5 Ω resistor for 10 s. The heat produced is: ||| 20 J ||| 100 J ||| 200 J ||| 1000 J ||| C ||| H = I²Rt = 4 x 5 x 10 = 200 J.
+The direction of the magnetic field around a straight current-carrying conductor is given by: ||| Fleming's left-hand rule ||| Right-hand thumb rule ||| Lenz's law ||| Ohm's law ||| B ||| Thumb along the current gives field direction by the curl of the fingers.
+A charged rod is brought near, but does not touch, an isolated metal sphere. While the rod is still near, the sphere is earthed, the earth connection is then removed, and finally the rod is taken away. The sphere becomes charged by: ||| Conduction ||| Induction ||| Friction ||| Radiation ||| B ||| Charging without contact, using earthing, is charging by induction.
+
+## phy-current-effects-emi
+The property of a coil by which it opposes any change of current through itself is called: ||| Mutual induction ||| Self induction ||| Resistance ||| Capacitance ||| B ||| Self induction arises from the coil's own changing magnetic flux.
+A step-up transformer has 100 primary turns and 500 secondary turns. With 20 V at the input, the output voltage is: ||| 4 V ||| 20 V ||| 100 V ||| 500 V ||| C ||| Vs = Vp x Ns/Np = 20 x 500/100 = 100 V.
+
+## phy-electronics
+Adding a small amount of impurity to a pure semiconductor to increase its conductivity is called: ||| Doping ||| Rectification ||| Amplification ||| Oxidation ||| A ||| Doping creates extra electrons or holes.
+A light emitting diode (LED) gives light when it is: ||| Reverse biased ||| Forward biased ||| Heated ||| Not connected ||| B ||| Recombination of carriers in a forward-biased junction releases light.
+
+## chem-changes
+In electroplating, the object to be plated is made the: ||| Anode ||| Cathode ||| Electrolyte ||| Salt bridge ||| B ||| Metal ions are reduced and deposited at the cathode.
+
+## chem-atoms-molecules
+The number of electrons in a magnesium ion Mg²⁺ (atomic number 12) is: ||| 2 ||| 10 ||| 12 ||| 14 ||| B ||| Mg has 12 electrons and loses two to form Mg²⁺, leaving 10.
+The electronic configuration of chlorine (atomic number 17) is: ||| 2, 8, 7 ||| 2, 7, 8 ||| 2, 8, 8 ||| 2, 8, 8, 1 ||| A ||| 17 electrons fill the shells as 2, 8, 7.
+
+## chem-metals
+Which metal is liquid at room temperature? ||| Sodium ||| Mercury ||| Iron ||| Zinc ||| B ||| Mercury is the only metal that is liquid at room temperature.
+Coating iron with a layer of zinc to prevent rusting is called: ||| Galvanisation ||| Electrolysis ||| Distillation ||| Vulcanisation ||| A ||| Galvanising protects iron because zinc corrodes in preference.
+
+## chem-solutions-colloids
+The scattering of light by colloidal particles is known as the: ||| Tyndall effect ||| Doppler effect ||| Raman effect ||| Zeeman effect ||| A ||| The Tyndall effect makes the path of a light beam visible in a colloid.
+
+## chem-matter-separation
+Cream is separated from milk by: ||| Centrifugation ||| Sublimation ||| Crystallisation ||| Chromatography ||| A ||| Spinning separates the lighter cream from the milk.
+
+## chem-periodic-table
+Elements of the same group of the periodic table have the same number of: ||| Shells ||| Valence electrons ||| Neutrons ||| Protons ||| B ||| Elements in a group share the same outer-shell configuration.
+On moving from left to right across a period, the atomic size generally: ||| Increases ||| Decreases ||| Stays the same ||| First increases then stays constant ||| B ||| Increasing nuclear charge pulls the electrons closer, so size decreases.
+
+## chem-bonding
+Ionic compounds conduct electricity: ||| In the solid state ||| In the molten state or in aqueous solution ||| Never ||| Only as gases ||| B ||| Free ions carry the current when the compound is molten or dissolved.
+
+## chem-non-metals
+Ozone is an allotrope of: ||| Nitrogen ||| Oxygen ||| Carbon ||| Sulphur ||| B ||| Ozone (O₃) is an allotrope of oxygen (O₂).
+Nitrogen fixation in leguminous plants is carried out by: ||| Rhizobium bacteria in root nodules ||| Fungi on leaves ||| Algae in water only ||| Viruses ||| A ||| Rhizobium converts atmospheric nitrogen to compounds the plant can use.
+
+## chem-organic
+The general formula of alkanes is: ||| CnH2n ||| CnH2n+2 ||| CnH2n-2 ||| CnHn ||| B ||| Alkanes such as CH₄ and C₂H₆ follow CnH2n+2.
+
+## chem-acids-alkalis
+Acids turn which litmus paper red? ||| Blue litmus ||| Red litmus ||| Neither ||| Both ||| A ||| Acids change blue litmus to red.
+
+## chem-gas-laws
+One mole of any gas at STP (273 K, 1 atm) occupies a volume of: ||| 2.24 L ||| 11.2 L ||| 22.4 L ||| 44.8 L ||| C ||| The molar volume of a gas at 273 K and 1 atm is 22.4 L.
+
+## chem-mole-rates
+Powdered marble reacts faster with acid than marble lumps because of its larger: ||| Surface area ||| Density ||| Colour ||| Mass ||| A ||| A larger surface area exposes more particles to the reactant.
+
+## ped-science-india
+Who is popularly known as the "Missile Man of India"? ||| Homi J. Bhabha ||| A. P. J. Abdul Kalam ||| Vikram Sarabhai ||| Satish Dhawan ||| B ||| A. P. J. Abdul Kalam led India's missile development.
+
+## ped-aims-objectives
+The science process skill of drawing a conclusion from observations is: ||| Inferring ||| Counting ||| Measuring ||| Copying ||| A ||| Inferring means explaining or concluding from observations.
+Which of the following is a measurable (behavioural) verb for writing an objective? ||| Understand ||| Appreciate ||| Identify ||| Know ||| C ||| "Identify" describes observable behaviour; the others are vague.
+NCF 2005 expects science teaching to develop: ||| Rote memory ||| Scientific temper and problem-solving ability ||| Fear of science ||| Only exam skills ||| B ||| Developing scientific temper, curiosity and problem solving is a stated aim.
+
+## ped-theory-basis
+Vygotsky's view of learning emphasises: ||| Social interaction and language ||| Isolation ||| Punishment ||| Instinct ||| A ||| Vygotsky's social constructivism sees learning as socially mediated.
+Kolb's experiential learning cycle begins with: ||| Concrete experience ||| Abstract conceptualisation ||| Active experimentation only ||| Testing ||| A ||| The cycle: concrete experience, reflective observation, abstract conceptualisation, active experimentation.
+
+## ped-planning
+Which of the following is an audio aid? ||| Chart ||| Tape recorder ||| Model ||| Photograph ||| B ||| A tape recorder or radio presents sound only.
+A major advantage of computer-assisted instruction is that it: ||| Replaces all teachers ||| Provides immediate feedback and lets pupils learn at their own pace ||| Needs no planning ||| Is free of cost always ||| B ||| CAI offers individual pacing and instant feedback.
+
+## ped-models
+In the 5E model of teaching, the "Explore" phase involves: ||| Students engaging in hands-on activities to gather experience ||| The teacher lecturing ||| The final test ||| Homework only ||| A ||| In Explore, learners investigate and gather evidence before explanations are given.
+Models of teaching are grouped by Joyce and Weil into families such as: ||| Information processing, social, personal and behavioural ||| Primary, secondary and tertiary ||| Lecture, notes and test ||| Easy, medium and hard ||| A ||| The four families are information processing, social, personal and behavioural systems.
+
+## ped-methods
+The first step of the scientific method is usually: ||| Drawing conclusions ||| Identifying and defining the problem ||| Reporting ||| Publishing ||| B ||| The method starts from a problem, then hypothesis, experiment, observation and conclusion.
+The deductive method proceeds from: ||| Particular to general ||| General rule to particular examples ||| Known to unknown only ||| Concrete to abstract only ||| B ||| Deduction applies a general rule to specific cases.
+A major merit of the laboratory method is that it: ||| Gives first-hand experience and develops skills ||| Saves time always ||| Needs no equipment ||| Avoids observation ||| A ||| Students gain direct experience and manipulative skills.
+
+## ped-approaches
+The scientific process approach to teaching science emphasises: ||| Learning by using the processes scientists use, such as observing, hypothesising and experimenting ||| Memorising laws ||| Copying notes ||| Listening only ||| A ||| Pupils learn science by practising the processes of science.
+
+## ped-curriculum
+A modern trend in science curriculum construction is to make it: ||| Teacher-centred and bookish ||| Learner-centred and activity-based ||| Examination-oriented only ||| Free of experiments ||| B ||| Modern curricula favour activity-based, learner-centred approaches.
+A pupils' workbook in science is used mainly to: ||| Practise, record activities and self-assess ||| Keep money ||| Replace the textbook ||| Entertain ||| A ||| Workbooks give practice and record of activities.
+
+## ped-labs-clubs
+A science museum helps in science learning by: ||| Displaying exhibits that make ideas concrete and interesting ||| Replacing teachers ||| Giving marks ||| Closing the library ||| A ||| Exhibits give direct, interesting experience of scientific ideas.
+
+## ped-evaluation
+An important advantage of objective-type tests is: ||| Objectivity in scoring ||| Testing creativity fully ||| Easy preparation ||| Testing writing skill ||| A ||| The score does not depend on the scorer's opinion.
+An advantage of the grading system over marks is that it: ||| Reduces unhealthy competition and examination stress ||| Increases rote learning ||| Gives exact ranks ||| Removes evaluation ||| A ||| Grades group learners in bands and lower pressure.
+
+## ped-professional
+Reflective practice by a teacher means: ||| Thinking critically about one's own teaching to improve it ||| Looking in a mirror ||| Copying others ||| Avoiding feedback ||| A ||| Reflection on practice is a key to professional growth.

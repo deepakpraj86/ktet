@@ -1,0 +1,1402 @@
+[
+ {
+  "id": "t3-adolescent-psychology-001",
+  "part": "adolescent-psychology",
+  "topic": "psy-adolescence",
+  "text": "The word \"adolescence\" comes from the Latin word \"adolescere\", which means:",
+  "options": [
+   "To remember",
+   "To play",
+   "To obey",
+   "To grow up or grow to maturity"
+  ],
+  "answer": 3,
+  "explanation": "Adolescere means to grow up towards maturity."
+ },
+ {
+  "id": "t3-adolescent-psychology-002",
+  "part": "adolescent-psychology",
+  "topic": "psy-adolescence",
+  "text": "Which of the following is typical of emotional development in adolescence?",
+  "options": [
+   "Heightened emotions and mood swings",
+   "Absence of feelings",
+   "Fear of all social contact",
+   "Complete emotional stability"
+  ],
+  "answer": 0,
+  "explanation": "Hormonal and social changes make adolescent emotions intense and changeable."
+ },
+ {
+  "id": "t3-adolescent-psychology-003",
+  "part": "adolescent-psychology",
+  "topic": "psy-problems",
+  "text": "A student with a strong aggressive urge takes up boxing and wins medals. This defence mechanism is:",
+  "options": [
+   "Denial",
+   "Regression",
+   "Repression",
+   "Sublimation"
+  ],
+  "answer": 3,
+  "explanation": "Sublimation channels an unacceptable impulse into a socially approved activity."
+ },
+ {
+  "id": "t3-adolescent-psychology-004",
+  "part": "adolescent-psychology",
+  "topic": "psy-problems",
+  "text": "Substance abuse among adolescents is best prevented by:",
+  "options": [
+   "Strict punishment alone",
+   "Banning all friendships",
+   "Ignoring the problem",
+   "Awareness programmes, life-skills training and a supportive environment"
+  ],
+  "answer": 3,
+  "explanation": "Prevention works through education, life skills and support."
+ },
+ {
+  "id": "t3-adolescent-psychology-005",
+  "part": "adolescent-psychology",
+  "topic": "psy-dev-theories",
+  "text": "Which stage of Freud's psychosexual theory covers puberty and adolescence?",
+  "options": [
+   "Genital stage",
+   "Oral stage",
+   "Latency stage",
+   "Phallic stage"
+  ],
+  "answer": 0,
+  "explanation": "The genital stage begins at puberty."
+ },
+ {
+  "id": "t3-adolescent-psychology-006",
+  "part": "adolescent-psychology",
+  "topic": "psy-dev-theories",
+  "text": "Kohlberg studied moral reasoning mainly by presenting people with:",
+  "options": [
+   "Drawing tasks",
+   "Moral dilemmas such as the Heinz dilemma",
+   "Memory lists",
+   "Intelligence tests"
+  ],
+  "answer": 1,
+  "explanation": "He asked subjects to reason about hypothetical moral dilemmas."
+ },
+ {
+  "id": "t3-adolescent-psychology-007",
+  "part": "adolescent-psychology",
+  "topic": "psy-dev-theories",
+  "text": "The ability to understand that an object still exists when it is out of sight develops in Piaget's:",
+  "options": [
+   "Formal operational stage",
+   "Preoperational stage",
+   "Concrete operational stage",
+   "Sensorimotor stage"
+  ],
+  "answer": 3,
+  "explanation": "Object permanence is the main achievement of the sensorimotor stage."
+ },
+ {
+  "id": "t3-adolescent-psychology-008",
+  "part": "adolescent-psychology",
+  "topic": "learn-nature-factors",
+  "text": "Thorndike's theory of identical elements explains:",
+  "options": [
+   "Transfer of learning",
+   "Motivation",
+   "Intelligence",
+   "Forgetting"
+  ],
+  "answer": 0,
+  "explanation": "Transfer is greater when two tasks share identical elements."
+ },
+ {
+  "id": "t3-adolescent-psychology-009",
+  "part": "adolescent-psychology",
+  "topic": "learn-nature-factors",
+  "text": "Which type of practice is generally more effective for long-term retention?",
+  "options": [
+   "No practice",
+   "Distributed practice over several sessions",
+   "Massed practice in one long session",
+   "Practice only before examinations"
+  ],
+  "answer": 1,
+  "explanation": "Spacing study sessions improves retention."
+ },
+ {
+  "id": "t3-adolescent-psychology-010",
+  "part": "adolescent-psychology",
+  "topic": "learn-nature-factors",
+  "text": "A period of no apparent progress in a learning curve is called a:",
+  "options": [
+   "Slope",
+   "Peak",
+   "Dip",
+   "Plateau"
+  ],
+  "answer": 3,
+  "explanation": "A plateau is a flat stretch in the learning curve."
+ },
+ {
+  "id": "t3-adolescent-psychology-011",
+  "part": "adolescent-psychology",
+  "topic": "learn-creativity",
+  "text": "The Torrance Tests are used to measure:",
+  "options": [
+   "Creative thinking",
+   "Personality disorders",
+   "Intelligence",
+   "Reading speed"
+  ],
+  "answer": 0,
+  "explanation": "The Torrance Tests of Creative Thinking assess fluency, flexibility, originality and elaboration."
+ },
+ {
+  "id": "t3-adolescent-psychology-012",
+  "part": "adolescent-psychology",
+  "topic": "learn-creativity",
+  "text": "Which of the following is a barrier to creativity in the classroom?",
+  "options": [
+   "Freedom to ask questions",
+   "Fear of failure and strict rules about the one right answer",
+   "Open-ended activities",
+   "Encouragement of new ideas"
+  ],
+  "answer": 1,
+  "explanation": "Fear of mistakes and rigid answers discourage original thinking."
+ },
+ {
+  "id": "t3-adolescent-psychology-013",
+  "part": "adolescent-psychology",
+  "topic": "learn-theories",
+  "text": "Bandura's social learning theory states that people learn largely by:",
+  "options": [
+   "Instinct",
+   "Reward and punishment alone",
+   "Trial and error alone",
+   "Observing and imitating models"
+  ],
+  "answer": 3,
+  "explanation": "Observational learning from models is the core of Bandura's theory."
+ },
+ {
+  "id": "t3-adolescent-psychology-014",
+  "part": "adolescent-psychology",
+  "topic": "learn-theories",
+  "text": "Kurt Lewin's field theory explains behaviour as a function of the person and the:",
+  "options": [
+   "Intelligence quotient",
+   "Age",
+   "Psychological environment",
+   "Heredity"
+  ],
+  "answer": 2,
+  "explanation": "Behaviour is a function of the person and the environment, B = f(P, E); together they form the life space."
+ },
+ {
+  "id": "t3-adolescent-psychology-015",
+  "part": "adolescent-psychology",
+  "topic": "learn-theories",
+  "text": "In classical conditioning, repeatedly presenting the conditioned stimulus without the unconditioned stimulus leads to:",
+  "options": [
+   "Extinction",
+   "Generalisation",
+   "Reinforcement",
+   "Discrimination"
+  ],
+  "answer": 0,
+  "explanation": "The conditioned response gradually disappears: extinction."
+ },
+ {
+  "id": "t3-adolescent-psychology-016",
+  "part": "adolescent-psychology",
+  "topic": "learn-special-needs",
+  "text": "Braille is a system of reading and writing used by:",
+  "options": [
+   "Learners with dyslexia only",
+   "Visually impaired learners",
+   "Hearing-impaired learners",
+   "Gifted learners only"
+  ],
+  "answer": 1,
+  "explanation": "Braille uses raised dots read by touch."
+ },
+ {
+  "id": "t3-adolescent-psychology-017",
+  "part": "adolescent-psychology",
+  "topic": "learn-special-needs",
+  "text": "Gifted children are best helped through:",
+  "options": [
+   "Repetition of easy tasks",
+   "Ignoring their needs",
+   "Enrichment and acceleration programmes",
+   "Punishment for being different"
+  ],
+  "answer": 2,
+  "explanation": "Enrichment and acceleration meet their need for challenge."
+ },
+ {
+  "id": "t3-adolescent-psychology-018",
+  "part": "adolescent-psychology",
+  "topic": "teach-nature-roles",
+  "text": "Before planning a lesson, an effective teacher first tries to know the learners':",
+  "options": [
+   "Needs and prior knowledge",
+   "Family income",
+   "Birthdays",
+   "Religion"
+  ],
+  "answer": 0,
+  "explanation": "Identifying learner needs and prior knowledge is the basis of planning."
+ },
+ {
+  "id": "t3-adolescent-psychology-019",
+  "part": "adolescent-psychology",
+  "topic": "teach-nature-roles",
+  "text": "A teacher who advises learners and shows them the right path acts as a:",
+  "options": [
+   "Dictator",
+   "Clerk",
+   "Judge",
+   "Guide"
+  ],
+  "answer": 3,
+  "explanation": "A guide helps learners find their own way."
+ },
+ {
+  "id": "t3-adolescent-psychology-020",
+  "part": "adolescent-psychology",
+  "topic": "teach-nature-roles",
+  "text": "A teacher who influences pupils by setting an example through his own conduct and values acts as a:",
+  "options": [
+   "Source of all knowledge",
+   "Strict punisher",
+   "Role model",
+   "Passive observer"
+  ],
+  "answer": 2,
+  "explanation": "Pupils learn values by observing the teacher's behaviour."
+ },
+ {
+  "id": "t3-adolescent-psychology-021",
+  "part": "adolescent-psychology",
+  "topic": "teach-methods-evaluation",
+  "text": "A seminar is a teaching technique in which:",
+  "options": [
+   "Students copy notes",
+   "The class is silent",
+   "The teacher reads the text aloud",
+   "Participants present and discuss a prepared topic"
+  ],
+  "answer": 3,
+  "explanation": "In a seminar participants prepare and present papers followed by discussion."
+ },
+ {
+  "id": "t3-adolescent-psychology-022",
+  "part": "adolescent-psychology",
+  "topic": "teach-methods-evaluation",
+  "text": "The reliability of a test means:",
+  "options": [
+   "It is short",
+   "It gives consistent results",
+   "It is easy to administer",
+   "It measures what it is supposed to measure"
+  ],
+  "answer": 1,
+  "explanation": "Reliability is consistency; validity is measuring what is intended."
+ },
+ {
+  "id": "t3-adolescent-psychology-023",
+  "part": "adolescent-psychology",
+  "topic": "teach-methods-evaluation",
+  "text": "A question bank is:",
+  "options": [
+   "A collection of tested questions classified by topic and difficulty",
+   "A list of students",
+   "A place to keep money",
+   "A timetable"
+  ],
+  "answer": 0,
+  "explanation": "A question bank stores good questions for later use."
+ },
+ {
+  "id": "t3-adolescent-psychology-024",
+  "part": "adolescent-psychology",
+  "topic": "teach-classroom-mgmt",
+  "text": "Classroom rules are most effective when they are:",
+  "options": [
+   "Imposed without explanation",
+   "Changed daily",
+   "Framed clearly with the participation of students",
+   "Known only to the teacher"
+  ],
+  "answer": 2,
+  "explanation": "Rules made with students are better understood and followed."
+ },
+ {
+  "id": "t3-adolescent-psychology-025",
+  "part": "adolescent-psychology",
+  "topic": "teach-personality-ethics",
+  "text": "Which of the following is the most essential value in a teacher?",
+  "options": [
+   "Fame",
+   "Integrity and honesty",
+   "Wealth",
+   "Strictness only"
+  ],
+  "answer": 1,
+  "explanation": "Integrity and honesty earn trust and set an example."
+ },
+ {
+  "id": "t3-adolescent-psychology-026",
+  "part": "adolescent-psychology",
+  "topic": "teach-frameworks",
+  "text": "The Kerala Curriculum Framework 2007 is based on which approach to learning?",
+  "options": [
+   "Constructivist approach",
+   "Rote approach",
+   "Dictation approach",
+   "Behaviourist approach"
+  ],
+  "answer": 0,
+  "explanation": "The KCF 2007 follows the constructivist, activity-based approach."
+ },
+ {
+  "id": "t3-adolescent-psychology-027",
+  "part": "adolescent-psychology",
+  "topic": "teach-frameworks",
+  "text": "Which of the following is prohibited by the RTE Act 2009?",
+  "options": [
+   "Mid-day meals",
+   "Neighbourhood schools",
+   "Free textbooks",
+   "Physical punishment and mental harassment of children"
+  ],
+  "answer": 3,
+  "explanation": "The Act bans physical punishment and mental harassment."
+ },
+ {
+  "id": "t3-malayalam-001",
+  "part": "malayalam",
+  "topic": "ml-comprehension-prose",
+  "text": "ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “വായന മരിക്കുന്നു എന്ന് ചിലർ പറയുന്നു. എന്നാൽ മൊബൈൽ ഫോണിലൂടെയും വായിക്കുന്നവർ ധാരാളമുണ്ട്. മാധ്യമം മാറിയെന്നേയുള്ളൂ, വായന മരിച്ചിട്ടില്ല.” ഈ ഭാഗത്തിന്റെ ആശയം എന്താണ്?",
+  "options": [
+   "വായന പൂർണമായും ഇല്ലാതായി",
+   "വായനയുടെ മാധ്യമം മാറി, എന്നാൽ വായന നിലച്ചിട്ടില്ല",
+   "ആരും വായിക്കുന്നില്ല",
+   "മൊബൈൽ ഫോൺ ഉപയോഗിക്കരുത്"
+  ],
+  "answer": 1,
+  "explanation": "അവസാനവാക്യം മാധ്യമം മാറിയെന്നും വായന മരിച്ചിട്ടില്ലെന്നും പറയുന്നു."
+ },
+ {
+  "id": "t3-malayalam-002",
+  "part": "malayalam",
+  "topic": "ml-comprehension-prose",
+  "text": "ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “മരങ്ങൾ നമുക്ക് തണലും പ്രാണവായുവും നൽകുന്നു. മരം മുറിക്കുമ്പോൾ നാം പ്രകൃതിയെ മാത്രമല്ല, നമ്മെത്തന്നെയാണ് ദ്രോഹിക്കുന്നത്.” ‘നമ്മെത്തന്നെയാണ് ദ്രോഹിക്കുന്നത്’ എന്ന് പറയാൻ കാരണം എന്താണ്?",
+  "options": [
+   "മരം മുറിക്കുന്നത് ശിക്ഷാർഹമാണ്",
+   "മരങ്ങൾ മനുഷ്യരാണ്",
+   "മരമില്ലാതായാൽ തണലും പ്രാണവായുവും നമുക്ക് നഷ്ടമാകും",
+   "മരങ്ങൾ വിലയേറിയതാണ്"
+  ],
+  "answer": 2,
+  "explanation": "മരങ്ങൾ നൽകുന്ന തണലും പ്രാണവായുവും ഇല്ലാതാകുന്നത് നമ്മെത്തന്നെ ബാധിക്കും."
+ },
+ {
+  "id": "t3-malayalam-003",
+  "part": "malayalam",
+  "topic": "ml-comprehension-prose",
+  "text": "ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഗാന്ധിജി സത്യത്തെ ദൈവമായി കണ്ടു. അഹിംസയായിരുന്നു അദ്ദേഹത്തിന്റെ ആയുധം.” ഗാന്ധിജിയുടെ ആയുധം എന്തായിരുന്നു?",
+  "options": [
+   "അഹിംസ",
+   "തോക്ക്",
+   "പണം",
+   "സൈന്യം"
+  ],
+  "answer": 0,
+  "explanation": "ഖണ്ഡികയിൽ ‘അഹിംസയായിരുന്നു അദ്ദേഹത്തിന്റെ ആയുധം’ എന്ന് പറയുന്നു."
+ },
+ {
+  "id": "t3-malayalam-004",
+  "part": "malayalam",
+  "topic": "ml-comprehension-poetry",
+  "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “വിദ്യ നേടുക നാം ജീവിതത്തിൻ വെളിച്ചമാകുമത് നിശ്ചയം; വിനയമോടെ പഠിച്ചിടേണം വിജയമെത്തും പിന്നാലെ.” ഈ വരികളിലെ സന്ദേശം എന്താണ്?",
+  "options": [
+   "വെളിച്ചം വേണ്ട",
+   "പഠിക്കേണ്ടതില്ല",
+   "വിജയം കാത്തിരിക്കണം",
+   "വിദ്യ ജീവിതത്തിന് വെളിച്ചമാണ്; വിനയത്തോടെ പഠിച്ചാൽ വിജയം ലഭിക്കും"
+  ],
+  "answer": 3,
+  "explanation": "വിദ്യയുടെ പ്രാധാന്യവും വിനയത്തോടെയുള്ള പഠനവുമാണ് വരികളുടെ കാതൽ."
+ },
+ {
+  "id": "t3-malayalam-005",
+  "part": "malayalam",
+  "topic": "ml-comprehension-poetry",
+  "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “വിനയമോടെ പഠിച്ചിടേണം വിജയമെത്തും പിന്നാലെ.” ‘വിനയമോടെ’ എന്ന പദത്തിന്റെ അർഥം എന്താണ്?",
+  "options": [
+   "എളിമയോടെ",
+   "അഹങ്കാരത്തോടെ",
+   "ദേഷ്യത്തോടെ",
+   "അലസതയോടെ"
+  ],
+  "answer": 0,
+  "explanation": "വിനയം എന്നാൽ എളിമ എന്നാണ് അർഥം."
+ },
+ {
+  "id": "t3-malayalam-006",
+  "part": "malayalam",
+  "topic": "ml-comprehension-poetry",
+  "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഒരു തൈ നടാം നമുക്കിന്ന്, നാളെയതൊരു തണലായ് നിൽക്കും.” ഈ വരികൾ പ്രോത്സാഹിപ്പിക്കുന്നത് എന്താണ്?",
+  "options": [
+   "യാത്ര",
+   "വീടുപണി",
+   "മരം നടൽ",
+   "മരം മുറിക്കൽ"
+  ],
+  "answer": 2,
+  "explanation": "ഇന്ന് തൈ നട്ടാൽ നാളെ അത് തണൽ നൽകും എന്ന് വരികൾ പറയുന്നു."
+ },
+ {
+  "id": "t3-malayalam-007",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘സൂര്യൻ’ എന്ന പദത്തിന്റെ പര്യായമല്ലാത്തത് ഏത്?",
+  "options": [
+   "ആദിത്യൻ",
+   "ചന്ദ്രൻ",
+   "ദിവാകരൻ",
+   "ഭാനു"
+  ],
+  "answer": 1,
+  "explanation": "ഭാനു, ആദിത്യൻ, ദിവാകരൻ എന്നിവ സൂര്യന്റെ പര്യായങ്ങളാണ്."
+ },
+ {
+  "id": "t3-malayalam-008",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘സുഖം’ എന്ന പദത്തിന്റെ വിപരീതപദം ഏത്?",
+  "options": [
+   "സന്തോഷം",
+   "ഉല്ലാസം",
+   "ആനന്ദം",
+   "ദുഃഖം"
+  ],
+  "answer": 3,
+  "explanation": "സുഖത്തിന്റെ വിപരീതം ദുഃഖമാണ്."
+ },
+ {
+  "id": "t3-malayalam-009",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘ഗ്രാമത്തിൽ താമസിക്കുന്നവൻ’ എന്നതിന് ഒറ്റപ്പദം ഏത്?",
+  "options": [
+   "യാത്രികൻ",
+   "വിദേശി",
+   "ഗ്രാമീണൻ",
+   "നാഗരികൻ"
+  ],
+  "answer": 2,
+  "explanation": "ഗ്രാമത്തിൽ താമസിക്കുന്നവൻ ഗ്രാമീണനാണ്."
+ },
+ {
+  "id": "t3-malayalam-010",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘ചെയ്യുക’ എന്ന ക്രിയയുടെ ഭാവികാലരൂപം ഏത്?",
+  "options": [
+   "ചെയ്തു",
+   "ചെയ്ത",
+   "ചെയ്യുന്നു",
+   "ചെയ്യും"
+  ],
+  "answer": 3,
+  "explanation": "ഭാവികാലത്തിൽ ‘ചെയ്യും’ എന്ന രൂപം വരുന്നു."
+ },
+ {
+  "id": "t3-malayalam-011",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘അധ്യാപകൻ’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ഏത്?",
+  "options": [
+   "അധ്യാപിക",
+   "അധ്യാപൻ",
+   "അധ്യാപക",
+   "അധ്യാപകി"
+  ],
+  "answer": 0,
+  "explanation": "‘അധ്യാപകൻ’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ‘അധ്യാപിക’."
+ },
+ {
+  "id": "t3-malayalam-012",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "ഉചിതമായ പദം ചേർത്ത് വാക്യം പൂർത്തിയാക്കുക: “പഠിച്ചാൽ മാത്രം പോരാ, പഠിച്ചത് ......”",
+  "options": [
+   "ഉപേക്ഷിക്കണം",
+   "പ്രയോഗത്തിൽ വരുത്തണം",
+   "മറക്കണം",
+   "ഒളിച്ചുവെക്കണം"
+  ],
+  "answer": 1,
+  "explanation": "പഠിച്ചത് പ്രയോഗത്തിൽ കൊണ്ടുവരണമെന്നതാണ് യുക്തിസഹം."
+ },
+ {
+  "id": "t3-malayalam-013",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "ശരിയായ വാക്യം തിരഞ്ഞെടുക്കുക:",
+  "options": [
+   "ഞാൻ ഇന്നലെ നിങ്ങളെ കാണും",
+   "ഞാൻ നാളെ നിങ്ങളെ കാണും",
+   "ഞാൻ നാളെ നിങ്ങളെ കണ്ടു",
+   "ഞാൻ ഇന്നലെ നിങ്ങളെ കാണുന്നു"
+  ],
+  "answer": 1,
+  "explanation": "‘നാളെ’ എന്ന ഭാവികാല സൂചകത്തോടൊപ്പം ‘കാണും’ എന്ന ഭാവികാലരൂപമാണ് ചേരുക."
+ },
+ {
+  "id": "t3-malayalam-014",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘കേട്ടു + ഇല്ല = കേട്ടില്ല’ ഏത് സന്ധിക്ക് ഉദാഹരണം?",
+  "options": [
+   "ആദേശസന്ധി",
+   "ആഗമസന്ധി",
+   "ദ്വിത്വസന്ധി",
+   "ലോപസന്ധി"
+  ],
+  "answer": 3,
+  "explanation": "‘ഉ’ എന്ന വർണം ലോപിക്കുന്നതിനാൽ ലോപസന്ധിയാണ്."
+ },
+ {
+  "id": "t3-malayalam-015",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘കുട്ടിയുടെ’ എന്ന പദം ഏത് വിഭക്തിയിൽപ്പെടുന്നു?",
+  "options": [
+   "സംബന്ധിക",
+   "ആധാരിക",
+   "നിർദ്ദേശിക",
+   "പ്രതിഗ്രാഹിക"
+  ],
+  "answer": 0,
+  "explanation": "‘-ഉടെ’ പ്രത്യയം സംബന്ധിക വിഭക്തിയുടേതാണ്."
+ },
+ {
+  "id": "t3-malayalam-016",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘തല പുകയ്ക്കുക’ എന്ന ശൈലിയുടെ അർഥം ഏത്?",
+  "options": [
+   "തീ കത്തിക്കുക",
+   "ഉറങ്ങുക",
+   "വളരെയധികം ആലോചിച്ച് ബുദ്ധിമുട്ടുക",
+   "തല കഴുകുക"
+  ],
+  "answer": 2,
+  "explanation": "ഒരു പ്രശ്നത്തെക്കുറിച്ച് വല്ലാതെ ആലോചിച്ച് വിഷമിക്കുക എന്നാണ് ഇതിന്റെ അർഥം."
+ },
+ {
+  "id": "t3-malayalam-017",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘കാക്കയ്ക്കും തൻകുഞ്ഞ് പൊൻകുഞ്ഞ്’ എന്ന പഴഞ്ചൊല്ലിന്റെ ആശയം ഏത്?",
+  "options": [
+   "ഏതൊരാൾക്കും സ്വന്തം കുഞ്ഞ് ഏറ്റവും പ്രിയപ്പെട്ടതാണ്",
+   "പൊന്ന് വിലയേറിയതാണ്",
+   "കാക്കകൾ സ്നേഹമുള്ളവയാണ്",
+   "കുഞ്ഞുങ്ങളെ സൂക്ഷിക്കണം"
+  ],
+  "answer": 0,
+  "explanation": "എത്ര വിരൂപമായാലും സ്വന്തം കുഞ്ഞ് എല്ലാവർക്കും പ്രിയപ്പെട്ടതാണ് എന്ന ആശയമാണിത്."
+ },
+ {
+  "id": "t3-malayalam-018",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘ഒരു ദേശത്തിന്റെ കഥ’ എന്ന നോവലിന്റെ കർത്താവ് ആര്?",
+  "options": [
+   "തകഴി",
+   "എം. ടി.",
+   "എസ്. കെ. പൊറ്റെക്കാട്ട്",
+   "ബഷീർ"
+  ],
+  "answer": 2,
+  "explanation": "‘ഒരു ദേശത്തിന്റെ കഥ’ എസ്. കെ. പൊറ്റെക്കാട്ടിന്റെ കൃതിയാണ്."
+ },
+ {
+  "id": "t3-malayalam-019",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘കേരളപാണിനീയം’ രചിച്ചതാര്?",
+  "options": [
+   "ചെറുശ്ശേരി",
+   "എ. ആർ. രാജരാജവർമ",
+   "വള്ളത്തോൾ",
+   "ഉള്ളൂർ"
+  ],
+  "answer": 1,
+  "explanation": "മലയാള വ്യാകരണഗ്രന്ഥമായ കേരളപാണിനീയം എ. ആർ. രാജരാജവർമയുടേതാണ്."
+ },
+ {
+  "id": "t3-malayalam-020",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘അവൾ ചന്ദ്രനെപ്പോലെ സുന്ദരിയാണ്’ എന്ന വാക്യത്തിലെ അലങ്കാരം ഏത്?",
+  "options": [
+   "ഉത്പ്രേക്ഷ",
+   "അതിശയോക്തി",
+   "രൂപകം",
+   "ഉപമ"
+  ],
+  "answer": 3,
+  "explanation": "‘പോലെ’ എന്ന പദം ഉപയോഗിച്ച് സാദൃശ്യം പറയുന്നതിനാൽ ഉപമയാണ്."
+ },
+ {
+  "id": "t3-physical-science-001",
+  "part": "physical-science",
+  "topic": "phy-waves",
+  "text": "Two tuning forks of frequencies 256 Hz and 260 Hz are sounded together. The number of beats heard per second is:",
+  "options": [
+   "2",
+   "4",
+   "256",
+   "516"
+  ],
+  "answer": 1,
+  "explanation": "Beat frequency = difference of frequencies = 260 - 256 = 4 per second."
+ },
+ {
+  "id": "t3-physical-science-002",
+  "part": "physical-science",
+  "topic": "phy-waves",
+  "text": "Reverberation is:",
+  "options": [
+   "The bending of sound around a corner",
+   "The persistence of sound due to repeated reflections",
+   "The splitting of a wave into two",
+   "A change in pitch due to motion"
+  ],
+  "answer": 1,
+  "explanation": "Repeated reflections make sound linger after the source stops."
+ },
+ {
+  "id": "t3-physical-science-003",
+  "part": "physical-science",
+  "topic": "phy-light",
+  "text": "The refractive index of glass is 1.5 and the speed of light in vacuum is 3 x 10⁸ m/s. The speed of light in glass is:",
+  "options": [
+   "1 x 10⁸ m/s",
+   "2 x 10⁸ m/s",
+   "3 x 10⁸ m/s",
+   "4.5 x 10⁸ m/s"
+  ],
+  "answer": 1,
+  "explanation": "v = c/n = 3 x 10⁸ / 1.5 = 2 x 10⁸ m/s."
+ },
+ {
+  "id": "t3-physical-science-004",
+  "part": "physical-science",
+  "topic": "phy-light",
+  "text": "Which of the following phenomena are involved in the formation of a rainbow?",
+  "options": [
+   "Only reflection",
+   "Only diffraction",
+   "Polarisation",
+   "Dispersion, refraction and internal reflection"
+  ],
+  "answer": 3,
+  "explanation": "Sunlight is refracted and dispersed on entering a water drop, reflected inside it, and refracted again on leaving."
+ },
+ {
+  "id": "t3-physical-science-005",
+  "part": "physical-science",
+  "topic": "phy-force-pressure",
+  "text": "A liquid drop takes a spherical shape because of:",
+  "options": [
+   "Surface tension",
+   "Viscosity",
+   "Density",
+   "Gravity"
+  ],
+  "answer": 0,
+  "explanation": "Surface tension tends to minimise the surface area, giving a sphere."
+ },
+ {
+  "id": "t3-physical-science-006",
+  "part": "physical-science",
+  "topic": "phy-heat",
+  "text": "The heat required to melt 2 kg of ice at 0 °C is (latent heat of fusion = 3.3 x 10⁵ J/kg):",
+  "options": [
+   "1.65 x 10⁵ J",
+   "3.3 x 10⁵ J",
+   "6.6 x 10⁵ J",
+   "6.6 x 10⁶ J"
+  ],
+  "answer": 2,
+  "explanation": "Q = mL = 2 x 3.3 x 10⁵ = 6.6 x 10⁵ J."
+ },
+ {
+  "id": "t3-physical-science-007",
+  "part": "physical-science",
+  "topic": "phy-motion",
+  "text": "A force of how much produces an acceleration of 2 m/s² in a body of mass 5 kg?",
+  "options": [
+   "2.5 N",
+   "7 N",
+   "10 N",
+   "25 N"
+  ],
+  "answer": 2,
+  "explanation": "F = ma = 5 x 2 = 10 N."
+ },
+ {
+  "id": "t3-physical-science-008",
+  "part": "physical-science",
+  "topic": "phy-motion",
+  "text": "A body moving with uniform velocity in a straight line has:",
+  "options": [
+   "Negative acceleration",
+   "Constant acceleration",
+   "Zero acceleration",
+   "Increasing acceleration"
+  ],
+  "answer": 2,
+  "explanation": "Uniform velocity means velocity does not change, so acceleration is zero."
+ },
+ {
+  "id": "t3-physical-science-009",
+  "part": "physical-science",
+  "topic": "phy-gravitation",
+  "text": "Astronauts in an orbiting satellite feel weightless because:",
+  "options": [
+   "The Earth stops attracting them",
+   "There is no gravity at all there",
+   "The astronauts and the satellite are in free fall together",
+   "Air pressure is high"
+  ],
+  "answer": 2,
+  "explanation": "Both fall towards the Earth with the same acceleration, so there is no contact force."
+ },
+ {
+  "id": "t3-physical-science-010",
+  "part": "physical-science",
+  "topic": "phy-work-energy",
+  "text": "Which of the following is a non-conventional source of energy?",
+  "options": [
+   "Natural gas",
+   "Coal",
+   "Petroleum",
+   "Solar energy"
+  ],
+  "answer": 3,
+  "explanation": "Solar, wind and tidal energy are non-conventional (renewable) sources."
+ },
+ {
+  "id": "t3-physical-science-011",
+  "part": "physical-science",
+  "topic": "phy-electricity-magnetism",
+  "text": "A current of 2 A flows through a 5 Ω resistor for 10 s. The heat produced is:",
+  "options": [
+   "20 J",
+   "100 J",
+   "200 J",
+   "1000 J"
+  ],
+  "answer": 2,
+  "explanation": "H = I²Rt = 4 x 5 x 10 = 200 J."
+ },
+ {
+  "id": "t3-physical-science-012",
+  "part": "physical-science",
+  "topic": "phy-electricity-magnetism",
+  "text": "The direction of the magnetic field around a straight current-carrying conductor is given by:",
+  "options": [
+   "Lenz's law",
+   "Right-hand thumb rule",
+   "Ohm's law",
+   "Fleming's left-hand rule"
+  ],
+  "answer": 1,
+  "explanation": "Thumb along the current gives field direction by the curl of the fingers."
+ },
+ {
+  "id": "t3-physical-science-013",
+  "part": "physical-science",
+  "topic": "phy-electricity-magnetism",
+  "text": "A charged rod is brought near, but does not touch, an isolated metal sphere. While the rod is still near, the sphere is earthed, the earth connection is then removed, and finally the rod is taken away. The sphere becomes charged by:",
+  "options": [
+   "Induction",
+   "Friction",
+   "Conduction",
+   "Radiation"
+  ],
+  "answer": 0,
+  "explanation": "Charging without contact, using earthing, is charging by induction."
+ },
+ {
+  "id": "t3-physical-science-014",
+  "part": "physical-science",
+  "topic": "phy-current-effects-emi",
+  "text": "The property of a coil by which it opposes any change of current through itself is called:",
+  "options": [
+   "Capacitance",
+   "Resistance",
+   "Mutual induction",
+   "Self induction"
+  ],
+  "answer": 3,
+  "explanation": "Self induction arises from the coil's own changing magnetic flux."
+ },
+ {
+  "id": "t3-physical-science-015",
+  "part": "physical-science",
+  "topic": "phy-current-effects-emi",
+  "text": "A step-up transformer has 100 primary turns and 500 secondary turns. With 20 V at the input, the output voltage is:",
+  "options": [
+   "4 V",
+   "20 V",
+   "100 V",
+   "500 V"
+  ],
+  "answer": 2,
+  "explanation": "Vs = Vp x Ns/Np = 20 x 500/100 = 100 V."
+ },
+ {
+  "id": "t3-physical-science-016",
+  "part": "physical-science",
+  "topic": "phy-electronics",
+  "text": "Adding a small amount of impurity to a pure semiconductor to increase its conductivity is called:",
+  "options": [
+   "Oxidation",
+   "Doping",
+   "Rectification",
+   "Amplification"
+  ],
+  "answer": 1,
+  "explanation": "Doping creates extra electrons or holes."
+ },
+ {
+  "id": "t3-physical-science-017",
+  "part": "physical-science",
+  "topic": "phy-electronics",
+  "text": "A light emitting diode (LED) gives light when it is:",
+  "options": [
+   "Heated",
+   "Reverse biased",
+   "Forward biased",
+   "Not connected"
+  ],
+  "answer": 2,
+  "explanation": "Recombination of carriers in a forward-biased junction releases light."
+ },
+ {
+  "id": "t3-physical-science-018",
+  "part": "physical-science",
+  "topic": "chem-changes",
+  "text": "In electroplating, the object to be plated is made the:",
+  "options": [
+   "Cathode",
+   "Salt bridge",
+   "Anode",
+   "Electrolyte"
+  ],
+  "answer": 0,
+  "explanation": "Metal ions are reduced and deposited at the cathode."
+ },
+ {
+  "id": "t3-physical-science-019",
+  "part": "physical-science",
+  "topic": "chem-atoms-molecules",
+  "text": "The number of electrons in a magnesium ion Mg²⁺ (atomic number 12) is:",
+  "options": [
+   "2",
+   "10",
+   "12",
+   "14"
+  ],
+  "answer": 1,
+  "explanation": "Mg has 12 electrons and loses two to form Mg²⁺, leaving 10."
+ },
+ {
+  "id": "t3-physical-science-020",
+  "part": "physical-science",
+  "topic": "chem-atoms-molecules",
+  "text": "The electronic configuration of chlorine (atomic number 17) is:",
+  "options": [
+   "2, 8, 7",
+   "2, 7, 8",
+   "2, 8, 8",
+   "2, 8, 8, 1"
+  ],
+  "answer": 0,
+  "explanation": "17 electrons fill the shells as 2, 8, 7."
+ },
+ {
+  "id": "t3-physical-science-021",
+  "part": "physical-science",
+  "topic": "chem-metals",
+  "text": "Which metal is liquid at room temperature?",
+  "options": [
+   "Zinc",
+   "Iron",
+   "Sodium",
+   "Mercury"
+  ],
+  "answer": 3,
+  "explanation": "Mercury is the only metal that is liquid at room temperature."
+ },
+ {
+  "id": "t3-physical-science-022",
+  "part": "physical-science",
+  "topic": "chem-metals",
+  "text": "Coating iron with a layer of zinc to prevent rusting is called:",
+  "options": [
+   "Electrolysis",
+   "Galvanisation",
+   "Distillation",
+   "Vulcanisation"
+  ],
+  "answer": 1,
+  "explanation": "Galvanising protects iron because zinc corrodes in preference."
+ },
+ {
+  "id": "t3-physical-science-023",
+  "part": "physical-science",
+  "topic": "chem-solutions-colloids",
+  "text": "The scattering of light by colloidal particles is known as the:",
+  "options": [
+   "Tyndall effect",
+   "Doppler effect",
+   "Raman effect",
+   "Zeeman effect"
+  ],
+  "answer": 0,
+  "explanation": "The Tyndall effect makes the path of a light beam visible in a colloid."
+ },
+ {
+  "id": "t3-physical-science-024",
+  "part": "physical-science",
+  "topic": "chem-matter-separation",
+  "text": "Cream is separated from milk by:",
+  "options": [
+   "Sublimation",
+   "Crystallisation",
+   "Centrifugation",
+   "Chromatography"
+  ],
+  "answer": 2,
+  "explanation": "Spinning separates the lighter cream from the milk."
+ },
+ {
+  "id": "t3-physical-science-025",
+  "part": "physical-science",
+  "topic": "chem-periodic-table",
+  "text": "Elements of the same group of the periodic table have the same number of:",
+  "options": [
+   "Valence electrons",
+   "Protons",
+   "Neutrons",
+   "Shells"
+  ],
+  "answer": 0,
+  "explanation": "Elements in a group share the same outer-shell configuration."
+ },
+ {
+  "id": "t3-physical-science-026",
+  "part": "physical-science",
+  "topic": "chem-periodic-table",
+  "text": "On moving from left to right across a period, the atomic size generally:",
+  "options": [
+   "First increases then stays constant",
+   "Stays the same",
+   "Decreases",
+   "Increases"
+  ],
+  "answer": 2,
+  "explanation": "Increasing nuclear charge pulls the electrons closer, so size decreases."
+ },
+ {
+  "id": "t3-physical-science-027",
+  "part": "physical-science",
+  "topic": "chem-bonding",
+  "text": "Ionic compounds conduct electricity:",
+  "options": [
+   "Only as gases",
+   "In the solid state",
+   "Never",
+   "In the molten state or in aqueous solution"
+  ],
+  "answer": 3,
+  "explanation": "Free ions carry the current when the compound is molten or dissolved."
+ },
+ {
+  "id": "t3-physical-science-028",
+  "part": "physical-science",
+  "topic": "chem-non-metals",
+  "text": "Ozone is an allotrope of:",
+  "options": [
+   "Sulphur",
+   "Oxygen",
+   "Carbon",
+   "Nitrogen"
+  ],
+  "answer": 1,
+  "explanation": "Ozone (O₃) is an allotrope of oxygen (O₂)."
+ },
+ {
+  "id": "t3-physical-science-029",
+  "part": "physical-science",
+  "topic": "chem-non-metals",
+  "text": "Nitrogen fixation in leguminous plants is carried out by:",
+  "options": [
+   "Fungi on leaves",
+   "Algae in water only",
+   "Rhizobium bacteria in root nodules",
+   "Viruses"
+  ],
+  "answer": 2,
+  "explanation": "Rhizobium converts atmospheric nitrogen to compounds the plant can use."
+ },
+ {
+  "id": "t3-physical-science-030",
+  "part": "physical-science",
+  "topic": "chem-organic",
+  "text": "The general formula of alkanes is:",
+  "options": [
+   "CnH2n+2",
+   "CnH2n",
+   "CnH2n-2",
+   "CnHn"
+  ],
+  "answer": 0,
+  "explanation": "Alkanes such as CH₄ and C₂H₆ follow CnH2n+2."
+ },
+ {
+  "id": "t3-physical-science-031",
+  "part": "physical-science",
+  "topic": "chem-acids-alkalis",
+  "text": "Acids turn which litmus paper red?",
+  "options": [
+   "Both",
+   "Blue litmus",
+   "Red litmus",
+   "Neither"
+  ],
+  "answer": 1,
+  "explanation": "Acids change blue litmus to red."
+ },
+ {
+  "id": "t3-physical-science-032",
+  "part": "physical-science",
+  "topic": "chem-gas-laws",
+  "text": "One mole of any gas at STP (273 K, 1 atm) occupies a volume of:",
+  "options": [
+   "2.24 L",
+   "11.2 L",
+   "22.4 L",
+   "44.8 L"
+  ],
+  "answer": 2,
+  "explanation": "The molar volume of a gas at 273 K and 1 atm is 22.4 L."
+ },
+ {
+  "id": "t3-physical-science-033",
+  "part": "physical-science",
+  "topic": "chem-mole-rates",
+  "text": "Powdered marble reacts faster with acid than marble lumps because of its larger:",
+  "options": [
+   "Colour",
+   "Mass",
+   "Density",
+   "Surface area"
+  ],
+  "answer": 3,
+  "explanation": "A larger surface area exposes more particles to the reactant."
+ },
+ {
+  "id": "t3-physical-science-034",
+  "part": "physical-science",
+  "topic": "ped-science-india",
+  "text": "Who is popularly known as the \"Missile Man of India\"?",
+  "options": [
+   "Homi J. Bhabha",
+   "Vikram Sarabhai",
+   "A. P. J. Abdul Kalam",
+   "Satish Dhawan"
+  ],
+  "answer": 2,
+  "explanation": "A. P. J. Abdul Kalam led India's missile development."
+ },
+ {
+  "id": "t3-physical-science-035",
+  "part": "physical-science",
+  "topic": "ped-aims-objectives",
+  "text": "The science process skill of drawing a conclusion from observations is:",
+  "options": [
+   "Inferring",
+   "Copying",
+   "Measuring",
+   "Counting"
+  ],
+  "answer": 0,
+  "explanation": "Inferring means explaining or concluding from observations."
+ },
+ {
+  "id": "t3-physical-science-036",
+  "part": "physical-science",
+  "topic": "ped-aims-objectives",
+  "text": "Which of the following is a measurable (behavioural) verb for writing an objective?",
+  "options": [
+   "Know",
+   "Identify",
+   "Appreciate",
+   "Understand"
+  ],
+  "answer": 1,
+  "explanation": "\"Identify\" describes observable behaviour; the others are vague."
+ },
+ {
+  "id": "t3-physical-science-037",
+  "part": "physical-science",
+  "topic": "ped-aims-objectives",
+  "text": "NCF 2005 expects science teaching to develop:",
+  "options": [
+   "Rote memory",
+   "Fear of science",
+   "Only exam skills",
+   "Scientific temper and problem-solving ability"
+  ],
+  "answer": 3,
+  "explanation": "Developing scientific temper, curiosity and problem solving is a stated aim."
+ },
+ {
+  "id": "t3-physical-science-038",
+  "part": "physical-science",
+  "topic": "ped-theory-basis",
+  "text": "Vygotsky's view of learning emphasises:",
+  "options": [
+   "Social interaction and language",
+   "Punishment",
+   "Instinct",
+   "Isolation"
+  ],
+  "answer": 0,
+  "explanation": "Vygotsky's social constructivism sees learning as socially mediated."
+ },
+ {
+  "id": "t3-physical-science-039",
+  "part": "physical-science",
+  "topic": "ped-theory-basis",
+  "text": "Kolb's experiential learning cycle begins with:",
+  "options": [
+   "Abstract conceptualisation",
+   "Concrete experience",
+   "Active experimentation only",
+   "Testing"
+  ],
+  "answer": 1,
+  "explanation": "The cycle: concrete experience, reflective observation, abstract conceptualisation, active experimentation."
+ },
+ {
+  "id": "t3-physical-science-040",
+  "part": "physical-science",
+  "topic": "ped-planning",
+  "text": "Which of the following is an audio aid?",
+  "options": [
+   "Chart",
+   "Model",
+   "Photograph",
+   "Tape recorder"
+  ],
+  "answer": 3,
+  "explanation": "A tape recorder or radio presents sound only."
+ },
+ {
+  "id": "t3-physical-science-041",
+  "part": "physical-science",
+  "topic": "ped-planning",
+  "text": "A major advantage of computer-assisted instruction is that it:",
+  "options": [
+   "Is free of cost always",
+   "Replaces all teachers",
+   "Provides immediate feedback and lets pupils learn at their own pace",
+   "Needs no planning"
+  ],
+  "answer": 2,
+  "explanation": "CAI offers individual pacing and instant feedback."
+ },
+ {
+  "id": "t3-physical-science-042",
+  "part": "physical-science",
+  "topic": "ped-models",
+  "text": "In the 5E model of teaching, the \"Explore\" phase involves:",
+  "options": [
+   "Students engaging in hands-on activities to gather experience",
+   "The final test",
+   "Homework only",
+   "The teacher lecturing"
+  ],
+  "answer": 0,
+  "explanation": "In Explore, learners investigate and gather evidence before explanations are given."
+ },
+ {
+  "id": "t3-physical-science-043",
+  "part": "physical-science",
+  "topic": "ped-models",
+  "text": "Models of teaching are grouped by Joyce and Weil into families such as:",
+  "options": [
+   "Primary, secondary and tertiary",
+   "Information processing, social, personal and behavioural",
+   "Lecture, notes and test",
+   "Easy, medium and hard"
+  ],
+  "answer": 1,
+  "explanation": "The four families are information processing, social, personal and behavioural systems."
+ },
+ {
+  "id": "t3-physical-science-044",
+  "part": "physical-science",
+  "topic": "ped-methods",
+  "text": "The first step of the scientific method is usually:",
+  "options": [
+   "Publishing",
+   "Reporting",
+   "Identifying and defining the problem",
+   "Drawing conclusions"
+  ],
+  "answer": 2,
+  "explanation": "The method starts from a problem, then hypothesis, experiment, observation and conclusion."
+ },
+ {
+  "id": "t3-physical-science-045",
+  "part": "physical-science",
+  "topic": "ped-methods",
+  "text": "The deductive method proceeds from:",
+  "options": [
+   "Concrete to abstract only",
+   "Particular to general",
+   "Known to unknown only",
+   "General rule to particular examples"
+  ],
+  "answer": 3,
+  "explanation": "Deduction applies a general rule to specific cases."
+ },
+ {
+  "id": "t3-physical-science-046",
+  "part": "physical-science",
+  "topic": "ped-methods",
+  "text": "A major merit of the laboratory method is that it:",
+  "options": [
+   "Avoids observation",
+   "Needs no equipment",
+   "Saves time always",
+   "Gives first-hand experience and develops skills"
+  ],
+  "answer": 3,
+  "explanation": "Students gain direct experience and manipulative skills."
+ },
+ {
+  "id": "t3-physical-science-047",
+  "part": "physical-science",
+  "topic": "ped-approaches",
+  "text": "The scientific process approach to teaching science emphasises:",
+  "options": [
+   "Learning by using the processes scientists use, such as observing, hypothesising and experimenting",
+   "Listening only",
+   "Memorising laws",
+   "Copying notes"
+  ],
+  "answer": 0,
+  "explanation": "Pupils learn science by practising the processes of science."
+ },
+ {
+  "id": "t3-physical-science-048",
+  "part": "physical-science",
+  "topic": "ped-curriculum",
+  "text": "A modern trend in science curriculum construction is to make it:",
+  "options": [
+   "Teacher-centred and bookish",
+   "Free of experiments",
+   "Learner-centred and activity-based",
+   "Examination-oriented only"
+  ],
+  "answer": 2,
+  "explanation": "Modern curricula favour activity-based, learner-centred approaches."
+ },
+ {
+  "id": "t3-physical-science-049",
+  "part": "physical-science",
+  "topic": "ped-curriculum",
+  "text": "A pupils' workbook in science is used mainly to:",
+  "options": [
+   "Keep money",
+   "Practise, record activities and self-assess",
+   "Entertain",
+   "Replace the textbook"
+  ],
+  "answer": 1,
+  "explanation": "Workbooks give practice and record of activities."
+ },
+ {
+  "id": "t3-physical-science-050",
+  "part": "physical-science",
+  "topic": "ped-labs-clubs",
+  "text": "A science museum helps in science learning by:",
+  "options": [
+   "Displaying exhibits that make ideas concrete and interesting",
+   "Replacing teachers",
+   "Closing the library",
+   "Giving marks"
+  ],
+  "answer": 0,
+  "explanation": "Exhibits give direct, interesting experience of scientific ideas."
+ },
+ {
+  "id": "t3-physical-science-051",
+  "part": "physical-science",
+  "topic": "ped-evaluation",
+  "text": "An important advantage of objective-type tests is:",
+  "options": [
+   "Easy preparation",
+   "Testing writing skill",
+   "Testing creativity fully",
+   "Objectivity in scoring"
+  ],
+  "answer": 3,
+  "explanation": "The score does not depend on the scorer's opinion."
+ },
+ {
+  "id": "t3-physical-science-052",
+  "part": "physical-science",
+  "topic": "ped-evaluation",
+  "text": "An advantage of the grading system over marks is that it:",
+  "options": [
+   "Removes evaluation",
+   "Reduces unhealthy competition and examination stress",
+   "Increases rote learning",
+   "Gives exact ranks"
+  ],
+  "answer": 1,
+  "explanation": "Grades group learners in bands and lower pressure."
+ },
+ {
+  "id": "t3-physical-science-053",
+  "part": "physical-science",
+  "topic": "ped-professional",
+  "text": "Reflective practice by a teacher means:",
+  "options": [
+   "Looking in a mirror",
+   "Avoiding feedback",
+   "Thinking critically about one's own teaching to improve it",
+   "Copying others"
+  ],
+  "answer": 2,
+  "explanation": "Reflection on practice is a key to professional growth."
+ }
+]

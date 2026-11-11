@@ -18,28 +18,30 @@ It offers 5 mock tests of 100 questions each, published on GitHub Pages.
 - Publishing: the user creates an empty public GitHub repo and gives its URL. `gh` is not installed.
   Confirm with the user immediately before the first push.
 
-## Assumptions (to verify, not yet confirmed)
+## Verified facts (plan task 1, 2026-11-11)
 
 - The official Category III paper has 150 questions / 150 marks, 2.5 hours, no negative marking.
-  Sources disagree on the part split; the official prospectus is a scanned image. The split below
-  is provisional and must be checked against the official papers and syllabus in plan task 1.
+- Official split, confirmed from the syllabus and the Dec 2025 answer key numbering: Part I
+  Adolescent Psychology, Theories of Learning and Teaching Aptitude 40; Part II Language I 30;
+  Part III subject 80 (Physical Science: Physics 25, Chemistry 25, Pedagogy 30). There is no
+  separate English language part. This corrects the draft, which assumed 30/30/30/60.
 - Timer: 100 minutes (2.5 h x 100/150). The user may change it.
 
-## Test structure (provisional)
+## Test structure
 
 Each test is the official pattern scaled by 2/3.
 
 | Part | Official | Per test |
 |---|---|---|
-| Child Development and Pedagogy | 30 | 20 |
+| Adolescent Psychology, Learning Theories and Teaching Aptitude | 40 | 27 |
 | Language I (Malayalam) | 30 | 20 |
-| Language II (English) | 30 | 20 |
-| Physical Science (content and pedagogy) | 60 | 40 |
+| Physical Science (Physics 17, Chemistry 16, Pedagogy 20) | 80 | 53 |
 | Total | 150 | 100 |
 
-Topic weights inside each part come from tagging the questions in the Nov 2019, Oct 2023,
-Nov 2024 and Dec 2025 Category III papers (and others that are available).
-The same weights drive every test; the five tests use different questions, with no repeats.
+Topic weights come from the official syllabus's per-section question counts, split across topics by
+syllabus coverage (`data/blueprint.json`, `docs/research/topic-weights.md`). The past-paper question
+text is not published as PDFs (only answer keys are), so weights could not be counted from past
+questions. The same weights drive every test; the five tests use different questions, with no repeats.
 
 ## Architecture
 

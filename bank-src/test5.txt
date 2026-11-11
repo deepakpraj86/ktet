@@ -1,0 +1,199 @@
+# Mock test 5. Format: question ||| A ||| B ||| C ||| D ||| correct letter ||| explanation (never cite option letters in explanations)
+
+## psy-adolescence
+Which of the following is a social developmental need of adolescents? ||| Acceptance by the peer group ||| Complete isolation ||| Freedom from all rules ||| Avoiding friends ||| A ||| Adolescents strongly need belonging and acceptance among peers.
+Which method of studying adolescents records their natural behaviour in real settings? ||| Naturalistic observation ||| Intelligence testing ||| Laboratory experiment ||| Projective testing ||| A ||| Naturalistic observation watches behaviour as it occurs in daily settings.
+
+## psy-problems
+A student who refuses to accept that he has failed an examination is using the defence mechanism of: ||| Denial ||| Sublimation ||| Compensation ||| Identification ||| A ||| Denial refuses to accept an unpleasant reality.
+The most suitable school response to an adolescent with serious emotional problems is: ||| Punishment ||| Guidance and counselling ||| Expulsion ||| Public criticism ||| B ||| Counselling helps the adolescent understand and solve the problem.
+
+## psy-dev-theories
+In Freud's structure of personality, the part that follows the reality principle is the: ||| Id ||| Ego ||| Superego ||| Libido ||| B ||| The id follows the pleasure principle, the ego the reality principle, the superego morality.
+The "good boy, nice girl" orientation in Kohlberg's theory belongs to the: ||| Pre-conventional level ||| Conventional level ||| Post-conventional level ||| Pre-moral level only ||| B ||| Seeking approval from others is a conventional-level stage.
+Erikson's crisis of "intimacy versus isolation" occurs mainly in: ||| Infancy ||| Childhood ||| Early adulthood ||| Old age ||| C ||| Young adults form close relationships or become isolated.
+
+## learn-nature-factors
+At the top of Maslow's hierarchy of needs is: ||| Physiological needs ||| Safety needs ||| Esteem needs ||| Self-actualisation ||| D ||| Self-actualisation, fulfilment of one's potential, is the highest need.
+Which of the following is a subjective factor that determines attention? ||| Interest ||| Size of the object ||| Loudness of sound ||| Movement of the object ||| A ||| Interest, attitude and motives lie within the person; size, loudness and movement are objective.
+Transfer of training from one hand to the other is called: ||| Bilateral transfer ||| Vertical transfer ||| Negative transfer ||| Zero transfer ||| A ||| Bilateral transfer is the carry-over of skill from one side of the body to the other.
+
+## learn-creativity
+Which classroom practice best fosters creativity? ||| Asking open-ended questions and accepting varied answers ||| Insisting on a single correct answer ||| Punishing risk-taking ||| Giving only rote drills ||| A ||| Open-ended tasks and a safe atmosphere encourage original thinking.
+The relationship between creativity and intelligence is generally: ||| Perfectly negative ||| Positive but moderate ||| Exactly equal ||| Nil ||| B ||| Research shows a positive but modest relationship.
+
+## learn-theories
+When a dog trained to salivate at a bell of one pitch also salivates at bells of similar pitches, this is called: ||| Stimulus generalisation ||| Discrimination ||| Extinction ||| Spontaneous recovery ||| A ||| Generalisation is responding to stimuli similar to the conditioned stimulus.
+Thorndike's law of readiness states that learning is best when the learner is: ||| Physically and mentally prepared ||| Tired ||| Distracted ||| Forced ||| A ||| Readiness, physical and mental, makes learning satisfying and effective.
+Ausubel stressed that the most important factor in learning is: ||| What the learner already knows ||| The colour of the book ||| The length of the school day ||| The teacher's age ||| A ||| Ausubel's meaningful learning builds on the learner's existing knowledge.
+
+## learn-special-needs
+Mental retardation is generally associated with an IQ below about: ||| 50 ||| 70 ||| 90 ||| 110 ||| B ||| An IQ below about 70 with deficits in adaptive behaviour is the usual criterion.
+Which of the following supports the inclusion of children with locomotor disabilities in a regular school? ||| Ramps and accessible toilets ||| Steep stairs only ||| Crowded classrooms ||| Removal of seating ||| A ||| Barrier-free access is a basic requirement of inclusion.
+
+## teach-nature-roles
+The main aim of teaching is to bring about: ||| Desirable changes in the learner's behaviour ||| Fear of the teacher ||| Memorisation of facts only ||| Silence in class ||| A ||| Teaching aims at desirable changes in knowledge, skills and attitudes.
+A teacher who sets goals and inspires pupils to work towards them is acting as a: ||| Leader ||| Spectator ||| Critic ||| Clerk ||| A ||| A leader gives direction and inspires group effort.
+Which of the following is a factor affecting teaching? ||| The teacher's subject knowledge and communication skill ||| The colour of the school gate ||| The number of trees ||| The age of the building ||| A ||| Teacher competence and communication strongly affect teaching.
+
+## teach-methods-evaluation
+A norm-referenced test compares a student's performance with that of: ||| A fixed standard only ||| Other students ||| The teacher ||| The previous year's textbook ||| B ||| Norm-referenced tests rank students against a group.
+Peer assessment means: ||| Students assess one another's work ||| The principal assesses ||| Parents assess ||| No one assesses ||| A ||| Learners give feedback on each other's work using criteria.
+Which of the following is an effective use of ICT in the classroom? ||| Showing simulations and animations of scientific processes ||| Displaying only blank slides ||| Replacing all experiments ||| Avoiding student activity ||| A ||| Simulations make abstract ideas visible and interactive.
+
+## teach-classroom-mgmt
+Which of the following reduces idle time and misbehaviour in the classroom? ||| Well-prepared lessons with smooth transitions ||| Unplanned lessons ||| Long lectures ||| Frequent punishment ||| A ||| Good planning keeps pupils engaged.
+
+## teach-personality-ethics
+Commitment of a teacher to the profession is shown by: ||| Punctuality, preparation and care for learners ||| Late arrival ||| Skipping classes ||| Private tuition for own students at school time ||| A ||| Dedicated work and care for pupils show professional commitment.
+
+## teach-frameworks
+The report "Learning Without Burden" was submitted in: ||| 1993 ||| 1966 ||| 2005 ||| 2009 ||| A ||| The Yash Pal Committee submitted it in 1993 to reduce curriculum load.
+Article 21A, the right to education, was inserted into the Constitution by the: ||| 86th Amendment ||| 42nd Amendment ||| 44th Amendment ||| 73rd Amendment ||| A ||| The 86th Amendment of 2002 inserted Article 21A.
+
+## ml-comprehension-prose
+ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “കൃഷി നമ്മുടെ നാടിന്റെ നട്ടെല്ലാണ്. കർഷകൻ വിയർപ്പൊഴുക്കുമ്പോഴാണ് നമ്മുടെ തീൻമേശയിൽ ആഹാരമെത്തുന്നത്. എന്നിട്ടും കർഷകന്റെ ജീവിതം പലപ്പോഴും കഷ്ടത്തിലാണ്.” ഈ ഭാഗത്തിൽ നിന്ന് മനസ്സിലാക്കാവുന്നത് എന്താണ്? ||| കർഷകർ സുഖമായി ജീവിക്കുന്നു ||| നമുക്ക് ആഹാരം നൽകുന്ന കർഷകരുടെ ജീവിതം പലപ്പോഴും കഷ്ടത്തിലാണ് ||| കൃഷി ആവശ്യമില്ല ||| ആഹാരം ധാരാളം ഉണ്ട് ||| B ||| ഖണ്ഡികയുടെ അവസാനവാക്യം കർഷകരുടെ കഷ്ടത്തെക്കുറിച്ച് പറയുന്നു.
+ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഗുരുവിനോടുള്ള ബഹുമാനം വിദ്യാർഥിയുടെ ആദ്യത്തെ ഗുണമാണ്. ബഹുമാനമുള്ളവർക്ക് മാത്രമേ അറിവ് ഉള്ളിൽ ഉറയ്ക്കൂ.” ഖണ്ഡിക അനുസരിച്ച് അറിവ് ഉള്ളിൽ ഉറയ്ക്കുന്നത് ആർക്കാണ്? ||| ബഹുമാനമുള്ളവർക്ക് ||| ധനികർക്ക് ||| മടിയുള്ളവർക്ക് ||| ഒറ്റയ്ക്കിരിക്കുന്നവർക്ക് ||| A ||| ‘ബഹുമാനമുള്ളവർക്ക് മാത്രമേ അറിവ് ഉള്ളിൽ ഉറയ്ക്കൂ’ എന്ന് ഖണ്ഡികയിൽ പറയുന്നു.
+ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ദേശസ്നേഹം എന്നാൽ നമ്മുടെ നാടിനെ സ്നേഹിക്കുകയും അതിന്റെ പുരോഗതിക്കായി പ്രവർത്തിക്കുകയും ചെയ്യുക എന്നതാണ്. വെറും മുദ്രാവാക്യങ്ങൾ വിളിക്കുന്നതിൽ അത് ഒതുങ്ങുന്നില്ല.” ദേശസ്നേഹത്തെ ലേഖകൻ എങ്ങനെ വിശദീകരിക്കുന്നു? ||| മുദ്രാവാക്യം വിളിക്കൽ മാത്രം ||| നാടിനെ സ്നേഹിച്ച് അതിന്റെ പുരോഗതിക്കായി പ്രവർത്തിക്കൽ ||| വിദേശത്ത് പോകൽ ||| രാഷ്ട്രീയത്തിൽ ചേരൽ ||| B ||| നാടിനെ സ്നേഹിക്കുകയും പുരോഗതിക്കായി പ്രവർത്തിക്കുകയും ചെയ്യലാണ് ദേശസ്നേഹം എന്ന് ഖണ്ഡിക പറയുന്നു.
+
+## ml-comprehension-poetry
+വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “മഴ വന്നു മണ്ണിൻ മണം പൊങ്ങി, മയിലുകൾ നൃത്തം ചെയ്തു; കുട്ടികൾ കൂട്ടമായ് മുറ്റത്തിറങ്ങി, കളിവള്ളം തോട്ടിലൊഴുക്കി.” ഈ വരികൾ ഏത് കാലത്തെ വർണിക്കുന്നു? ||| വേനൽക്കാലം ||| മഴക്കാലം ||| ശൈത്യകാലം ||| വസന്തകാലം ||| B ||| ‘മഴ വന്നു’, ‘കളിവള്ളം തോട്ടിലൊഴുക്കി’ എന്നീ പ്രയോഗങ്ങൾ മഴക്കാലത്തെ കാണിക്കുന്നു.
+വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “മഴ വന്നു മണ്ണിൻ മണം പൊങ്ങി, മയിലുകൾ നൃത്തം ചെയ്തു.” മഴ വന്നപ്പോൾ മയിലുകൾ എന്തു ചെയ്തു? ||| പാടി ||| നൃത്തം ചെയ്തു ||| ഒളിച്ചു ||| ഉറങ്ങി ||| B ||| വരിയിൽ ‘മയിലുകൾ നൃത്തം ചെയ്തു’ എന്ന് പറയുന്നു.
+വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “കുട്ടികൾ കൂട്ടമായ് മുറ്റത്തിറങ്ങി, കളിവള്ളം തോട്ടിലൊഴുക്കി.” ഇവിടെ കുട്ടികളുടെ മാനസികാവസ്ഥ എന്താണ്? ||| ദുഃഖം ||| സന്തോഷം ||| ഭയം ||| ദേഷ്യം ||| B ||| കൂട്ടമായി ഇറങ്ങി കളിവള്ളമൊഴുക്കുന്നത് സന്തോഷത്തെ കാണിക്കുന്നു.
+
+## ml-expression
+‘പുഷ്പം’ എന്ന പദത്തിന്റെ പര്യായമല്ലാത്തത് ഏത്? ||| പൂവ് ||| സുമം ||| കുസുമം ||| ഫലം ||| D ||| പൂവ്, സുമം, കുസുമം എന്നിവ പുഷ്പത്തിന്റെ പര്യായങ്ങളാണ്.
+‘ഉയർച്ച’ എന്ന പദത്തിന്റെ വിപരീതപദം ഏത്? ||| വളർച്ച ||| താഴ്ച ||| ഉന്നതി ||| പുരോഗതി ||| B ||| ഉയർച്ചയുടെ വിപരീതം താഴ്ചയാണ്.
+‘വേദം അറിയുന്നവൻ’ എന്നതിന് ഒറ്റപ്പദം ഏത്? ||| വേദജ്ഞൻ ||| വേദാന്തി ||| വൈദ്യൻ ||| വേദനാകാരൻ ||| A ||| വേദം അറിയുന്നവൻ വേദജ്ഞൻ.
+‘രാജാവ്’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ഏത്? ||| രാജ്ഞി ||| രാജി ||| രാജിക ||| രാജ്യ ||| A ||| ‘രാജാവ്’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ‘രാജ്ഞി’ ആണ്.
+‘പുസ്തകം’ എന്ന പദത്തിന്റെ ബഹുവചനം ഏത്? ||| പുസ്തകങ്ങൾ ||| പുസ്തകർ ||| പുസ്തകമാർ ||| പുസ്തകികൾ ||| A ||| ‘പുസ്തകം’ എന്ന പദത്തിന്റെ ബഹുവചനം ‘പുസ്തകങ്ങൾ’.
+ഉചിതമായ പദം ചേർത്ത് പൂരിപ്പിക്കുക: “കഠിനാധ്വാനം ചെയ്താൽ വിജയം ......” ||| കിട്ടില്ല ||| കിട്ടും ||| മറക്കും ||| പോകും ||| B ||| കഠിനാധ്വാനം വിജയത്തിലേക്ക് നയിക്കുമെന്ന് അർഥം.
+‘വരൂ’ എന്ന പദം ഉൾക്കൊള്ളുന്ന വാക്യത്തിൽ ഏത് അർഥമാണ് വ്യക്തമാകുന്നത്? ||| അഭ്യർഥന/ക്ഷണം ||| ഭൂതകാലം ||| നിഷേധം ||| ചോദ്യം മാത്രം ||| A ||| ‘വരൂ’ എന്നത് ക്ഷണിക്കുന്നതോ അഭ്യർഥിക്കുന്നതോ ആയ രൂപമാണ്.
+
+## ml-language-knowledge
+മലയാളത്തിൽ സാധാരണയായി പഠിപ്പിക്കുന്ന ചില്ലക്ഷരങ്ങൾ എത്ര? ||| 3 ||| 4 ||| 5 ||| 7 ||| C ||| ണ്‍, ന്‍, ര്‍, ല്‍, ള്‍ എന്നിങ്ങനെ അഞ്ച് ചില്ലക്ഷരങ്ങളാണ് സാധാരണ പഠിപ്പിക്കുന്നത്; ൿ എന്ന ആറാമത്തെ ചില്ല വളരെ അപൂർവമായേ ഉപയോഗിക്കുന്നുള്ളൂ.
+‘ച’ വർഗത്തിലെ അനുനാസികം ഏത്? ||| ങ ||| ഞ ||| ണ ||| ന ||| B ||| ച വർഗം: ച ഛ ജ ഝ ഞ; ഇതിലെ അനുനാസികം ‘ഞ’.
+‘അവനാൽ’ എന്ന പദം ഏത് വിഭക്തിയിൽപ്പെടുന്നു? ||| പ്രയോജിക ||| ആധാരിക ||| സംബന്ധിക ||| സംയോജിക ||| A ||| ‘-ആൽ’ പ്രത്യയം പ്രയോജിക വിഭക്തിയുടേതാണ്.
+‘മുതലക്കണ്ണീർ ഒഴുക്കുക’ എന്ന ശൈലിയുടെ അർഥം ഏത്? ||| ആത്മാർഥമായി കരയുക ||| കപടദുഃഖം കാണിക്കുക ||| ഭയപ്പെടുക ||| സന്തോഷിക്കുക ||| B ||| ഉള്ളിൽ ദുഃഖമില്ലാതെ കരയുന്നതായി ഭാവിക്കുക എന്നാണ് ഇതിന്റെ അർഥം.
+‘ചൂടുവെള്ളത്തിൽ വീണ പൂച്ച പച്ചവെള്ളത്തെ പേടിക്കും’ എന്ന പഴഞ്ചൊല്ലിന്റെ ആശയം ഏത്? ||| ഒരിക്കൽ ദുരനുഭവം ഉണ്ടായവർ ചെറിയ കാര്യങ്ങളെപ്പോലും ഭയക്കും ||| പൂച്ചകൾ വെള്ളം ഇഷ്ടപ്പെടുന്നു ||| ചൂടുവെള്ളം നല്ലതാണ് ||| പച്ചവെള്ളം ശുദ്ധമാണ് ||| A ||| മുൻ അനുഭവത്തിന്റെ ഭയം സമാനമായ ചെറിയ കാര്യങ്ങളിലും ഉണ്ടാകും എന്നാണ് ഇതിന്റെ ആശയം.
+‘ഖസാക്കിന്റെ ഇതിഹാസം’ എന്ന നോവൽ രചിച്ചതാര്? ||| എം. ടി. വാസുദേവൻ നായർ ||| ഒ. വി. വിജയൻ ||| തകഴി ||| ബഷീർ ||| B ||| ഖസാക്കിന്റെ ഇതിഹാസം ഒ. വി. വിജയന്റെ കൃതിയാണ്.
+‘രമണൻ’ എന്ന കാവ്യം രചിച്ചതാര്? ||| ചങ്ങമ്പുഴ കൃഷ്ണപിള്ള ||| വള്ളത്തോൾ ||| ഇടശ്ശേരി ||| പി. കുഞ്ഞിരാമൻ നായർ ||| A ||| രമണൻ ചങ്ങമ്പുഴയുടെ പ്രശസ്ത കാവ്യമാണ്.
+
+## phy-waves
+The minimum distance between a source of sound and a reflecting wall for an echo to be heard clearly is about (speed of sound 340 m/s, persistence of hearing 0.1 s): ||| 8.5 m ||| 17 m ||| 34 m ||| 340 m ||| B ||| The sound must travel to the wall and back in 0.1 s: distance = 340 x 0.1 / 2 = 17 m.
+Sound waves of frequency below 20 Hz are called: ||| Ultrasonic waves ||| Infrasonic waves ||| Audible waves ||| Radio waves ||| B ||| Infrasound lies below the audible range of 20 Hz to 20 kHz.
+
+## phy-light
+The refractive index of a medium is 2. The critical angle for light going from this medium to air is: ||| 30° ||| 45° ||| 60° ||| 90° ||| A ||| sin C = 1/n = 1/2, so C = 30°.
+When white light passes through a glass prism, the colour that deviates the least is: ||| Violet ||| Red ||| Blue ||| Green ||| B ||| Red has the longest wavelength and bends least.
+
+## phy-force-pressure
+Capillary rise of a liquid is greater in a tube of: ||| Wider bore ||| Narrower bore ||| Any bore equally ||| Larger length only ||| B ||| Rise h = 2T cos(theta)/(r rho g), so a smaller radius gives a greater rise.
+
+## phy-heat
+Transfer of heat in liquids and gases by the actual movement of the particles is called: ||| Conduction ||| Convection ||| Radiation ||| Reflection ||| B ||| Convection currents carry heat in fluids.
+
+## phy-motion
+A car travels 60 km in 2 hours. Its average speed is: ||| 15 km/h ||| 20 km/h ||| 30 km/h ||| 120 km/h ||| C ||| Average speed = total distance / total time = 60 / 2 = 30 km/h.
+Passengers in a bus fall forward when it stops suddenly. This is explained by: ||| Newton's first law (inertia) ||| Newton's third law ||| Law of gravitation ||| Ohm's law ||| A ||| The body tends to continue in its state of motion.
+
+## phy-gravitation
+A solar eclipse occurs when the: ||| Earth comes between the Sun and the Moon ||| Moon comes between the Sun and the Earth ||| Sun comes between the Earth and the Moon ||| Mars comes near the Earth ||| B ||| The Moon's shadow falls on the Earth during a solar eclipse.
+
+## phy-work-energy
+One kilowatt-hour is equal to: ||| 3.6 x 10³ J ||| 3.6 x 10⁴ J ||| 3.6 x 10⁶ J ||| 3.6 x 10⁹ J ||| C ||| 1 kWh = 1000 W x 3600 s = 3.6 x 10⁶ J.
+
+## phy-electricity-magnetism
+An electric heater is rated 220 V and draws 5 A. Its power is: ||| 225 W ||| 1100 W ||| 1320 W ||| 4400 W ||| B ||| P = VI = 220 x 5 = 1100 W.
+A fuse wire is made of a material having: ||| High melting point ||| Low melting point ||| Very high resistance only ||| Magnetic properties ||| B ||| A low melting point lets it melt and break the circuit when the current is too high.
+An electroscope is used to: ||| Detect the presence of electric charge ||| Measure current ||| Measure temperature ||| Measure sound ||| A ||| The leaves of a gold-leaf electroscope diverge when charged.
+
+## phy-current-effects-emi
+A solenoid carrying current behaves like: ||| A bar magnet ||| A battery ||| A capacitor ||| A resistor only ||| A ||| The magnetic field of a current-carrying solenoid resembles that of a bar magnet.
+The split ring (commutator) in a DC generator is used to: ||| Reverse the connections to the external circuit every half rotation to give direct current ||| Produce alternating current ||| Increase the voltage ||| Cool the coil ||| A ||| The commutator keeps the output current in one direction.
+
+## phy-electronics
+How many diodes are used in a bridge rectifier? ||| 1 ||| 2 ||| 4 ||| 6 ||| C ||| A full-wave bridge rectifier uses four diodes.
+With a rise in temperature, the resistance of a semiconductor generally: ||| Increases ||| Decreases ||| Remains constant ||| Becomes infinite ||| B ||| More carriers are released at higher temperature, so resistance falls.
+
+## chem-changes
+Dissolving quicklime (calcium oxide) in water is: ||| An endothermic process ||| An exothermic process ||| A physical change without heat ||| A nuclear change ||| B ||| Slaking of lime releases a large amount of heat.
+
+## chem-atoms-molecules
+An element with electronic configuration 2, 8, 1 has a valency of: ||| 1 ||| 2 ||| 7 ||| 8 ||| A ||| It has one electron in its outer shell, which it loses easily.
+The neutron was discovered by: ||| J. J. Thomson ||| Rutherford ||| Chadwick ||| Bohr ||| C ||| James Chadwick discovered the neutron in 1932.
+
+## chem-metals
+Sodium is stored under kerosene because it: ||| Is very reactive with air and water ||| Is radioactive ||| Is heavy ||| Is a gas ||| A ||| Sodium reacts vigorously with oxygen and moisture.
+Rust is chiefly: ||| Hydrated iron(III) oxide ||| Iron sulphide ||| Iron chloride ||| Pure iron ||| A ||| Rust is hydrated iron(III) oxide, Fe₂O₃.xH₂O.
+
+## chem-solutions-colloids
+Fog is a colloid in which: ||| A gas is dispersed in a liquid ||| A liquid is dispersed in a gas ||| A solid is dispersed in a gas ||| A solid is dispersed in a liquid ||| B ||| Fog is an aerosol of tiny water droplets in air.
+
+## chem-matter-separation
+The different components of petroleum are separated by: ||| Fractional distillation ||| Filtration ||| Evaporation ||| Magnetic separation ||| A ||| Components with different boiling points are collected in different fractions.
+
+## chem-periodic-table
+Lithium, sodium and potassium belong to the group of: ||| Alkali metals ||| Halogens ||| Noble gases ||| Alkaline earth metals ||| A ||| Group 1 elements are the alkali metals.
+In the modern periodic table, metals are found mainly on the: ||| Left side ||| Right side ||| Extreme top only ||| Bottom right only ||| A ||| Metals occupy the left and centre; non-metals the right.
+
+## chem-bonding
+According to the octet rule, atoms tend to combine so as to have how many electrons in their outermost shell? ||| 2 ||| 6 ||| 8 ||| 10 ||| C ||| Atoms gain, lose or share electrons to attain eight electrons in the outer shell.
+
+## chem-non-metals
+Chlorine is widely used for: ||| Purifying drinking water ||| Making diamonds ||| Cooling ||| Fuelling vehicles ||| A ||| Chlorination kills germs in water.
+The hardest natural substance, an allotrope of carbon, is: ||| Graphite ||| Diamond ||| Charcoal ||| Coke ||| B ||| In diamond every carbon atom is bonded tetrahedrally to four others.
+
+## chem-organic
+The functional group present in alcohols is: ||| -OH ||| -COOH ||| -CHO ||| -NH₂ ||| A ||| Alcohols contain the hydroxyl (-OH) group.
+
+## chem-acids-alkalis
+The common name of sodium hydrogencarbonate is: ||| Washing soda ||| Baking soda ||| Caustic soda ||| Bleaching powder ||| B ||| NaHCO₃ is baking soda; washing soda is Na₂CO₃.
+
+## chem-gas-laws
+Absolute zero of temperature is equal to: ||| 0 °C ||| -100 °C ||| -273 °C ||| -373 °C ||| C ||| Absolute zero is 0 K, or about -273 °C.
+
+## chem-mole-rates
+A catalyst increases the rate of a reaction by: ||| Lowering the activation energy ||| Raising the temperature ||| Being used up completely ||| Increasing the products' mass ||| A ||| A catalyst provides an alternative path with lower activation energy and is not consumed.
+
+## ped-science-india
+Who is regarded as the father of the Indian nuclear programme? ||| Homi J. Bhabha ||| Vikram Sarabhai ||| C. V. Raman ||| J. C. Bose ||| A ||| Homi J. Bhabha founded the Atomic Energy programme in India.
+
+## ped-aims-objectives
+The phrase "scientific temper" was popularised in India by: ||| Jawaharlal Nehru ||| Mahatma Gandhi ||| Sardar Patel ||| B. R. Ambedkar ||| A ||| Nehru used the term in "The Discovery of India".
+In the affective domain taxonomy, the lowest level is: ||| Receiving ||| Responding ||| Valuing ||| Characterisation ||| A ||| The order is receiving, responding, valuing, organisation, characterisation.
+The science process skill of grouping objects by their common properties is: ||| Classifying ||| Predicting ||| Measuring ||| Communicating ||| A ||| Classifying sorts things by shared properties.
+
+## ped-theory-basis
+"Learning by doing" is the educational idea most closely associated with: ||| John Dewey ||| Pavlov ||| Freud ||| Binet ||| A ||| Dewey advocated experiential, activity-based learning.
+In a constructivist science class, the teacher first: ||| Finds out the pupils' prior ideas ||| Gives the final answer ||| Ends the lesson ||| Gives a test ||| A ||| Prior knowledge is the starting point for new understanding.
+
+## ped-planning
+The introduction of a lesson should mainly: ||| Motivate pupils and link with previous knowledge ||| Confuse pupils ||| Finish the content ||| Give homework ||| A ||| A good introduction arouses interest and recalls earlier learning.
+Which Indian satellite is dedicated to educational broadcasting? ||| EDUSAT ||| INSAT-1A ||| Aryabhata ||| Chandrayaan ||| A ||| EDUSAT was launched in 2004 for educational services.
+
+## ped-models
+Which of the following belongs to the information processing family of teaching models? ||| Concept attainment model ||| Role play model ||| Group investigation model ||| Programmed instruction model ||| A ||| Concept attainment, inductive thinking and advance organiser models belong to the information processing family.
+In the 5E model, the "Elaborate" phase asks pupils to: ||| Extend their understanding to new situations ||| Forget the concept ||| Wait silently ||| Only copy notes ||| A ||| Elaboration applies the concept to new contexts.
+
+## ped-methods
+In the scientific method, a tentative explanation that can be tested is called a: ||| Hypothesis ||| Conclusion ||| Result ||| Law ||| A ||| A hypothesis is a testable proposed explanation.
+The assignment method in science is used mainly to: ||| Encourage self-study and practice ||| Reduce learning ||| Replace the teacher ||| Punish students ||| A ||| Assignments extend learning beyond the class through independent work.
+The investigatory method is mainly a: ||| Learner-centred method of finding answers by investigation ||| Teacher monologue ||| Rote method ||| Dictation method ||| A ||| Learners plan and carry out investigations to answer questions.
+
+## ped-approaches
+The problem-solving approach in science teaching mainly develops: ||| Reasoning and the ability to apply knowledge ||| Rote memory ||| Handwriting ||| Silence ||| A ||| It trains pupils to define, investigate and solve problems.
+
+## ped-curriculum
+A child-centred curriculum is one that: ||| Is based on the interests and needs of learners ||| Ignores learners ||| Is fixed by the printer ||| Has no activities ||| A ||| Its content and activities are chosen around learners' needs and interests.
+Good illustrations in a science textbook: ||| Help learners understand concepts ||| Should be avoided ||| Waste space ||| Replace all text ||| A ||| Clear diagrams and pictures support understanding.
+
+## ped-labs-clubs
+Field trips organised by a science club help pupils to: ||| Observe and learn from nature directly ||| Avoid learning ||| Miss classes ||| Stop studying ||| A ||| Direct experience in the field makes learning meaningful.
+
+## ped-evaluation
+A criterion-referenced test judges a student's performance against: ||| A fixed standard of mastery ||| Other students' scores ||| The teacher's mood ||| Chance ||| A ||| It checks whether the learner has reached a set criterion.
+Short-answer questions are mainly useful for testing: ||| Recall and brief explanation of facts ||| Only creativity ||| Only essay writing ||| Only handwriting ||| A ||| They require brief, precise answers.
+
+## ped-professional
+The teacher's role in curriculum development is to: ||| Give feedback from classroom experience ||| Avoid any contribution ||| Only copy textbooks ||| Reject change ||| A ||| Teachers contribute practical feedback and ideas for improving the curriculum.

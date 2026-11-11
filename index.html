@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>KTET Category III Mock Tests</title>
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>KTET Category III mock tests</h1>
+    <p>Physical Science stream, Malayalam as Language I. Practice material, not an official source.</p>
+  </header>
+  <main id="app">
+    <p id="storage-warning" class="warning" role="status" hidden>
+      This browser is blocking storage, so progress and scores will be lost when you close the tab.
+    </p>
+    <section id="tests" class="cards" aria-label="Mock tests">Loading tests…</section>
+    <section class="tools" aria-label="Progress backup">
+      <h2>Move your progress to another device</h2>
+      <button type="button" id="export">Export progress</button>
+      <label class="button">Import progress
+        <input type="file" id="import" accept="application/json,.json" hidden>
+      </label>
+      <p id="tools-message" role="status"></p>
+    </section>
+  </main>
+  <script type="module" src="js/home.js"></script>
+  <script type="module" src="js/sw-register.js"></script>
+</body>
+</html>
