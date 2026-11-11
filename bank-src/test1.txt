@@ -1,0 +1,199 @@
+# Mock test 1. Format: question ||| A ||| B ||| C ||| D ||| correct letter ||| explanation
+
+## psy-adolescence
+G. Stanley Hall described adolescence as a period of: ||| Calm and stability ||| Storm and stress ||| Latency ||| Concrete thinking ||| B ||| Hall called adolescence a period of "storm and stress" because of rapid physical and emotional change.
+Which of the following is a developmental task of adolescence according to Havighurst? ||| Learning to walk ||| Learning to read ||| Achieving emotional independence from parents ||| Adjusting to decreasing physical strength ||| C ||| Emotional independence from parents is a central adolescent task; the others belong to infancy, childhood and old age.
+
+## psy-problems
+A student's marks are far below what his measured intelligence would predict. This is called: ||| Underachievement ||| Backwardness ||| Mental retardation ||| Slow learning ||| A ||| Underachievement is performance well below potential, unlike low ability.
+A boy scolded by his teacher shouts at his younger brother at home. This defence mechanism is: ||| Projection ||| Regression ||| Displacement ||| Sublimation ||| C ||| Displacement shifts an emotion from its real source to a safer, weaker target.
+
+## psy-dev-theories
+In Piaget's theory, abstract and hypothetical reasoning appears in the: ||| Sensorimotor stage ||| Preoperational stage ||| Concrete operational stage ||| Formal operational stage ||| D ||| The formal operational stage begins at about 11 to 12 years.
+A person who obeys rules mainly to maintain social order is at which level of Kohlberg's moral development? ||| Pre-conventional ||| Conventional ||| Post-conventional ||| Sensorimotor ||| B ||| The law-and-order orientation is a conventional-level stage.
+Bruner's three modes of representing knowledge are: ||| Concrete, formal and abstract ||| Oral, anal and phallic ||| Enactive, iconic and symbolic ||| Sensorimotor, preoperational and operational ||| C ||| Bruner: enactive (action), iconic (image), symbolic (language).
+
+## learn-nature-factors
+When learning one skill makes learning a second skill harder, the transfer is called: ||| Positive transfer ||| Zero transfer ||| Lateral transfer ||| Negative transfer ||| D ||| Negative transfer means earlier learning hinders later learning.
+Which of the following is an example of intrinsic motivation? ||| Studying to win a prize ||| Studying out of curiosity about the subject ||| Studying to avoid punishment ||| Studying to please a relative ||| B ||| Intrinsic motivation comes from within; prizes, fear and approval are extrinsic.
+Forgetting caused by new learning interfering with earlier learning is called: ||| Proactive inhibition ||| Repression ||| Retroactive inhibition ||| Decay ||| C ||| Retroactive inhibition: new material interferes with old; proactive is the reverse.
+
+## learn-creativity
+Divergent thinking, closely linked to creativity, was emphasised by: ||| Guilford ||| Binet ||| Spearman ||| Thorndike ||| A ||| Guilford's Structure of Intellect model separates divergent from convergent production.
+Which of the following is NOT a component of creativity measured by Torrance's tests? ||| Fluency ||| Flexibility ||| Originality ||| Rote memory ||| D ||| Torrance measures fluency, flexibility, originality and elaboration.
+
+## learn-theories
+In Pavlov's experiment, the bell that came to produce salivation after being paired with food was the: ||| Unconditioned stimulus ||| Conditioned stimulus ||| Unconditioned response ||| Reinforcer ||| B ||| A neutral stimulus that acquires the power to evoke a response is a conditioned stimulus.
+Praising a student so that he repeats good behaviour is an example of: ||| Negative reinforcement ||| Punishment ||| Extinction ||| Positive reinforcement ||| D ||| Skinner: adding a pleasant consequence strengthens behaviour.
+The gap between what a learner can do alone and what he can do with guidance is Vygotsky's: ||| Zone of Proximal Development ||| Schema ||| Scaffold ||| Equilibration ||| A ||| This gap is the Zone of Proximal Development; scaffolding is the support given within it.
+
+## learn-special-needs
+Children with an IQ above 130 are usually classified as: ||| Slow learners ||| Gifted ||| Backward ||| Educable mentally retarded ||| B ||| An IQ above about 130 is the usual cut-off for giftedness.
+Inclusive education means: ||| Teaching children with disabilities only in special schools ||| Teaching only gifted children together ||| Educating children with and without disabilities together in regular classrooms with support ||| Admitting children without any support ||| C ||| Inclusion places all learners in the regular classroom with the supports they need.
+
+## teach-nature-roles
+A teacher who lets students discover ideas through guided activities acts as a: ||| Facilitator ||| Dictator ||| Information giver ||| Examiner ||| A ||| A facilitator guides learning instead of simply telling.
+A teacher who helps students deal with personal and emotional problems acts as a: ||| Motivator ||| Counsellor ||| Evaluator ||| Disciplinarian ||| B ||| Helping with personal and emotional problems is the counsellor's role.
+A teacher who lets pupils share in decisions about classroom activities is following which style? ||| Autocratic ||| Laissez-faire ||| Democratic ||| Authoritarian ||| C ||| Shared decision-making and participation mark the democratic style.
+
+## teach-methods-evaluation
+Evaluation at the end of a unit to grade pupils is: ||| Diagnostic ||| Summative ||| Formative ||| Placement ||| B ||| Summative evaluation sums up achievement at the end of a unit or course.
+Which of the following is a learner-centred method? ||| Lecture ||| Dictation ||| Recitation ||| Project method ||| D ||| In the project method learners plan and carry out the work themselves.
+In CCE, the word "comprehensive" refers to evaluating: ||| Both scholastic and co-scholastic areas ||| Only one big examination ||| Only memory ||| Only at the end of the year ||| A ||| Comprehensive evaluation covers the whole personality, not just scholastic results.
+
+## teach-classroom-mgmt
+The best way to prevent most discipline problems in a classroom is to: ||| Punish every mistake ||| Keep students engaged in meaningful activities ||| Ignore all misbehaviour ||| Give less work ||| B ||| Engaged learners rarely misbehave; prevention works better than punishment.
+
+## teach-personality-ethics
+Emotional maturity in a teacher is best shown by: ||| Reacting angrily to provocation ||| Avoiding students' questions ||| Staying calm and handling conflict constructively ||| Favouring bright pupils ||| C ||| An emotionally mature teacher stays composed and resolves conflict constructively.
+
+## teach-frameworks
+The RTE Act 2009 guarantees free and compulsory education to children aged: ||| 3 to 10 years ||| 6 to 14 years ||| 5 to 16 years ||| 6 to 18 years ||| B ||| The Act covers children of 6 to 14 years (Article 21A).
+The NCF 2005 recommends that learning should move away from rote methods and be based on: ||| Constructivism ||| Behaviourism only ||| Memorisation ||| Textbook-only teaching ||| A ||| NCF 2005 stresses learner-constructed knowledge and reduced rote learning.
+
+## ml-comprehension-prose
+ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “പുസ്തകങ്ങൾ നമ്മുടെ ഏറ്റവും നല്ല കൂട്ടുകാരാണ്. അവ ഒന്നും ആവശ്യപ്പെടാതെ അറിവു നൽകുന്നു. ഏകാന്തതയിൽ അവ നമുക്ക് കൂട്ടിരിക്കുന്നു. വായനാശീലമുള്ളവർക്ക് ഒരിക്കലും ഒറ്റപ്പെടൽ അനുഭവപ്പെടുകയില്ല.” ഈ ഭാഗത്തിന്റെ കേന്ദ്രാശയം എന്താണ്? ||| പുസ്തകങ്ങൾക്ക് വില കൂടുതലാണ് ||| വായനാശീലം മനുഷ്യനെ ഒറ്റപ്പെടുത്തുന്നു ||| പുസ്തകങ്ങൾ അറിവും കൂട്ടും നൽകുന്ന നല്ല ചങ്ങാതിമാരാണ് ||| ഏകാന്തതയാണ് ഏറ്റവും നല്ലത് ||| C ||| ആദ്യവാക്യവും അവസാനവാക്യവും ഈ ആശയമാണ് പറയുന്നത്.
+ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “സമയം പാഴാക്കുന്നവർക്ക് ജീവിതത്തിൽ വിജയിക്കാൻ കഴിയില്ല. ഓരോ ദിവസവും നമുക്ക് ലഭിക്കുന്നത് ഇരുപത്തിനാല് മണിക്കൂർ മാത്രമാണ്. അത് ഫലപ്രദമായി ഉപയോഗിക്കുന്നവർ ലക്ഷ്യത്തിലെത്തുന്നു.” ഖണ്ഡിക അനുസരിച്ച് ലക്ഷ്യത്തിലെത്തുന്നത് ആരാണ്? ||| സമയം ഫലപ്രദമായി ഉപയോഗിക്കുന്നവർ ||| ഇരുപത്തിനാല് മണിക്കൂറും ജോലി ചെയ്യുന്നവർ ||| ധാരാളം പണമുള്ളവർ ||| സമയം പാഴാക്കുന്നവർ ||| A ||| അവസാനവാക്യത്തിൽ ഇത് വ്യക്തമായി പറയുന്നു.
+ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “മഴക്കാലം തുടങ്ങിയതോടെ കർഷകർ വയലിലേക്ക് ഇറങ്ങി. വിത്തുകൾ വിതച്ച് അവർ ആകാശത്തേക്ക് നോക്കി പ്രാർഥിച്ചു.” ‘ആകാശത്തേക്ക് നോക്കി പ്രാർഥിച്ചു’ എന്നതിൽ നിന്ന് മനസ്സിലാക്കാവുന്നത് എന്താണ്? ||| അവർ ദൈവത്തെ വെറുക്കുന്നു ||| വിളവിനാവശ്യമായ മഴ ലഭിക്കണമെന്ന് അവർ ആഗ്രഹിക്കുന്നു ||| അവർക്ക് വിത്തില്ല ||| അവർ ആകാശം കാണാൻ വന്നു ||| B ||| വിതച്ച ശേഷമുള്ള പ്രാർഥന നല്ല മഴയ്ക്കും വിളവിനും വേണ്ടിയാണ്.
+
+## ml-comprehension-poetry
+വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “അമ്മയെന്നൊരു രണ്ടക്ഷരം, അമൃതിൻ നിറകുടമല്ലോ; അമ്മതൻ സ്നേഹം നമുക്കെന്നും ആശ്രയമായ് വിളങ്ങീടുന്നു.” ഈ വരികളിലെ ആശയം എന്താണ്? ||| അമ്മയുടെ സ്നേഹം നമുക്ക് എന്നും ആശ്രയമാണ് ||| അമൃത് വളരെ മധുരമുള്ളതാണ് ||| അമ്മ എന്നത് ഒരു പ്രയാസമുള്ള വാക്കാണ് ||| കുട്ടികൾക്ക് അമ്മയെ ആവശ്യമില്ല ||| A ||| അവസാന രണ്ടു വരികൾ അമ്മയുടെ സ്നേഹം ആശ്രയമാണെന്ന് പറയുന്നു.
+വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “പുലരി പൊൻകതിർ വീശി വന്നു, പൂക്കളെല്ലാം ചിരി തൂകി; കിളികൾ പാടി, കുയിലുമോതി, കാറ്റിൽ ഗന്ധം പരന്നു.” ഈ വരികൾ ഏത് സമയത്തെ വർണിക്കുന്നു? ||| സന്ധ്യ ||| പ്രഭാതം ||| മധ്യാഹ്നം ||| അർധരാത്രി ||| B ||| ‘പുലരി’, ‘പൊൻകതിർ’, പാടുന്ന കിളികൾ എന്നിവ പ്രഭാതത്തെ സൂചിപ്പിക്കുന്നു.
+‘അമ്മയെന്നൊരു രണ്ടക്ഷരം, അമൃതിൻ നിറകുടമല്ലോ’ എന്ന വരിയിലെ അലങ്കാരം ഏതാണ്? ||| ഉപമ ||| ഉത്പ്രേക്ഷ ||| രൂപകം ||| ശ്ലേഷം ||| C ||| ‘പോലെ’ പോലുള്ള പദമില്ലാതെ അമ്മയെ അമൃതിൻ നിറകുടമായി തന്നെ പറയുന്നതിനാൽ ഇത് രൂപകമാണ്.
+
+## ml-expression
+‘പുഴ’ എന്ന പദത്തിന്റെ പര്യായമല്ലാത്തത് ഏത്? ||| നദി ||| തടിനി ||| സരിത് ||| സമുദ്രം ||| D ||| നദി, തടിനി, സരിത് എന്നിവ പുഴയുടെ പര്യായങ്ങളാണ്; സമുദ്രം കടലാണ്.
+‘ഉദയം’ എന്ന പദത്തിന്റെ വിപരീതപദം ഏത്? ||| ആരംഭം ||| ഉന്നതി ||| അസ്തമയം ||| ഉത്ഭവം ||| C ||| ഉദയത്തിന്റെ വിപരീതം അസ്തമയമാണ്.
+‘ദയയില്ലാത്തവൻ’ എന്നതിന് ഒറ്റപ്പദം ഏത്? ||| നിർദയൻ ||| ദയാലു ||| സദയൻ ||| കരുണാമയൻ ||| A ||| ദയയില്ലാത്തവൻ എന്നതിന്റെ ഒറ്റപ്പദം നിർദയൻ.
+‘കുട്ടി പുസ്തകം വായിച്ചു’ എന്ന വാക്യത്തിലെ ക്രിയ ഏത്? ||| കുട്ടി ||| പുസ്തകം ||| വായിച്ചു ||| ഇല്ല ||| C ||| പ്രവൃത്തിയെ സൂചിപ്പിക്കുന്ന പദമാണ് ക്രിയ.
+ഉചിതമായ പദം ചേർത്ത് വാക്യം പൂർത്തിയാക്കുക: “മഴ പെയ്തതിനാൽ ഞങ്ങൾ യാത്ര ......” ||| തുടർന്നു ||| മാറ്റിവെച്ചു ||| തുടങ്ങി ||| ആരംഭിച്ചു ||| B ||| മഴ കാരണം യാത്ര മാറ്റിവെക്കുന്നു എന്നതാണ് യുക്തിസഹം.
+താഴെ പറയുന്നവയിൽ ആജ്ഞാർഥ വാക്യം ഏത്? ||| നീ പുസ്തകം വായിക്കുന്നു ||| അവൻ പുസ്തകം വായിച്ചു ||| നീ പുസ്തകം വായിക്കൂ ||| അവൻ പുസ്തകം വായിക്കും ||| C ||| ഒരു കാര്യം ചെയ്യാൻ കൽപ്പിക്കുന്ന വാക്യമാണ് ആജ്ഞാർഥം.
+‘കാണുക’ എന്ന ക്രിയയുടെ ഭൂതകാലരൂപം ഏത്? ||| കാണും ||| കാണുന്നു ||| കണ്ടു ||| കാണാൻ ||| C ||| ഭൂതകാലത്തിൽ ‘കണ്ടു’ എന്ന രൂപം വരുന്നു.
+
+## ml-language-knowledge
+‘തിരു + ഓണം = തിരുവോണം’ ഏത് സന്ധിക്ക് ഉദാഹരണമാണ്? ||| ലോപസന്ധി ||| ആദേശസന്ധി ||| ആഗമസന്ധി ||| ദ്വിത്വസന്ധി ||| C ||| ഇവിടെ ‘വ്’ എന്ന വർണം പുതുതായി വരുന്നതിനാൽ ആഗമസന്ധിയാണ്.
+‘കണ്ണിൽ എണ്ണയൊഴിച്ച് കാത്തിരിക്കുക’ എന്ന ശൈലിയുടെ അർഥം ഏത്? ||| കണ്ണിന് ചികിത്സ ചെയ്യുക ||| ഉറക്കമൊഴിഞ്ഞ് ജാഗ്രതയോടെ കാത്തിരിക്കുക ||| എണ്ണ വാങ്ങാൻ കാത്തിരിക്കുക ||| ദുഃഖിച്ചിരിക്കുക ||| B ||| അതീവ ശ്രദ്ധയോടെയും ഉറക്കമൊഴിച്ചും കാത്തിരിക്കുക എന്നാണ് ഇതിന്റെ അർഥം.
+‘ചക്കിനു വെച്ചത് കൊക്കിനു കൊണ്ടു’ എന്ന പഴഞ്ചൊല്ലിന്റെ ആശയം ഏത്? ||| ഉദ്ദേശിച്ചത് ഒന്ന്, സംഭവിച്ചത് മറ്റൊന്ന് ||| കഠിനാധ്വാനം വിജയം തരും ||| പക്ഷികളെ സംരക്ഷിക്കണം ||| ചക്ക വിലയേറിയതാണ് ||| A ||| ഒരാൾക്കായി കരുതിയത് മറ്റൊരാൾക്ക് കിട്ടുന്ന സന്ദർഭത്തിൽ ഇത് ഉപയോഗിക്കുന്നു.
+‘കുട്ടിയെ’ എന്ന പദം ഏത് വിഭക്തിയിലാണ്? ||| നിർദ്ദേശിക ||| സംയോജിക ||| പ്രതിഗ്രാഹിക ||| സംബന്ധിക ||| C ||| ‘-എ’ പ്രത്യയം വരുന്നത് പ്രതിഗ്രാഹിക വിഭക്തിയിലാണ്.
+‘കൃഷ്ണഗാഥ’ രചിച്ചതാര്? ||| എഴുത്തച്ഛൻ ||| ചെറുശ്ശേരി ||| കുഞ്ചൻ നമ്പ്യാർ ||| ഉള്ളൂർ ||| B ||| കൃഷ്ണഗാഥയുടെ കർത്താവ് ചെറുശ്ശേരിയാണ്.
+‘ഇന്ദുലേഖ’ എന്ന നോവൽ രചിച്ചതാര്? ||| സി.വി. രാമൻപിള്ള ||| തകഴി ||| ഒ. ചന്തുമേനോൻ ||| എം.ടി. വാസുദേവൻ നായർ ||| C ||| ഇന്ദുലേഖ എഴുതിയത് ഒ. ചന്തുമേനോനാണ്.
+‘ഗായിക’ എന്ന പദത്തിന്റെ പുല്ലിംഗം ഏത്? ||| ഗായകൻ ||| ഗായൻ ||| ഗാനകൻ ||| ഗീതകൻ ||| A ||| ‘ഗായിക’യുടെ പുല്ലിംഗം ‘ഗായകൻ’.
+
+## phy-waves
+The speed of sound is greatest in: ||| Air ||| Water ||| Steel ||| Vacuum ||| C ||| Sound travels fastest in solids; it cannot travel through vacuum.
+The siren of an approaching ambulance appears to rise in pitch. This is due to the: ||| Doppler effect ||| Reverberation ||| Resonance ||| Beats ||| A ||| The relative motion of source and listener changes the apparent frequency.
+
+## phy-light
+An object is placed at the centre of curvature of a concave mirror of focal length 15 cm. The image distance is: ||| 15 cm ||| 30 cm ||| 45 cm ||| 7.5 cm ||| B ||| u = -30 cm, f = -15 cm, so 1/v = 1/f - 1/u = -1/15 + 1/30 = -1/30 and v = -30 cm.
+Total internal reflection can occur when light travels from: ||| Rarer to denser medium ||| Denser to rarer medium at an angle less than the critical angle ||| Denser to rarer medium at an angle greater than the critical angle ||| Air to vacuum only ||| C ||| Both conditions are needed: denser to rarer and incidence beyond the critical angle.
+
+## phy-force-pressure
+Pascal's law is the working principle of a: ||| Barometer ||| Hydraulic lift ||| Lactometer ||| Thermometer ||| B ||| Pressure applied to a confined liquid is transmitted equally, which a hydraulic lift uses.
+
+## phy-heat
+The heat needed to raise the temperature of 2 kg of water by 5 °C is (specific heat capacity of water = 4200 J/kg °C): ||| 4200 J ||| 21000 J ||| 42000 J ||| 84000 J ||| C ||| Q = mc(delta T) = 2 x 4200 x 5 = 42000 J.
+
+## phy-motion
+A car starts from rest and reaches a velocity of 20 m/s in 5 s. Its acceleration is: ||| 2 m/s² ||| 4 m/s² ||| 10 m/s² ||| 100 m/s² ||| B ||| a = (v - u)/t = 20/5 = 4 m/s².
+The recoil of a gun when a bullet is fired is an example of the law of: ||| Conservation of energy ||| Conservation of momentum ||| Inertia ||| Floatation ||| B ||| Total momentum stays zero, so the gun moves backwards as the bullet moves forward.
+
+## phy-gravitation
+The acceleration due to gravity on the moon is about what fraction of its value on the Earth? ||| 1/2 ||| 1/3 ||| 1/6 ||| 1/10 ||| C ||| The moon's surface gravity is about one-sixth of the Earth's.
+
+## phy-work-energy
+The kinetic energy of a 2 kg body moving at 3 m/s is: ||| 3 J ||| 6 J ||| 9 J ||| 18 J ||| C ||| KE = (1/2)mv² = 0.5 x 2 x 9 = 9 J.
+
+## phy-electricity-magnetism
+The equivalent resistance of 2 Ω, 3 Ω and 6 Ω resistors connected in parallel is: ||| 1 Ω ||| 2 Ω ||| 6 Ω ||| 11 Ω ||| A ||| 1/R = 1/2 + 1/3 + 1/6 = 1, so R = 1 Ω.
+Which statement about magnetic field lines is correct? ||| They cross each other ||| They form closed curves ||| They are always straight ||| They begin at the south pole and end at the north pole outside the magnet ||| B ||| Magnetic field lines are closed loops and never intersect.
+Which of these materials is diamagnetic? ||| Iron ||| Nickel ||| Bismuth ||| Cobalt ||| C ||| Bismuth is a diamagnetic material; iron, nickel and cobalt are ferromagnetic.
+
+## phy-current-effects-emi
+The device that converts mechanical energy into electrical energy is a: ||| Motor ||| Generator ||| Transformer ||| Voltmeter ||| B ||| A generator works on electromagnetic induction.
+A transformer works on the principle of: ||| Self induction ||| Mutual induction ||| Electrolysis ||| Joule heating ||| B ||| A changing current in the primary induces an emf in the secondary: mutual induction.
+
+## phy-electronics
+The majority charge carriers in a p-type semiconductor are: ||| Electrons ||| Holes ||| Protons ||| Neutrons ||| B ||| Doping with trivalent atoms creates holes, the majority carriers in p-type material.
+A junction diode is mainly used as a: ||| Amplifier ||| Rectifier ||| Oscillator ||| Transformer ||| B ||| A diode conducts in one direction, so it converts AC to DC.
+
+## chem-changes
+Which of the following processes is endothermic? ||| Burning of coal ||| Respiration ||| Photosynthesis ||| Rusting of iron ||| C ||| Photosynthesis absorbs energy from sunlight; the others release heat.
+
+## chem-atoms-molecules
+Rutherford's alpha-particle scattering experiment led to the discovery of the: ||| Electron ||| Neutron ||| Atomic nucleus ||| Proton shell ||| C ||| A few alpha particles were deflected sharply, showing a small, dense, positive nucleus.
+The number of neutrons in an atom of sodium-23 (atomic number 11) is: ||| 11 ||| 12 ||| 23 ||| 34 ||| B ||| Neutrons = mass number - atomic number = 23 - 11 = 12.
+
+## chem-metals
+Which of the following metals is the most reactive? ||| Copper ||| Zinc ||| Iron ||| Sodium ||| D ||| Sodium lies near the top of the reactivity series.
+Rusting of iron requires: ||| Oxygen only ||| Water only ||| Both oxygen and moisture ||| Nitrogen and moisture ||| C ||| Iron rusts when air (oxygen) and water are both present.
+
+## chem-solutions-colloids
+Which of the following is a colloid? ||| Salt solution ||| Milk ||| Sugar solution ||| Copper sulphate solution ||| B ||| Milk is a colloid (an emulsion) in which fat globules are dispersed in water.
+
+## chem-matter-separation
+Two miscible liquids with different boiling points are separated by: ||| Filtration ||| Fractional distillation ||| Decantation ||| Sublimation ||| B ||| The liquid with the lower boiling point distils first.
+
+## chem-periodic-table
+According to the Modern Periodic Law, properties of elements are periodic functions of their: ||| Atomic mass ||| Atomic number ||| Number of neutrons ||| Density ||| B ||| Moseley's modern periodic law uses atomic number.
+Which element has the highest electronegativity? ||| Oxygen ||| Chlorine ||| Fluorine ||| Nitrogen ||| C ||| Fluorine is the most electronegative element.
+
+## chem-bonding
+Which of the following compounds contains an ionic bond? ||| HCl ||| CH₄ ||| H₂O ||| NaCl ||| D ||| NaCl forms by transfer of an electron from sodium to chlorine.
+
+## chem-non-metals
+The Haber process is used for the manufacture of: ||| Ammonia ||| Sulphuric acid ||| Nitric acid ||| Chlorine ||| A ||| Haber process: N₂ + 3H₂ gives 2NH₃.
+Which allotrope of carbon conducts electricity? ||| Diamond ||| Graphite ||| Fullerene C-60 ||| Charcoal in all forms ||| B ||| Graphite has free electrons in its layers, so it conducts.
+
+## chem-organic
+The number of covalent bonds a carbon atom forms in its compounds is: ||| 2 ||| 3 ||| 4 ||| 6 ||| C ||| Carbon is tetravalent.
+
+## chem-acids-alkalis
+The pH of lemon juice is most likely to be about: ||| 2 ||| 7 ||| 9 ||| 13 ||| A ||| Lemon juice contains citric acid, so its pH is low (about 2).
+
+## chem-gas-laws
+A gas occupies 4 L at 1 atm. At constant temperature, its volume at 2 atm will be: ||| 8 L ||| 4 L ||| 2 L ||| 1 L ||| C ||| Boyle's law: P1V1 = P2V2, so V2 = 4 x 1 / 2 = 2 L.
+
+## chem-mole-rates
+The number of moles in 36 g of water (H = 1, O = 16) is: ||| 1 ||| 2 ||| 3 ||| 4 ||| B ||| Molar mass of water is 18 g, so 36 / 18 = 2 mol.
+
+## ped-science-india
+Who is regarded as the father of the Indian space programme? ||| Homi J. Bhabha ||| Vikram Sarabhai ||| C. V. Raman ||| S. Chandrasekhar ||| B ||| Vikram Sarabhai started India's space research; Bhabha is associated with the nuclear programme.
+
+## ped-aims-objectives
+In the original Bloom's taxonomy of the cognitive domain, the highest level is: ||| Knowledge ||| Comprehension ||| Application ||| Evaluation ||| D ||| The original order is knowledge, comprehension, application, analysis, synthesis, evaluation.
+Which of the following is a science process skill? ||| Memorising ||| Observing ||| Copying ||| Reciting ||| B ||| Observing, classifying, measuring, inferring and predicting are process skills.
+The objective "the pupil can draw a labelled diagram of the human eye" belongs to the: ||| Cognitive domain ||| Affective domain ||| Psychomotor domain ||| Social domain ||| C ||| Drawing a diagram is a skill, so it is psychomotor.
+
+## ped-theory-basis
+According to constructivism, knowledge is: ||| Passively received from the teacher ||| Actively built by the learner ||| Fixed and unchangeable ||| Only learned by repetition ||| B ||| Learners construct knowledge from their experiences.
+Discovery learning is most closely associated with: ||| Skinner ||| Pavlov ||| Bruner ||| Thorndike ||| C ||| Bruner promoted discovery learning.
+
+## ped-planning
+The last step in the Herbartian lesson plan is: ||| Preparation ||| Presentation ||| Generalisation ||| Application ||| D ||| Herbart's steps: preparation, presentation, comparison, generalisation, application.
+Which of the following is a projected aid? ||| Chart ||| Model ||| Overhead projector transparency ||| Specimen ||| C ||| Projected aids need a projector to show the content on a screen.
+
+## ped-models
+The Inquiry Training Model was developed by: ||| Richard Suchman ||| Jerome Bruner ||| David Ausubel ||| Hilda Taba ||| A ||| Suchman designed the Inquiry Training Model to teach scientific inquiry.
+The concept attainment model of teaching is based on the work of: ||| Piaget ||| Bruner ||| Skinner ||| Vygotsky ||| B ||| The concept attainment model builds on Bruner's study of thinking.
+
+## ped-methods
+The heuristic method of teaching science was introduced by: ||| H. E. Armstrong ||| W. H. Kilpatrick ||| Herbart ||| Montessori ||| A ||| Armstrong's heuristic method lets pupils find things out for themselves.
+Moving from particular examples to a general rule is the essence of the: ||| Deductive method ||| Inductive method ||| Lecture method ||| Analytic method ||| B ||| Induction goes from examples to the rule.
+The project method was popularised by: ||| W. H. Kilpatrick ||| H. E. Armstrong ||| Herbart ||| Froebel ||| A ||| Kilpatrick developed the project method from Dewey's ideas.
+
+## ped-approaches
+An approach that links science with other subjects such as mathematics and social science is called: ||| Interdisciplinary ||| Behaviourist ||| Rote ||| Isolated ||| A ||| The interdisciplinary approach connects content across subjects.
+
+## ped-curriculum
+A curriculum in which the same topic is revisited at increasing levels of depth is called a: ||| Spiral curriculum ||| Core curriculum ||| Hidden curriculum ||| Linear curriculum ||| A ||| Bruner proposed the spiral curriculum.
+A book that guides the teacher in planning and teaching a textbook is called a: ||| Workbook ||| Handbook ||| Atlas ||| Glossary ||| B ||| The teacher's handbook accompanies the pupils' textbook.
+
+## ped-labs-clubs
+The primary aim of laboratory work in science teaching is to: ||| Waste time ||| Develop skills and scientific attitude through experience ||| Entertain students ||| Replace the textbook ||| B ||| Laboratory work builds skills, attitudes and understanding.
+
+## ped-evaluation
+A diagnostic test is used to: ||| Rank students ||| Identify learning difficulties ||| Award certificates ||| Select teachers ||| B ||| It locates specific weaknesses so remedial teaching can follow.
+Evaluation carried out during the teaching-learning process to improve learning is: ||| Summative ||| Formative ||| Placement ||| Terminal ||| B ||| Formative evaluation gives feedback while learning is going on.
+
+## ped-professional
+Action research by a teacher is carried out mainly to: ||| Solve problems in his or her own classroom ||| Write a book ||| Replace examinations ||| Get promotion only ||| A ||| Action research is a practical, classroom-based inquiry to improve practice.

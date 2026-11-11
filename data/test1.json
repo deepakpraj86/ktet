@@ -1,0 +1,1402 @@
+[
+ {
+  "id": "t1-adolescent-psychology-001",
+  "part": "adolescent-psychology",
+  "topic": "psy-adolescence",
+  "text": "G. Stanley Hall described adolescence as a period of:",
+  "options": [
+   "Concrete thinking",
+   "Calm and stability",
+   "Latency",
+   "Storm and stress"
+  ],
+  "answer": 3,
+  "explanation": "Hall called adolescence a period of \"storm and stress\" because of rapid physical and emotional change."
+ },
+ {
+  "id": "t1-adolescent-psychology-002",
+  "part": "adolescent-psychology",
+  "topic": "psy-adolescence",
+  "text": "Which of the following is a developmental task of adolescence according to Havighurst?",
+  "options": [
+   "Learning to walk",
+   "Learning to read",
+   "Adjusting to decreasing physical strength",
+   "Achieving emotional independence from parents"
+  ],
+  "answer": 3,
+  "explanation": "Emotional independence from parents is a central adolescent task; the others belong to infancy, childhood and old age."
+ },
+ {
+  "id": "t1-adolescent-psychology-003",
+  "part": "adolescent-psychology",
+  "topic": "psy-problems",
+  "text": "A student's marks are far below what his measured intelligence would predict. This is called:",
+  "options": [
+   "Underachievement",
+   "Backwardness",
+   "Slow learning",
+   "Mental retardation"
+  ],
+  "answer": 0,
+  "explanation": "Underachievement is performance well below potential, unlike low ability."
+ },
+ {
+  "id": "t1-adolescent-psychology-004",
+  "part": "adolescent-psychology",
+  "topic": "psy-problems",
+  "text": "A boy scolded by his teacher shouts at his younger brother at home. This defence mechanism is:",
+  "options": [
+   "Sublimation",
+   "Regression",
+   "Projection",
+   "Displacement"
+  ],
+  "answer": 3,
+  "explanation": "Displacement shifts an emotion from its real source to a safer, weaker target."
+ },
+ {
+  "id": "t1-adolescent-psychology-005",
+  "part": "adolescent-psychology",
+  "topic": "psy-dev-theories",
+  "text": "In Piaget's theory, abstract and hypothetical reasoning appears in the:",
+  "options": [
+   "Formal operational stage",
+   "Sensorimotor stage",
+   "Concrete operational stage",
+   "Preoperational stage"
+  ],
+  "answer": 0,
+  "explanation": "The formal operational stage begins at about 11 to 12 years."
+ },
+ {
+  "id": "t1-adolescent-psychology-006",
+  "part": "adolescent-psychology",
+  "topic": "psy-dev-theories",
+  "text": "A person who obeys rules mainly to maintain social order is at which level of Kohlberg's moral development?",
+  "options": [
+   "Pre-conventional",
+   "Sensorimotor",
+   "Post-conventional",
+   "Conventional"
+  ],
+  "answer": 3,
+  "explanation": "The law-and-order orientation is a conventional-level stage."
+ },
+ {
+  "id": "t1-adolescent-psychology-007",
+  "part": "adolescent-psychology",
+  "topic": "psy-dev-theories",
+  "text": "Bruner's three modes of representing knowledge are:",
+  "options": [
+   "Concrete, formal and abstract",
+   "Oral, anal and phallic",
+   "Sensorimotor, preoperational and operational",
+   "Enactive, iconic and symbolic"
+  ],
+  "answer": 3,
+  "explanation": "Bruner: enactive (action), iconic (image), symbolic (language)."
+ },
+ {
+  "id": "t1-adolescent-psychology-008",
+  "part": "adolescent-psychology",
+  "topic": "learn-nature-factors",
+  "text": "When learning one skill makes learning a second skill harder, the transfer is called:",
+  "options": [
+   "Negative transfer",
+   "Lateral transfer",
+   "Zero transfer",
+   "Positive transfer"
+  ],
+  "answer": 0,
+  "explanation": "Negative transfer means earlier learning hinders later learning."
+ },
+ {
+  "id": "t1-adolescent-psychology-009",
+  "part": "adolescent-psychology",
+  "topic": "learn-nature-factors",
+  "text": "Which of the following is an example of intrinsic motivation?",
+  "options": [
+   "Studying to please a relative",
+   "Studying to avoid punishment",
+   "Studying out of curiosity about the subject",
+   "Studying to win a prize"
+  ],
+  "answer": 2,
+  "explanation": "Intrinsic motivation comes from within; prizes, fear and approval are extrinsic."
+ },
+ {
+  "id": "t1-adolescent-psychology-010",
+  "part": "adolescent-psychology",
+  "topic": "learn-nature-factors",
+  "text": "Forgetting caused by new learning interfering with earlier learning is called:",
+  "options": [
+   "Retroactive inhibition",
+   "Repression",
+   "Proactive inhibition",
+   "Decay"
+  ],
+  "answer": 0,
+  "explanation": "Retroactive inhibition: new material interferes with old; proactive is the reverse."
+ },
+ {
+  "id": "t1-adolescent-psychology-011",
+  "part": "adolescent-psychology",
+  "topic": "learn-creativity",
+  "text": "Divergent thinking, closely linked to creativity, was emphasised by:",
+  "options": [
+   "Spearman",
+   "Binet",
+   "Thorndike",
+   "Guilford"
+  ],
+  "answer": 3,
+  "explanation": "Guilford's Structure of Intellect model separates divergent from convergent production."
+ },
+ {
+  "id": "t1-adolescent-psychology-012",
+  "part": "adolescent-psychology",
+  "topic": "learn-creativity",
+  "text": "Which of the following is NOT a component of creativity measured by Torrance's tests?",
+  "options": [
+   "Fluency",
+   "Rote memory",
+   "Originality",
+   "Flexibility"
+  ],
+  "answer": 1,
+  "explanation": "Torrance measures fluency, flexibility, originality and elaboration."
+ },
+ {
+  "id": "t1-adolescent-psychology-013",
+  "part": "adolescent-psychology",
+  "topic": "learn-theories",
+  "text": "In Pavlov's experiment, the bell that came to produce salivation after being paired with food was the:",
+  "options": [
+   "Conditioned stimulus",
+   "Reinforcer",
+   "Unconditioned response",
+   "Unconditioned stimulus"
+  ],
+  "answer": 0,
+  "explanation": "A neutral stimulus that acquires the power to evoke a response is a conditioned stimulus."
+ },
+ {
+  "id": "t1-adolescent-psychology-014",
+  "part": "adolescent-psychology",
+  "topic": "learn-theories",
+  "text": "Praising a student so that he repeats good behaviour is an example of:",
+  "options": [
+   "Negative reinforcement",
+   "Punishment",
+   "Extinction",
+   "Positive reinforcement"
+  ],
+  "answer": 3,
+  "explanation": "Skinner: adding a pleasant consequence strengthens behaviour."
+ },
+ {
+  "id": "t1-adolescent-psychology-015",
+  "part": "adolescent-psychology",
+  "topic": "learn-theories",
+  "text": "The gap between what a learner can do alone and what he can do with guidance is Vygotsky's:",
+  "options": [
+   "Equilibration",
+   "Scaffold",
+   "Zone of Proximal Development",
+   "Schema"
+  ],
+  "answer": 2,
+  "explanation": "This gap is the Zone of Proximal Development; scaffolding is the support given within it."
+ },
+ {
+  "id": "t1-adolescent-psychology-016",
+  "part": "adolescent-psychology",
+  "topic": "learn-special-needs",
+  "text": "Children with an IQ above 130 are usually classified as:",
+  "options": [
+   "Educable mentally retarded",
+   "Gifted",
+   "Slow learners",
+   "Backward"
+  ],
+  "answer": 1,
+  "explanation": "An IQ above about 130 is the usual cut-off for giftedness."
+ },
+ {
+  "id": "t1-adolescent-psychology-017",
+  "part": "adolescent-psychology",
+  "topic": "learn-special-needs",
+  "text": "Inclusive education means:",
+  "options": [
+   "Teaching children with disabilities only in special schools",
+   "Educating children with and without disabilities together in regular classrooms with support",
+   "Admitting children without any support",
+   "Teaching only gifted children together"
+  ],
+  "answer": 1,
+  "explanation": "Inclusion places all learners in the regular classroom with the supports they need."
+ },
+ {
+  "id": "t1-adolescent-psychology-018",
+  "part": "adolescent-psychology",
+  "topic": "teach-nature-roles",
+  "text": "A teacher who lets students discover ideas through guided activities acts as a:",
+  "options": [
+   "Facilitator",
+   "Examiner",
+   "Information giver",
+   "Dictator"
+  ],
+  "answer": 0,
+  "explanation": "A facilitator guides learning instead of simply telling."
+ },
+ {
+  "id": "t1-adolescent-psychology-019",
+  "part": "adolescent-psychology",
+  "topic": "teach-nature-roles",
+  "text": "A teacher who helps students deal with personal and emotional problems acts as a:",
+  "options": [
+   "Motivator",
+   "Evaluator",
+   "Disciplinarian",
+   "Counsellor"
+  ],
+  "answer": 3,
+  "explanation": "Helping with personal and emotional problems is the counsellor's role."
+ },
+ {
+  "id": "t1-adolescent-psychology-020",
+  "part": "adolescent-psychology",
+  "topic": "teach-nature-roles",
+  "text": "A teacher who lets pupils share in decisions about classroom activities is following which style?",
+  "options": [
+   "Laissez-faire",
+   "Authoritarian",
+   "Democratic",
+   "Autocratic"
+  ],
+  "answer": 2,
+  "explanation": "Shared decision-making and participation mark the democratic style."
+ },
+ {
+  "id": "t1-adolescent-psychology-021",
+  "part": "adolescent-psychology",
+  "topic": "teach-methods-evaluation",
+  "text": "Evaluation at the end of a unit to grade pupils is:",
+  "options": [
+   "Formative",
+   "Diagnostic",
+   "Placement",
+   "Summative"
+  ],
+  "answer": 3,
+  "explanation": "Summative evaluation sums up achievement at the end of a unit or course."
+ },
+ {
+  "id": "t1-adolescent-psychology-022",
+  "part": "adolescent-psychology",
+  "topic": "teach-methods-evaluation",
+  "text": "Which of the following is a learner-centred method?",
+  "options": [
+   "Lecture",
+   "Recitation",
+   "Project method",
+   "Dictation"
+  ],
+  "answer": 2,
+  "explanation": "In the project method learners plan and carry out the work themselves."
+ },
+ {
+  "id": "t1-adolescent-psychology-023",
+  "part": "adolescent-psychology",
+  "topic": "teach-methods-evaluation",
+  "text": "In CCE, the word \"comprehensive\" refers to evaluating:",
+  "options": [
+   "Only at the end of the year",
+   "Both scholastic and co-scholastic areas",
+   "Only memory",
+   "Only one big examination"
+  ],
+  "answer": 1,
+  "explanation": "Comprehensive evaluation covers the whole personality, not just scholastic results."
+ },
+ {
+  "id": "t1-adolescent-psychology-024",
+  "part": "adolescent-psychology",
+  "topic": "teach-classroom-mgmt",
+  "text": "The best way to prevent most discipline problems in a classroom is to:",
+  "options": [
+   "Keep students engaged in meaningful activities",
+   "Give less work",
+   "Punish every mistake",
+   "Ignore all misbehaviour"
+  ],
+  "answer": 0,
+  "explanation": "Engaged learners rarely misbehave; prevention works better than punishment."
+ },
+ {
+  "id": "t1-adolescent-psychology-025",
+  "part": "adolescent-psychology",
+  "topic": "teach-personality-ethics",
+  "text": "Emotional maturity in a teacher is best shown by:",
+  "options": [
+   "Reacting angrily to provocation",
+   "Favouring bright pupils",
+   "Avoiding students' questions",
+   "Staying calm and handling conflict constructively"
+  ],
+  "answer": 3,
+  "explanation": "An emotionally mature teacher stays composed and resolves conflict constructively."
+ },
+ {
+  "id": "t1-adolescent-psychology-026",
+  "part": "adolescent-psychology",
+  "topic": "teach-frameworks",
+  "text": "The RTE Act 2009 guarantees free and compulsory education to children aged:",
+  "options": [
+   "3 to 10 years",
+   "6 to 14 years",
+   "5 to 16 years",
+   "6 to 18 years"
+  ],
+  "answer": 1,
+  "explanation": "The Act covers children of 6 to 14 years (Article 21A)."
+ },
+ {
+  "id": "t1-adolescent-psychology-027",
+  "part": "adolescent-psychology",
+  "topic": "teach-frameworks",
+  "text": "The NCF 2005 recommends that learning should move away from rote methods and be based on:",
+  "options": [
+   "Constructivism",
+   "Behaviourism only",
+   "Memorisation",
+   "Textbook-only teaching"
+  ],
+  "answer": 0,
+  "explanation": "NCF 2005 stresses learner-constructed knowledge and reduced rote learning."
+ },
+ {
+  "id": "t1-malayalam-001",
+  "part": "malayalam",
+  "topic": "ml-comprehension-prose",
+  "text": "ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “പുസ്തകങ്ങൾ നമ്മുടെ ഏറ്റവും നല്ല കൂട്ടുകാരാണ്. അവ ഒന്നും ആവശ്യപ്പെടാതെ അറിവു നൽകുന്നു. ഏകാന്തതയിൽ അവ നമുക്ക് കൂട്ടിരിക്കുന്നു. വായനാശീലമുള്ളവർക്ക് ഒരിക്കലും ഒറ്റപ്പെടൽ അനുഭവപ്പെടുകയില്ല.” ഈ ഭാഗത്തിന്റെ കേന്ദ്രാശയം എന്താണ്?",
+  "options": [
+   "ഏകാന്തതയാണ് ഏറ്റവും നല്ലത്",
+   "പുസ്തകങ്ങൾക്ക് വില കൂടുതലാണ്",
+   "പുസ്തകങ്ങൾ അറിവും കൂട്ടും നൽകുന്ന നല്ല ചങ്ങാതിമാരാണ്",
+   "വായനാശീലം മനുഷ്യനെ ഒറ്റപ്പെടുത്തുന്നു"
+  ],
+  "answer": 2,
+  "explanation": "ആദ്യവാക്യവും അവസാനവാക്യവും ഈ ആശയമാണ് പറയുന്നത്."
+ },
+ {
+  "id": "t1-malayalam-002",
+  "part": "malayalam",
+  "topic": "ml-comprehension-prose",
+  "text": "ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “സമയം പാഴാക്കുന്നവർക്ക് ജീവിതത്തിൽ വിജയിക്കാൻ കഴിയില്ല. ഓരോ ദിവസവും നമുക്ക് ലഭിക്കുന്നത് ഇരുപത്തിനാല് മണിക്കൂർ മാത്രമാണ്. അത് ഫലപ്രദമായി ഉപയോഗിക്കുന്നവർ ലക്ഷ്യത്തിലെത്തുന്നു.” ഖണ്ഡിക അനുസരിച്ച് ലക്ഷ്യത്തിലെത്തുന്നത് ആരാണ്?",
+  "options": [
+   "ഇരുപത്തിനാല് മണിക്കൂറും ജോലി ചെയ്യുന്നവർ",
+   "സമയം ഫലപ്രദമായി ഉപയോഗിക്കുന്നവർ",
+   "സമയം പാഴാക്കുന്നവർ",
+   "ധാരാളം പണമുള്ളവർ"
+  ],
+  "answer": 1,
+  "explanation": "അവസാനവാക്യത്തിൽ ഇത് വ്യക്തമായി പറയുന്നു."
+ },
+ {
+  "id": "t1-malayalam-003",
+  "part": "malayalam",
+  "topic": "ml-comprehension-prose",
+  "text": "ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “മഴക്കാലം തുടങ്ങിയതോടെ കർഷകർ വയലിലേക്ക് ഇറങ്ങി. വിത്തുകൾ വിതച്ച് അവർ ആകാശത്തേക്ക് നോക്കി പ്രാർഥിച്ചു.” ‘ആകാശത്തേക്ക് നോക്കി പ്രാർഥിച്ചു’ എന്നതിൽ നിന്ന് മനസ്സിലാക്കാവുന്നത് എന്താണ്?",
+  "options": [
+   "വിളവിനാവശ്യമായ മഴ ലഭിക്കണമെന്ന് അവർ ആഗ്രഹിക്കുന്നു",
+   "അവർ ദൈവത്തെ വെറുക്കുന്നു",
+   "അവർ ആകാശം കാണാൻ വന്നു",
+   "അവർക്ക് വിത്തില്ല"
+  ],
+  "answer": 0,
+  "explanation": "വിതച്ച ശേഷമുള്ള പ്രാർഥന നല്ല മഴയ്ക്കും വിളവിനും വേണ്ടിയാണ്."
+ },
+ {
+  "id": "t1-malayalam-004",
+  "part": "malayalam",
+  "topic": "ml-comprehension-poetry",
+  "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “അമ്മയെന്നൊരു രണ്ടക്ഷരം, അമൃതിൻ നിറകുടമല്ലോ; അമ്മതൻ സ്നേഹം നമുക്കെന്നും ആശ്രയമായ് വിളങ്ങീടുന്നു.” ഈ വരികളിലെ ആശയം എന്താണ്?",
+  "options": [
+   "കുട്ടികൾക്ക് അമ്മയെ ആവശ്യമില്ല",
+   "അമ്മയുടെ സ്നേഹം നമുക്ക് എന്നും ആശ്രയമാണ്",
+   "അമ്മ എന്നത് ഒരു പ്രയാസമുള്ള വാക്കാണ്",
+   "അമൃത് വളരെ മധുരമുള്ളതാണ്"
+  ],
+  "answer": 1,
+  "explanation": "അവസാന രണ്ടു വരികൾ അമ്മയുടെ സ്നേഹം ആശ്രയമാണെന്ന് പറയുന്നു."
+ },
+ {
+  "id": "t1-malayalam-005",
+  "part": "malayalam",
+  "topic": "ml-comprehension-poetry",
+  "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “പുലരി പൊൻകതിർ വീശി വന്നു, പൂക്കളെല്ലാം ചിരി തൂകി; കിളികൾ പാടി, കുയിലുമോതി, കാറ്റിൽ ഗന്ധം പരന്നു.” ഈ വരികൾ ഏത് സമയത്തെ വർണിക്കുന്നു?",
+  "options": [
+   "സന്ധ്യ",
+   "മധ്യാഹ്നം",
+   "പ്രഭാതം",
+   "അർധരാത്രി"
+  ],
+  "answer": 2,
+  "explanation": "‘പുലരി’, ‘പൊൻകതിർ’, പാടുന്ന കിളികൾ എന്നിവ പ്രഭാതത്തെ സൂചിപ്പിക്കുന്നു."
+ },
+ {
+  "id": "t1-malayalam-006",
+  "part": "malayalam",
+  "topic": "ml-comprehension-poetry",
+  "text": "‘അമ്മയെന്നൊരു രണ്ടക്ഷരം, അമൃതിൻ നിറകുടമല്ലോ’ എന്ന വരിയിലെ അലങ്കാരം ഏതാണ്?",
+  "options": [
+   "ഉത്പ്രേക്ഷ",
+   "ഉപമ",
+   "ശ്ലേഷം",
+   "രൂപകം"
+  ],
+  "answer": 3,
+  "explanation": "‘പോലെ’ പോലുള്ള പദമില്ലാതെ അമ്മയെ അമൃതിൻ നിറകുടമായി തന്നെ പറയുന്നതിനാൽ ഇത് രൂപകമാണ്."
+ },
+ {
+  "id": "t1-malayalam-007",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘പുഴ’ എന്ന പദത്തിന്റെ പര്യായമല്ലാത്തത് ഏത്?",
+  "options": [
+   "തടിനി",
+   "സരിത്",
+   "സമുദ്രം",
+   "നദി"
+  ],
+  "answer": 2,
+  "explanation": "നദി, തടിനി, സരിത് എന്നിവ പുഴയുടെ പര്യായങ്ങളാണ്; സമുദ്രം കടലാണ്."
+ },
+ {
+  "id": "t1-malayalam-008",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘ഉദയം’ എന്ന പദത്തിന്റെ വിപരീതപദം ഏത്?",
+  "options": [
+   "ഉന്നതി",
+   "അസ്തമയം",
+   "ആരംഭം",
+   "ഉത്ഭവം"
+  ],
+  "answer": 1,
+  "explanation": "ഉദയത്തിന്റെ വിപരീതം അസ്തമയമാണ്."
+ },
+ {
+  "id": "t1-malayalam-009",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘ദയയില്ലാത്തവൻ’ എന്നതിന് ഒറ്റപ്പദം ഏത്?",
+  "options": [
+   "നിർദയൻ",
+   "സദയൻ",
+   "കരുണാമയൻ",
+   "ദയാലു"
+  ],
+  "answer": 0,
+  "explanation": "ദയയില്ലാത്തവൻ എന്നതിന്റെ ഒറ്റപ്പദം നിർദയൻ."
+ },
+ {
+  "id": "t1-malayalam-010",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘കുട്ടി പുസ്തകം വായിച്ചു’ എന്ന വാക്യത്തിലെ ക്രിയ ഏത്?",
+  "options": [
+   "കുട്ടി",
+   "ഇല്ല",
+   "പുസ്തകം",
+   "വായിച്ചു"
+  ],
+  "answer": 3,
+  "explanation": "പ്രവൃത്തിയെ സൂചിപ്പിക്കുന്ന പദമാണ് ക്രിയ."
+ },
+ {
+  "id": "t1-malayalam-011",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "ഉചിതമായ പദം ചേർത്ത് വാക്യം പൂർത്തിയാക്കുക: “മഴ പെയ്തതിനാൽ ഞങ്ങൾ യാത്ര ......”",
+  "options": [
+   "മാറ്റിവെച്ചു",
+   "തുടങ്ങി",
+   "തുടർന്നു",
+   "ആരംഭിച്ചു"
+  ],
+  "answer": 0,
+  "explanation": "മഴ കാരണം യാത്ര മാറ്റിവെക്കുന്നു എന്നതാണ് യുക്തിസഹം."
+ },
+ {
+  "id": "t1-malayalam-012",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "താഴെ പറയുന്നവയിൽ ആജ്ഞാർഥ വാക്യം ഏത്?",
+  "options": [
+   "അവൻ പുസ്തകം വായിച്ചു",
+   "നീ പുസ്തകം വായിക്കുന്നു",
+   "അവൻ പുസ്തകം വായിക്കും",
+   "നീ പുസ്തകം വായിക്കൂ"
+  ],
+  "answer": 3,
+  "explanation": "ഒരു കാര്യം ചെയ്യാൻ കൽപ്പിക്കുന്ന വാക്യമാണ് ആജ്ഞാർഥം."
+ },
+ {
+  "id": "t1-malayalam-013",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘കാണുക’ എന്ന ക്രിയയുടെ ഭൂതകാലരൂപം ഏത്?",
+  "options": [
+   "കാണുന്നു",
+   "കാണും",
+   "കണ്ടു",
+   "കാണാൻ"
+  ],
+  "answer": 2,
+  "explanation": "ഭൂതകാലത്തിൽ ‘കണ്ടു’ എന്ന രൂപം വരുന്നു."
+ },
+ {
+  "id": "t1-malayalam-014",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘തിരു + ഓണം = തിരുവോണം’ ഏത് സന്ധിക്ക് ഉദാഹരണമാണ്?",
+  "options": [
+   "ലോപസന്ധി",
+   "ആഗമസന്ധി",
+   "ആദേശസന്ധി",
+   "ദ്വിത്വസന്ധി"
+  ],
+  "answer": 1,
+  "explanation": "ഇവിടെ ‘വ്’ എന്ന വർണം പുതുതായി വരുന്നതിനാൽ ആഗമസന്ധിയാണ്."
+ },
+ {
+  "id": "t1-malayalam-015",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘കണ്ണിൽ എണ്ണയൊഴിച്ച് കാത്തിരിക്കുക’ എന്ന ശൈലിയുടെ അർഥം ഏത്?",
+  "options": [
+   "ഉറക്കമൊഴിഞ്ഞ് ജാഗ്രതയോടെ കാത്തിരിക്കുക",
+   "ദുഃഖിച്ചിരിക്കുക",
+   "കണ്ണിന് ചികിത്സ ചെയ്യുക",
+   "എണ്ണ വാങ്ങാൻ കാത്തിരിക്കുക"
+  ],
+  "answer": 0,
+  "explanation": "അതീവ ശ്രദ്ധയോടെയും ഉറക്കമൊഴിച്ചും കാത്തിരിക്കുക എന്നാണ് ഇതിന്റെ അർഥം."
+ },
+ {
+  "id": "t1-malayalam-016",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘ചക്കിനു വെച്ചത് കൊക്കിനു കൊണ്ടു’ എന്ന പഴഞ്ചൊല്ലിന്റെ ആശയം ഏത്?",
+  "options": [
+   "ചക്ക വിലയേറിയതാണ്",
+   "പക്ഷികളെ സംരക്ഷിക്കണം",
+   "കഠിനാധ്വാനം വിജയം തരും",
+   "ഉദ്ദേശിച്ചത് ഒന്ന്, സംഭവിച്ചത് മറ്റൊന്ന്"
+  ],
+  "answer": 3,
+  "explanation": "ഒരാൾക്കായി കരുതിയത് മറ്റൊരാൾക്ക് കിട്ടുന്ന സന്ദർഭത്തിൽ ഇത് ഉപയോഗിക്കുന്നു."
+ },
+ {
+  "id": "t1-malayalam-017",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘കുട്ടിയെ’ എന്ന പദം ഏത് വിഭക്തിയിലാണ്?",
+  "options": [
+   "നിർദ്ദേശിക",
+   "സംയോജിക",
+   "പ്രതിഗ്രാഹിക",
+   "സംബന്ധിക"
+  ],
+  "answer": 2,
+  "explanation": "‘-എ’ പ്രത്യയം വരുന്നത് പ്രതിഗ്രാഹിക വിഭക്തിയിലാണ്."
+ },
+ {
+  "id": "t1-malayalam-018",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘കൃഷ്ണഗാഥ’ രചിച്ചതാര്?",
+  "options": [
+   "ഉള്ളൂർ",
+   "ചെറുശ്ശേരി",
+   "എഴുത്തച്ഛൻ",
+   "കുഞ്ചൻ നമ്പ്യാർ"
+  ],
+  "answer": 1,
+  "explanation": "കൃഷ്ണഗാഥയുടെ കർത്താവ് ചെറുശ്ശേരിയാണ്."
+ },
+ {
+  "id": "t1-malayalam-019",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘ഇന്ദുലേഖ’ എന്ന നോവൽ രചിച്ചതാര്?",
+  "options": [
+   "സി.വി. രാമൻപിള്ള",
+   "ഒ. ചന്തുമേനോൻ",
+   "എം.ടി. വാസുദേവൻ നായർ",
+   "തകഴി"
+  ],
+  "answer": 1,
+  "explanation": "ഇന്ദുലേഖ എഴുതിയത് ഒ. ചന്തുമേനോനാണ്."
+ },
+ {
+  "id": "t1-malayalam-020",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘ഗായിക’ എന്ന പദത്തിന്റെ പുല്ലിംഗം ഏത്?",
+  "options": [
+   "ഗാനകൻ",
+   "ഗായൻ",
+   "ഗീതകൻ",
+   "ഗായകൻ"
+  ],
+  "answer": 3,
+  "explanation": "‘ഗായിക’യുടെ പുല്ലിംഗം ‘ഗായകൻ’."
+ },
+ {
+  "id": "t1-physical-science-001",
+  "part": "physical-science",
+  "topic": "phy-waves",
+  "text": "The speed of sound is greatest in:",
+  "options": [
+   "Steel",
+   "Water",
+   "Vacuum",
+   "Air"
+  ],
+  "answer": 0,
+  "explanation": "Sound travels fastest in solids; it cannot travel through vacuum."
+ },
+ {
+  "id": "t1-physical-science-002",
+  "part": "physical-science",
+  "topic": "phy-waves",
+  "text": "The siren of an approaching ambulance appears to rise in pitch. This is due to the:",
+  "options": [
+   "Reverberation",
+   "Resonance",
+   "Doppler effect",
+   "Beats"
+  ],
+  "answer": 2,
+  "explanation": "The relative motion of source and listener changes the apparent frequency."
+ },
+ {
+  "id": "t1-physical-science-003",
+  "part": "physical-science",
+  "topic": "phy-light",
+  "text": "An object is placed at the centre of curvature of a concave mirror of focal length 15 cm. The image distance is:",
+  "options": [
+   "15 cm",
+   "30 cm",
+   "45 cm",
+   "7.5 cm"
+  ],
+  "answer": 1,
+  "explanation": "u = -30 cm, f = -15 cm, so 1/v = 1/f - 1/u = -1/15 + 1/30 = -1/30 and v = -30 cm."
+ },
+ {
+  "id": "t1-physical-science-004",
+  "part": "physical-science",
+  "topic": "phy-light",
+  "text": "Total internal reflection can occur when light travels from:",
+  "options": [
+   "Denser to rarer medium at an angle less than the critical angle",
+   "Air to vacuum only",
+   "Denser to rarer medium at an angle greater than the critical angle",
+   "Rarer to denser medium"
+  ],
+  "answer": 2,
+  "explanation": "Both conditions are needed: denser to rarer and incidence beyond the critical angle."
+ },
+ {
+  "id": "t1-physical-science-005",
+  "part": "physical-science",
+  "topic": "phy-force-pressure",
+  "text": "Pascal's law is the working principle of a:",
+  "options": [
+   "Thermometer",
+   "Hydraulic lift",
+   "Lactometer",
+   "Barometer"
+  ],
+  "answer": 1,
+  "explanation": "Pressure applied to a confined liquid is transmitted equally, which a hydraulic lift uses."
+ },
+ {
+  "id": "t1-physical-science-006",
+  "part": "physical-science",
+  "topic": "phy-heat",
+  "text": "The heat needed to raise the temperature of 2 kg of water by 5 °C is (specific heat capacity of water = 4200 J/kg °C):",
+  "options": [
+   "4200 J",
+   "21000 J",
+   "42000 J",
+   "84000 J"
+  ],
+  "answer": 2,
+  "explanation": "Q = mc(delta T) = 2 x 4200 x 5 = 42000 J."
+ },
+ {
+  "id": "t1-physical-science-007",
+  "part": "physical-science",
+  "topic": "phy-motion",
+  "text": "A car starts from rest and reaches a velocity of 20 m/s in 5 s. Its acceleration is:",
+  "options": [
+   "2 m/s²",
+   "4 m/s²",
+   "10 m/s²",
+   "100 m/s²"
+  ],
+  "answer": 1,
+  "explanation": "a = (v - u)/t = 20/5 = 4 m/s²."
+ },
+ {
+  "id": "t1-physical-science-008",
+  "part": "physical-science",
+  "topic": "phy-motion",
+  "text": "The recoil of a gun when a bullet is fired is an example of the law of:",
+  "options": [
+   "Conservation of momentum",
+   "Inertia",
+   "Floatation",
+   "Conservation of energy"
+  ],
+  "answer": 0,
+  "explanation": "Total momentum stays zero, so the gun moves backwards as the bullet moves forward."
+ },
+ {
+  "id": "t1-physical-science-009",
+  "part": "physical-science",
+  "topic": "phy-gravitation",
+  "text": "The acceleration due to gravity on the moon is about what fraction of its value on the Earth?",
+  "options": [
+   "1/2",
+   "1/3",
+   "1/6",
+   "1/10"
+  ],
+  "answer": 2,
+  "explanation": "The moon's surface gravity is about one-sixth of the Earth's."
+ },
+ {
+  "id": "t1-physical-science-010",
+  "part": "physical-science",
+  "topic": "phy-work-energy",
+  "text": "The kinetic energy of a 2 kg body moving at 3 m/s is:",
+  "options": [
+   "3 J",
+   "6 J",
+   "9 J",
+   "18 J"
+  ],
+  "answer": 2,
+  "explanation": "KE = (1/2)mv² = 0.5 x 2 x 9 = 9 J."
+ },
+ {
+  "id": "t1-physical-science-011",
+  "part": "physical-science",
+  "topic": "phy-electricity-magnetism",
+  "text": "The equivalent resistance of 2 Ω, 3 Ω and 6 Ω resistors connected in parallel is:",
+  "options": [
+   "1 Ω",
+   "2 Ω",
+   "6 Ω",
+   "11 Ω"
+  ],
+  "answer": 0,
+  "explanation": "1/R = 1/2 + 1/3 + 1/6 = 1, so R = 1 Ω."
+ },
+ {
+  "id": "t1-physical-science-012",
+  "part": "physical-science",
+  "topic": "phy-electricity-magnetism",
+  "text": "Which statement about magnetic field lines is correct?",
+  "options": [
+   "They are always straight",
+   "They cross each other",
+   "They begin at the south pole and end at the north pole outside the magnet",
+   "They form closed curves"
+  ],
+  "answer": 3,
+  "explanation": "Magnetic field lines are closed loops and never intersect."
+ },
+ {
+  "id": "t1-physical-science-013",
+  "part": "physical-science",
+  "topic": "phy-electricity-magnetism",
+  "text": "Which of these materials is diamagnetic?",
+  "options": [
+   "Bismuth",
+   "Nickel",
+   "Iron",
+   "Cobalt"
+  ],
+  "answer": 0,
+  "explanation": "Bismuth is a diamagnetic material; iron, nickel and cobalt are ferromagnetic."
+ },
+ {
+  "id": "t1-physical-science-014",
+  "part": "physical-science",
+  "topic": "phy-current-effects-emi",
+  "text": "The device that converts mechanical energy into electrical energy is a:",
+  "options": [
+   "Voltmeter",
+   "Generator",
+   "Motor",
+   "Transformer"
+  ],
+  "answer": 1,
+  "explanation": "A generator works on electromagnetic induction."
+ },
+ {
+  "id": "t1-physical-science-015",
+  "part": "physical-science",
+  "topic": "phy-current-effects-emi",
+  "text": "A transformer works on the principle of:",
+  "options": [
+   "Joule heating",
+   "Electrolysis",
+   "Mutual induction",
+   "Self induction"
+  ],
+  "answer": 2,
+  "explanation": "A changing current in the primary induces an emf in the secondary: mutual induction."
+ },
+ {
+  "id": "t1-physical-science-016",
+  "part": "physical-science",
+  "topic": "phy-electronics",
+  "text": "The majority charge carriers in a p-type semiconductor are:",
+  "options": [
+   "Electrons",
+   "Protons",
+   "Neutrons",
+   "Holes"
+  ],
+  "answer": 3,
+  "explanation": "Doping with trivalent atoms creates holes, the majority carriers in p-type material."
+ },
+ {
+  "id": "t1-physical-science-017",
+  "part": "physical-science",
+  "topic": "phy-electronics",
+  "text": "A junction diode is mainly used as a:",
+  "options": [
+   "Rectifier",
+   "Amplifier",
+   "Transformer",
+   "Oscillator"
+  ],
+  "answer": 0,
+  "explanation": "A diode conducts in one direction, so it converts AC to DC."
+ },
+ {
+  "id": "t1-physical-science-018",
+  "part": "physical-science",
+  "topic": "chem-changes",
+  "text": "Which of the following processes is endothermic?",
+  "options": [
+   "Respiration",
+   "Rusting of iron",
+   "Burning of coal",
+   "Photosynthesis"
+  ],
+  "answer": 3,
+  "explanation": "Photosynthesis absorbs energy from sunlight; the others release heat."
+ },
+ {
+  "id": "t1-physical-science-019",
+  "part": "physical-science",
+  "topic": "chem-atoms-molecules",
+  "text": "Rutherford's alpha-particle scattering experiment led to the discovery of the:",
+  "options": [
+   "Proton shell",
+   "Atomic nucleus",
+   "Electron",
+   "Neutron"
+  ],
+  "answer": 1,
+  "explanation": "A few alpha particles were deflected sharply, showing a small, dense, positive nucleus."
+ },
+ {
+  "id": "t1-physical-science-020",
+  "part": "physical-science",
+  "topic": "chem-atoms-molecules",
+  "text": "The number of neutrons in an atom of sodium-23 (atomic number 11) is:",
+  "options": [
+   "11",
+   "12",
+   "23",
+   "34"
+  ],
+  "answer": 1,
+  "explanation": "Neutrons = mass number - atomic number = 23 - 11 = 12."
+ },
+ {
+  "id": "t1-physical-science-021",
+  "part": "physical-science",
+  "topic": "chem-metals",
+  "text": "Which of the following metals is the most reactive?",
+  "options": [
+   "Iron",
+   "Zinc",
+   "Sodium",
+   "Copper"
+  ],
+  "answer": 2,
+  "explanation": "Sodium lies near the top of the reactivity series."
+ },
+ {
+  "id": "t1-physical-science-022",
+  "part": "physical-science",
+  "topic": "chem-metals",
+  "text": "Rusting of iron requires:",
+  "options": [
+   "Both oxygen and moisture",
+   "Nitrogen and moisture",
+   "Oxygen only",
+   "Water only"
+  ],
+  "answer": 0,
+  "explanation": "Iron rusts when air (oxygen) and water are both present."
+ },
+ {
+  "id": "t1-physical-science-023",
+  "part": "physical-science",
+  "topic": "chem-solutions-colloids",
+  "text": "Which of the following is a colloid?",
+  "options": [
+   "Sugar solution",
+   "Copper sulphate solution",
+   "Salt solution",
+   "Milk"
+  ],
+  "answer": 3,
+  "explanation": "Milk is a colloid (an emulsion) in which fat globules are dispersed in water."
+ },
+ {
+  "id": "t1-physical-science-024",
+  "part": "physical-science",
+  "topic": "chem-matter-separation",
+  "text": "Two miscible liquids with different boiling points are separated by:",
+  "options": [
+   "Sublimation",
+   "Decantation",
+   "Fractional distillation",
+   "Filtration"
+  ],
+  "answer": 2,
+  "explanation": "The liquid with the lower boiling point distils first."
+ },
+ {
+  "id": "t1-physical-science-025",
+  "part": "physical-science",
+  "topic": "chem-periodic-table",
+  "text": "According to the Modern Periodic Law, properties of elements are periodic functions of their:",
+  "options": [
+   "Number of neutrons",
+   "Atomic number",
+   "Atomic mass",
+   "Density"
+  ],
+  "answer": 1,
+  "explanation": "Moseley's modern periodic law uses atomic number."
+ },
+ {
+  "id": "t1-physical-science-026",
+  "part": "physical-science",
+  "topic": "chem-periodic-table",
+  "text": "Which element has the highest electronegativity?",
+  "options": [
+   "Nitrogen",
+   "Chlorine",
+   "Fluorine",
+   "Oxygen"
+  ],
+  "answer": 2,
+  "explanation": "Fluorine is the most electronegative element."
+ },
+ {
+  "id": "t1-physical-science-027",
+  "part": "physical-science",
+  "topic": "chem-bonding",
+  "text": "Which of the following compounds contains an ionic bond?",
+  "options": [
+   "NaCl",
+   "CH₄",
+   "HCl",
+   "H₂O"
+  ],
+  "answer": 0,
+  "explanation": "NaCl forms by transfer of an electron from sodium to chlorine."
+ },
+ {
+  "id": "t1-physical-science-028",
+  "part": "physical-science",
+  "topic": "chem-non-metals",
+  "text": "The Haber process is used for the manufacture of:",
+  "options": [
+   "Nitric acid",
+   "Chlorine",
+   "Sulphuric acid",
+   "Ammonia"
+  ],
+  "answer": 3,
+  "explanation": "Haber process: N₂ + 3H₂ gives 2NH₃."
+ },
+ {
+  "id": "t1-physical-science-029",
+  "part": "physical-science",
+  "topic": "chem-non-metals",
+  "text": "Which allotrope of carbon conducts electricity?",
+  "options": [
+   "Diamond",
+   "Graphite",
+   "Charcoal in all forms",
+   "Fullerene C-60"
+  ],
+  "answer": 1,
+  "explanation": "Graphite has free electrons in its layers, so it conducts."
+ },
+ {
+  "id": "t1-physical-science-030",
+  "part": "physical-science",
+  "topic": "chem-organic",
+  "text": "The number of covalent bonds a carbon atom forms in its compounds is:",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": "Carbon is tetravalent."
+ },
+ {
+  "id": "t1-physical-science-031",
+  "part": "physical-science",
+  "topic": "chem-acids-alkalis",
+  "text": "The pH of lemon juice is most likely to be about:",
+  "options": [
+   "2",
+   "7",
+   "9",
+   "13"
+  ],
+  "answer": 0,
+  "explanation": "Lemon juice contains citric acid, so its pH is low (about 2)."
+ },
+ {
+  "id": "t1-physical-science-032",
+  "part": "physical-science",
+  "topic": "chem-gas-laws",
+  "text": "A gas occupies 4 L at 1 atm. At constant temperature, its volume at 2 atm will be:",
+  "options": [
+   "8 L",
+   "4 L",
+   "2 L",
+   "1 L"
+  ],
+  "answer": 2,
+  "explanation": "Boyle's law: P1V1 = P2V2, so V2 = 4 x 1 / 2 = 2 L."
+ },
+ {
+  "id": "t1-physical-science-033",
+  "part": "physical-science",
+  "topic": "chem-mole-rates",
+  "text": "The number of moles in 36 g of water (H = 1, O = 16) is:",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "Molar mass of water is 18 g, so 36 / 18 = 2 mol."
+ },
+ {
+  "id": "t1-physical-science-034",
+  "part": "physical-science",
+  "topic": "ped-science-india",
+  "text": "Who is regarded as the father of the Indian space programme?",
+  "options": [
+   "C. V. Raman",
+   "S. Chandrasekhar",
+   "Homi J. Bhabha",
+   "Vikram Sarabhai"
+  ],
+  "answer": 3,
+  "explanation": "Vikram Sarabhai started India's space research; Bhabha is associated with the nuclear programme."
+ },
+ {
+  "id": "t1-physical-science-035",
+  "part": "physical-science",
+  "topic": "ped-aims-objectives",
+  "text": "In the original Bloom's taxonomy of the cognitive domain, the highest level is:",
+  "options": [
+   "Knowledge",
+   "Evaluation",
+   "Comprehension",
+   "Application"
+  ],
+  "answer": 1,
+  "explanation": "The original order is knowledge, comprehension, application, analysis, synthesis, evaluation."
+ },
+ {
+  "id": "t1-physical-science-036",
+  "part": "physical-science",
+  "topic": "ped-aims-objectives",
+  "text": "Which of the following is a science process skill?",
+  "options": [
+   "Copying",
+   "Reciting",
+   "Observing",
+   "Memorising"
+  ],
+  "answer": 2,
+  "explanation": "Observing, classifying, measuring, inferring and predicting are process skills."
+ },
+ {
+  "id": "t1-physical-science-037",
+  "part": "physical-science",
+  "topic": "ped-aims-objectives",
+  "text": "The objective \"the pupil can draw a labelled diagram of the human eye\" belongs to the:",
+  "options": [
+   "Psychomotor domain",
+   "Cognitive domain",
+   "Social domain",
+   "Affective domain"
+  ],
+  "answer": 0,
+  "explanation": "Drawing a diagram is a skill, so it is psychomotor."
+ },
+ {
+  "id": "t1-physical-science-038",
+  "part": "physical-science",
+  "topic": "ped-theory-basis",
+  "text": "According to constructivism, knowledge is:",
+  "options": [
+   "Passively received from the teacher",
+   "Fixed and unchangeable",
+   "Only learned by repetition",
+   "Actively built by the learner"
+  ],
+  "answer": 3,
+  "explanation": "Learners construct knowledge from their experiences."
+ },
+ {
+  "id": "t1-physical-science-039",
+  "part": "physical-science",
+  "topic": "ped-theory-basis",
+  "text": "Discovery learning is most closely associated with:",
+  "options": [
+   "Pavlov",
+   "Bruner",
+   "Thorndike",
+   "Skinner"
+  ],
+  "answer": 1,
+  "explanation": "Bruner promoted discovery learning."
+ },
+ {
+  "id": "t1-physical-science-040",
+  "part": "physical-science",
+  "topic": "ped-planning",
+  "text": "The last step in the Herbartian lesson plan is:",
+  "options": [
+   "Generalisation",
+   "Preparation",
+   "Application",
+   "Presentation"
+  ],
+  "answer": 2,
+  "explanation": "Herbart's steps: preparation, presentation, comparison, generalisation, application."
+ },
+ {
+  "id": "t1-physical-science-041",
+  "part": "physical-science",
+  "topic": "ped-planning",
+  "text": "Which of the following is a projected aid?",
+  "options": [
+   "Overhead projector transparency",
+   "Chart",
+   "Model",
+   "Specimen"
+  ],
+  "answer": 0,
+  "explanation": "Projected aids need a projector to show the content on a screen."
+ },
+ {
+  "id": "t1-physical-science-042",
+  "part": "physical-science",
+  "topic": "ped-models",
+  "text": "The Inquiry Training Model was developed by:",
+  "options": [
+   "Hilda Taba",
+   "David Ausubel",
+   "Jerome Bruner",
+   "Richard Suchman"
+  ],
+  "answer": 3,
+  "explanation": "Suchman designed the Inquiry Training Model to teach scientific inquiry."
+ },
+ {
+  "id": "t1-physical-science-043",
+  "part": "physical-science",
+  "topic": "ped-models",
+  "text": "The concept attainment model of teaching is based on the work of:",
+  "options": [
+   "Bruner",
+   "Vygotsky",
+   "Skinner",
+   "Piaget"
+  ],
+  "answer": 0,
+  "explanation": "The concept attainment model builds on Bruner's study of thinking."
+ },
+ {
+  "id": "t1-physical-science-044",
+  "part": "physical-science",
+  "topic": "ped-methods",
+  "text": "The heuristic method of teaching science was introduced by:",
+  "options": [
+   "Montessori",
+   "W. H. Kilpatrick",
+   "H. E. Armstrong",
+   "Herbart"
+  ],
+  "answer": 2,
+  "explanation": "Armstrong's heuristic method lets pupils find things out for themselves."
+ },
+ {
+  "id": "t1-physical-science-045",
+  "part": "physical-science",
+  "topic": "ped-methods",
+  "text": "Moving from particular examples to a general rule is the essence of the:",
+  "options": [
+   "Lecture method",
+   "Inductive method",
+   "Deductive method",
+   "Analytic method"
+  ],
+  "answer": 1,
+  "explanation": "Induction goes from examples to the rule."
+ },
+ {
+  "id": "t1-physical-science-046",
+  "part": "physical-science",
+  "topic": "ped-methods",
+  "text": "The project method was popularised by:",
+  "options": [
+   "W. H. Kilpatrick",
+   "Herbart",
+   "H. E. Armstrong",
+   "Froebel"
+  ],
+  "answer": 0,
+  "explanation": "Kilpatrick developed the project method from Dewey's ideas."
+ },
+ {
+  "id": "t1-physical-science-047",
+  "part": "physical-science",
+  "topic": "ped-approaches",
+  "text": "An approach that links science with other subjects such as mathematics and social science is called:",
+  "options": [
+   "Behaviourist",
+   "Rote",
+   "Interdisciplinary",
+   "Isolated"
+  ],
+  "answer": 2,
+  "explanation": "The interdisciplinary approach connects content across subjects."
+ },
+ {
+  "id": "t1-physical-science-048",
+  "part": "physical-science",
+  "topic": "ped-curriculum",
+  "text": "A curriculum in which the same topic is revisited at increasing levels of depth is called a:",
+  "options": [
+   "Hidden curriculum",
+   "Linear curriculum",
+   "Core curriculum",
+   "Spiral curriculum"
+  ],
+  "answer": 3,
+  "explanation": "Bruner proposed the spiral curriculum."
+ },
+ {
+  "id": "t1-physical-science-049",
+  "part": "physical-science",
+  "topic": "ped-curriculum",
+  "text": "A book that guides the teacher in planning and teaching a textbook is called a:",
+  "options": [
+   "Glossary",
+   "Handbook",
+   "Atlas",
+   "Workbook"
+  ],
+  "answer": 1,
+  "explanation": "The teacher's handbook accompanies the pupils' textbook."
+ },
+ {
+  "id": "t1-physical-science-050",
+  "part": "physical-science",
+  "topic": "ped-labs-clubs",
+  "text": "The primary aim of laboratory work in science teaching is to:",
+  "options": [
+   "Develop skills and scientific attitude through experience",
+   "Replace the textbook",
+   "Waste time",
+   "Entertain students"
+  ],
+  "answer": 0,
+  "explanation": "Laboratory work builds skills, attitudes and understanding."
+ },
+ {
+  "id": "t1-physical-science-051",
+  "part": "physical-science",
+  "topic": "ped-evaluation",
+  "text": "A diagnostic test is used to:",
+  "options": [
+   "Select teachers",
+   "Identify learning difficulties",
+   "Rank students",
+   "Award certificates"
+  ],
+  "answer": 1,
+  "explanation": "It locates specific weaknesses so remedial teaching can follow."
+ },
+ {
+  "id": "t1-physical-science-052",
+  "part": "physical-science",
+  "topic": "ped-evaluation",
+  "text": "Evaluation carried out during the teaching-learning process to improve learning is:",
+  "options": [
+   "Placement",
+   "Summative",
+   "Formative",
+   "Terminal"
+  ],
+  "answer": 2,
+  "explanation": "Formative evaluation gives feedback while learning is going on."
+ },
+ {
+  "id": "t1-physical-science-053",
+  "part": "physical-science",
+  "topic": "ped-professional",
+  "text": "Action research by a teacher is carried out mainly to:",
+  "options": [
+   "Replace examinations",
+   "Write a book",
+   "Get promotion only",
+   "Solve problems in his or her own classroom"
+  ],
+  "answer": 3,
+  "explanation": "Action research is a practical, classroom-based inquiry to improve practice."
+ }
+]

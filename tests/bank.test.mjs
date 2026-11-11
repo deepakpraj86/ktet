@@ -45,3 +45,32 @@ test('the wrong number of fields is an error that names the line', () => {
 test('an answer letter outside A-D is an error', () => {
   assert.throws(() => parseBank('## a1\nQ ||| a ||| b ||| c ||| d ||| E ||| e', blueprint, 1), /line 2.*answer/);
 });
+
+import { balanceAnswers } from '../tools/build-bank.mjs';
+
+const mk = (i, options, answer) => ({ id: `q${i}`, part: 'pa', topic: 'a1', text: `Q${i}`, options, answer, explanation: 'e' });
+
+test('balanceAnswers spreads correct answers evenly and keeps the correct option text', () => {
+  const qs = Array.from({ length: 8 }, (_, i) => mk(i, [`ok${i}`, `x${i}`, `y${i}`, `z${i}`], 0));
+  const out = balanceAnswers(qs, 7);
+  const counts = [0, 0, 0, 0];
+  out.forEach((q, i) => {
+    counts[q.answer] += 1;
+    assert.equal(q.options[q.answer], `ok${i}`);
+    assert.deepEqual([...q.options].sort(), [`ok${i}`, `x${i}`, `y${i}`, `z${i}`].sort());
+  });
+  assert.deepEqual(counts, [2, 2, 2, 2]);
+});
+
+test('questions whose options are all numeric are left exactly as authored', () => {
+  const numeric = mk(1, ['15 cm', '30 cm', '45 cm', '7.5 cm'], 1);
+  const out = balanceAnswers([numeric, mk(2, ['a', 'b', 'c', 'd'], 0)], 3);
+  assert.deepEqual(out[0], numeric);
+});
+
+test('balanceAnswers is deterministic for a given seed and does not mutate its input', () => {
+  const qs = Array.from({ length: 6 }, (_, i) => mk(i, ['a', 'b', 'c', 'd'].map((s) => `${s}${i}`), 0));
+  const snapshot = JSON.stringify(qs);
+  assert.deepEqual(balanceAnswers(qs, 5), balanceAnswers(qs, 5));
+  assert.equal(JSON.stringify(qs), snapshot);
+});
