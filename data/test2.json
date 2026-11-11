@@ -1,0 +1,1402 @@
+[
+ {
+  "id": "t2-adolescent-psychology-001",
+  "part": "adolescent-psychology",
+  "topic": "psy-adolescence",
+  "text": "A method in which one adolescent is studied in depth over a long period is called the:",
+  "options": [
+   "Survey method",
+   "Sociometric method",
+   "Experimental method",
+   "Case study method"
+  ],
+  "answer": 3,
+  "explanation": "A case study examines a single individual intensively."
+ },
+ {
+  "id": "t2-adolescent-psychology-002",
+  "part": "adolescent-psychology",
+  "topic": "psy-adolescence",
+  "text": "Which statement about heredity and environment in development is most accurate?",
+  "options": [
+   "Environment alone decides development",
+   "Heredity alone decides development",
+   "Neither influences adolescent development",
+   "Development results from the interaction of heredity and environment"
+  ],
+  "answer": 3,
+  "explanation": "Modern psychology holds that both interact throughout development."
+ },
+ {
+  "id": "t2-adolescent-psychology-003",
+  "part": "adolescent-psychology",
+  "topic": "psy-problems",
+  "text": "An adolescent who starts thumb-sucking again after the birth of a sibling shows the defence mechanism of:",
+  "options": [
+   "Regression",
+   "Projection",
+   "Sublimation",
+   "Compensation"
+  ],
+  "answer": 0,
+  "explanation": "Regression is a return to behaviour typical of an earlier stage under stress."
+ },
+ {
+  "id": "t2-adolescent-psychology-004",
+  "part": "adolescent-psychology",
+  "topic": "psy-problems",
+  "text": "The best way to help adolescents deal with negative peer pressure is to:",
+  "options": [
+   "Develop their self-confidence and assertiveness",
+   "Isolate them from all friends",
+   "Ignore their friendships",
+   "Punish them publicly"
+  ],
+  "answer": 0,
+  "explanation": "Assertiveness and self-confidence help adolescents resist harmful pressure."
+ },
+ {
+  "id": "t2-adolescent-psychology-005",
+  "part": "adolescent-psychology",
+  "topic": "psy-dev-theories",
+  "text": "The psychosocial crisis of adolescence according to Erikson is:",
+  "options": [
+   "Intimacy versus isolation",
+   "Trust versus mistrust",
+   "Industry versus inferiority",
+   "Identity versus role confusion"
+  ],
+  "answer": 3,
+  "explanation": "Adolescents search for who they are; failure leads to role confusion."
+ },
+ {
+  "id": "t2-adolescent-psychology-006",
+  "part": "adolescent-psychology",
+  "topic": "psy-dev-theories",
+  "text": "Conservation of number, mass and volume develops in Piaget's:",
+  "options": [
+   "Formal operational stage",
+   "Concrete operational stage",
+   "Preoperational stage",
+   "Sensorimotor stage"
+  ],
+  "answer": 1,
+  "explanation": "Conservation is a mark of concrete operational thinking (about 7 to 11 years)."
+ },
+ {
+  "id": "t2-adolescent-psychology-007",
+  "part": "adolescent-psychology",
+  "topic": "psy-dev-theories",
+  "text": "Kohlberg's post-conventional level is guided by:",
+  "options": [
+   "Fear of punishment",
+   "Personal gain",
+   "Approval of others",
+   "Universal ethical principles"
+  ],
+  "answer": 3,
+  "explanation": "The highest stage rests on self-chosen universal principles of justice."
+ },
+ {
+  "id": "t2-adolescent-psychology-008",
+  "part": "adolescent-psychology",
+  "topic": "learn-nature-factors",
+  "text": "A child begins to walk at about a year mainly because of:",
+  "options": [
+   "Maturation",
+   "Imitation of a teacher",
+   "Formal instruction",
+   "Punishment"
+  ],
+  "answer": 0,
+  "explanation": "Maturation is growth that unfolds on a biological timetable."
+ },
+ {
+  "id": "t2-adolescent-psychology-009",
+  "part": "adolescent-psychology",
+  "topic": "learn-nature-factors",
+  "text": "The goal a person sets for himself in a future task is called his:",
+  "options": [
+   "Reaction time",
+   "Mental age",
+   "Span of attention",
+   "Level of aspiration"
+  ],
+  "answer": 3,
+  "explanation": "Level of aspiration is the standard a person sets for future performance."
+ },
+ {
+  "id": "t2-adolescent-psychology-010",
+  "part": "adolescent-psychology",
+  "topic": "learn-nature-factors",
+  "text": "According to Miller, the capacity of short-term memory is about:",
+  "options": [
+   "7 plus or minus 2 items",
+   "Unlimited items",
+   "2 items",
+   "20 items"
+  ],
+  "answer": 0,
+  "explanation": "Miller's \"magical number seven, plus or minus two\"."
+ },
+ {
+  "id": "t2-adolescent-psychology-011",
+  "part": "adolescent-psychology",
+  "topic": "learn-creativity",
+  "text": "Which technique is widely used to generate many creative ideas in a group?",
+  "options": [
+   "Drill",
+   "Brainstorming",
+   "Dictation",
+   "Rote repetition"
+  ],
+  "answer": 1,
+  "explanation": "Brainstorming, introduced by Osborn, encourages many ideas without criticism."
+ },
+ {
+  "id": "t2-adolescent-psychology-012",
+  "part": "adolescent-psychology",
+  "topic": "learn-creativity",
+  "text": "Creative children are generally characterised by:",
+  "options": [
+   "Blind obedience",
+   "Curiosity and independence in thinking",
+   "Fear of new ideas",
+   "Dislike of questions"
+  ],
+  "answer": 1,
+  "explanation": "Curiosity, independence and openness to experience are common traits of creative learners."
+ },
+ {
+  "id": "t2-adolescent-psychology-013",
+  "part": "adolescent-psychology",
+  "topic": "learn-theories",
+  "text": "Thorndike's law of effect states that behaviour followed by a satisfying result is:",
+  "options": [
+   "Unchanged",
+   "Weakened",
+   "Forgotten",
+   "Strengthened"
+  ],
+  "answer": 3,
+  "explanation": "Satisfying consequences stamp in the connection between stimulus and response."
+ },
+ {
+  "id": "t2-adolescent-psychology-014",
+  "part": "adolescent-psychology",
+  "topic": "learn-theories",
+  "text": "Kohler's experiments with chimpanzees support which view of learning?",
+  "options": [
+   "Insight",
+   "Conditioning",
+   "Trial and error",
+   "Imitation"
+  ],
+  "answer": 0,
+  "explanation": "Sudden solution of a problem by seeing relationships is insight learning (Gestalt)."
+ },
+ {
+  "id": "t2-adolescent-psychology-015",
+  "part": "adolescent-psychology",
+  "topic": "learn-theories",
+  "text": "Ausubel's advance organiser is meant to:",
+  "options": [
+   "Link new material to what the learner already knows",
+   "Test students at the end",
+   "Punish wrong answers",
+   "Replace the textbook"
+  ],
+  "answer": 0,
+  "explanation": "An advance organiser gives a framework before new content so it can be anchored."
+ },
+ {
+  "id": "t2-adolescent-psychology-016",
+  "part": "adolescent-psychology",
+  "topic": "learn-special-needs",
+  "text": "Dyslexia is a learning disability that mainly affects:",
+  "options": [
+   "Vision",
+   "Hearing",
+   "Walking",
+   "Reading"
+  ],
+  "answer": 3,
+  "explanation": "Dyslexia is difficulty in reading and decoding words."
+ },
+ {
+  "id": "t2-adolescent-psychology-017",
+  "part": "adolescent-psychology",
+  "topic": "learn-special-needs",
+  "text": "Adjusting teaching methods and tasks to suit the different needs of learners in one class is known as:",
+  "options": [
+   "Streaming",
+   "Differentiated instruction",
+   "Rote teaching",
+   "Detention"
+  ],
+  "answer": 1,
+  "explanation": "Differentiated instruction is a core practice of inclusive classrooms."
+ },
+ {
+  "id": "t2-adolescent-psychology-018",
+  "part": "adolescent-psychology",
+  "topic": "teach-nature-roles",
+  "text": "An experienced teacher who guides a younger colleague's professional growth acts as a:",
+  "options": [
+   "Examiner",
+   "Rival",
+   "Mentor",
+   "Supervisor only"
+  ],
+  "answer": 2,
+  "explanation": "A mentor offers guidance and support based on experience."
+ },
+ {
+  "id": "t2-adolescent-psychology-019",
+  "part": "adolescent-psychology",
+  "topic": "teach-nature-roles",
+  "text": "Teaching is described as a tripolar process involving:",
+  "options": [
+   "School, home and society only",
+   "Teacher, parent and principal",
+   "Teacher, learner and curriculum",
+   "Teacher, textbook and test"
+  ],
+  "answer": 2,
+  "explanation": "The three poles are the teacher, the learner and the curriculum."
+ },
+ {
+  "id": "t2-adolescent-psychology-020",
+  "part": "adolescent-psychology",
+  "topic": "teach-nature-roles",
+  "text": "Calling the teacher a \"social engineer\" means the teacher:",
+  "options": [
+   "Builds school buildings",
+   "Prepares pupils to contribute to social change",
+   "Avoids social issues",
+   "Works only on technical subjects"
+  ],
+  "answer": 1,
+  "explanation": "The teacher shapes values and skills that help build a better society."
+ },
+ {
+  "id": "t2-adolescent-psychology-021",
+  "part": "adolescent-psychology",
+  "topic": "teach-methods-evaluation",
+  "text": "In co-operative learning, students:",
+  "options": [
+   "Listen to the teacher only",
+   "Work silently alone",
+   "Compete against each other",
+   "Work in small groups towards a shared goal"
+  ],
+  "answer": 3,
+  "explanation": "Members help one another and share responsibility for the group result."
+ },
+ {
+  "id": "t2-adolescent-psychology-022",
+  "part": "adolescent-psychology",
+  "topic": "teach-methods-evaluation",
+  "text": "A rubric is mainly used to:",
+  "options": [
+   "Score performance against clearly defined criteria",
+   "Record attendance",
+   "Punish students",
+   "Seat students"
+  ],
+  "answer": 0,
+  "explanation": "A rubric lists criteria and performance levels for fair scoring."
+ },
+ {
+  "id": "t2-adolescent-psychology-023",
+  "part": "adolescent-psychology",
+  "topic": "teach-methods-evaluation",
+  "text": "Portfolio assessment is based on:",
+  "options": [
+   "Attendance records",
+   "A collection of a student's work over time",
+   "Oral tests only",
+   "One year-end test"
+  ],
+  "answer": 1,
+  "explanation": "A portfolio shows growth by collecting work across a period."
+ },
+ {
+  "id": "t2-adolescent-psychology-024",
+  "part": "adolescent-psychology",
+  "topic": "teach-classroom-mgmt",
+  "text": "Positive feedback in the classroom mainly helps to:",
+  "options": [
+   "Build confidence and encourage the desired behaviour",
+   "Lower motivation",
+   "Reduce participation",
+   "Create fear"
+  ],
+  "answer": 0,
+  "explanation": "Specific positive feedback reinforces effort and behaviour."
+ },
+ {
+  "id": "t2-adolescent-psychology-025",
+  "part": "adolescent-psychology",
+  "topic": "teach-personality-ethics",
+  "text": "Professional ethics requires a teacher to:",
+  "options": [
+   "Favour some pupils",
+   "Share students' private records freely",
+   "Take money for marks",
+   "Keep students' personal information confidential"
+  ],
+  "answer": 3,
+  "explanation": "Confidentiality and fairness are basic duties of a teacher."
+ },
+ {
+  "id": "t2-adolescent-psychology-026",
+  "part": "adolescent-psychology",
+  "topic": "teach-frameworks",
+  "text": "Under the RTE Act 2009, no child can be held back or expelled until the completion of:",
+  "options": [
+   "Secondary education",
+   "Higher secondary education",
+   "Elementary education",
+   "Primary education"
+  ],
+  "answer": 2,
+  "explanation": "The Act's no-detention provision applies up to the end of elementary education."
+ },
+ {
+  "id": "t2-adolescent-psychology-027",
+  "part": "adolescent-psychology",
+  "topic": "teach-frameworks",
+  "text": "Which of the following is a guiding principle of NCF 2005?",
+  "options": [
+   "Increasing the weight of textbooks",
+   "Promoting rote learning",
+   "Making examinations the centre of schooling",
+   "Connecting knowledge to life outside the school"
+  ],
+  "answer": 3,
+  "explanation": "NCF 2005 asks that knowledge be linked to the learner's life beyond the school."
+ },
+ {
+  "id": "t2-malayalam-001",
+  "part": "malayalam",
+  "topic": "ml-comprehension-prose",
+  "text": "ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഓണം കേരളത്തിന്റെ ദേശീയോത്സവമാണ്. ചിങ്ങമാസത്തിലാണ് ഇത് ആഘോഷിക്കുന്നത്. പൂക്കളമിടലും ഓണസദ്യയും ഓണക്കളികളും ഇതിന്റെ പ്രത്യേകതകളാണ്. ജാതിമതഭേദമില്ലാതെ എല്ലാവരും ഇതിൽ പങ്കുചേരുന്നു.” ഓണത്തിന്റെ എടുത്തുപറയാവുന്ന സവിശേഷത എന്താണ്?",
+  "options": [
+   "എല്ലാ വിഭാഗം ആളുകളും ഒരുമിച്ച് ആഘോഷിക്കുന്നു",
+   "ഇത് ഒരു മതവിഭാഗത്തിന്റെ മാത്രം ആഘോഷമാണ്",
+   "ഇത് കർക്കടകമാസത്തിലാണ്",
+   "ഇതിൽ കളികൾ ഇല്ല"
+  ],
+  "answer": 0,
+  "explanation": "അവസാനവാക്യത്തിൽ ജാതിമതഭേദമില്ലാതെ എല്ലാവരും പങ്കെടുക്കുന്നു എന്ന് പറയുന്നു."
+ },
+ {
+  "id": "t2-malayalam-002",
+  "part": "malayalam",
+  "topic": "ml-comprehension-prose",
+  "text": "ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ശുചിത്വം ആരോഗ്യത്തിന്റെ അടിസ്ഥാനമാണ്. വ്യക്തിശുചിത്വത്തിനൊപ്പം പരിസരശുചിത്വവും പാലിച്ചാൽ രോഗങ്ങളെ വലിയൊരളവിൽ തടയാൻ കഴിയും.” ‘അടിസ്ഥാനം’ എന്ന പദത്തിന് ഏറ്റവും അടുത്ത അർഥമുള്ള പദം ഏത്?",
+  "options": [
+   "അലങ്കാരം",
+   "മുകൾഭാഗം",
+   "അടിത്തറ",
+   "അറ്റം"
+  ],
+  "answer": 2,
+  "explanation": "‘അടിസ്ഥാനം’ എന്നാൽ അടിത്തറ, ആധാരം എന്നൊക്കെയാണ് അർഥം."
+ },
+ {
+  "id": "t2-malayalam-003",
+  "part": "malayalam",
+  "topic": "ml-comprehension-prose",
+  "text": "ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “വേനൽക്കാലത്ത് ഉറുമ്പ് കഷ്ടപ്പെട്ട് ധാന്യം ശേഖരിച്ചു. ചീവീടാകട്ടെ പാട്ടുപാടി നടന്നു. മഴക്കാലമായപ്പോൾ ചീവീടിന് ഭക്ഷണമില്ലാതെ വിഷമിക്കേണ്ടി വന്നു.” ഈ കഥയിൽ നിന്ന് ലഭിക്കുന്ന പാഠം എന്താണ്?",
+  "options": [
+   "പാട്ടുപാടുന്നത് തെറ്റാണ്",
+   "ഭാവിയെ മുൻകൂട്ടി കണ്ട് പ്രവർത്തിക്കണം",
+   "ഉറുമ്പുകൾ ശക്തരാണ്",
+   "മഴക്കാലത്ത് പുറത്തിറങ്ങരുത്"
+  ],
+  "answer": 1,
+  "explanation": "മുൻകരുതലോടെ പ്രവർത്തിച്ച ഉറുമ്പ് രക്ഷപ്പെട്ടു, അല്ലാത്ത ചീവീട് വിഷമിച്ചു."
+ },
+ {
+  "id": "t2-malayalam-004",
+  "part": "malayalam",
+  "topic": "ml-comprehension-poetry",
+  "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “കുന്നിൻചെരിവിൽ കുളിരുംകാറ്റിൽ കുഞ്ഞിളം പൂക്കൾ ചിരിക്കുന്നു; പുഴയൊരു പാട്ടിൻ ശ്രുതിയും ചേർത്ത് പുഞ്ചിരിതൂകിയൊഴുകുന്നു.” ഈ വരികളിൽ പ്രധാനമായി വർണിക്കുന്നത് എന്താണ്?",
+  "options": [
+   "യുദ്ധം",
+   "നഗരജീവിതം",
+   "ഉത്സവം",
+   "പ്രകൃതിഭംഗി"
+  ],
+  "answer": 3,
+  "explanation": "കുന്ന്, കാറ്റ്, പൂക്കൾ, പുഴ എന്നിവയുടെ ഭംഗിയാണ് വർണിക്കുന്നത്."
+ },
+ {
+  "id": "t2-malayalam-005",
+  "part": "malayalam",
+  "topic": "ml-comprehension-poetry",
+  "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “കുന്നിൻചെരിവിൽ കുളിരുംകാറ്റിൽ കുഞ്ഞിളം പൂക്കൾ ചിരിക്കുന്നു.” ഇവിടെ ‘ചിരിക്കുന്നു’ എന്ന പ്രയോഗം ആരെക്കുറിച്ചാണ്?",
+  "options": [
+   "കുന്ന്",
+   "കുട്ടികൾ",
+   "പൂക്കൾ",
+   "കാറ്റ്"
+  ],
+  "answer": 2,
+  "explanation": "‘കുഞ്ഞിളം പൂക്കൾ ചിരിക്കുന്നു’ എന്നാണ് വരി; പൂക്കളിൽ മനുഷ്യന്റെ ചിരി ആരോപിക്കുന്നു."
+ },
+ {
+  "id": "t2-malayalam-006",
+  "part": "malayalam",
+  "topic": "ml-comprehension-poetry",
+  "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “കാലം കഴിഞ്ഞാൽ തിരികെ വരില്ല, കർമം ചെയ്യുക സമയത്തിൽ.” ഈ വരികൾ നൽകുന്ന സന്ദേശം എന്താണ്?",
+  "options": [
+   "കാലം തിരിച്ചുവരും",
+   "ജോലി സമയത്തുതന്നെ ചെയ്യണം",
+   "കർമം ചെയ്യരുത്",
+   "കാത്തിരിക്കുന്നതാണ് നല്ലത്"
+  ],
+  "answer": 1,
+  "explanation": "പോയ കാലം തിരികെ വരില്ല, അതിനാൽ കർമം സമയത്ത് ചെയ്യണമെന്നാണ് സന്ദേശം."
+ },
+ {
+  "id": "t2-malayalam-007",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘ആകാശം’ എന്ന പദത്തിന്റെ പര്യായമല്ലാത്തത് ഏത്?",
+  "options": [
+   "ഭൂമി",
+   "അംബരം",
+   "നഭസ്സ്",
+   "വാനം"
+  ],
+  "answer": 0,
+  "explanation": "വാനം, നഭസ്സ്, അംബരം എന്നിവ ആകാശത്തിന്റെ പര്യായങ്ങളാണ്; ഭൂമി വേറെയാണ്."
+ },
+ {
+  "id": "t2-malayalam-008",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘സത്യം’ എന്ന പദത്തിന്റെ വിപരീതപദം ഏത്?",
+  "options": [
+   "അസത്യം",
+   "ധർമം",
+   "നീതി",
+   "സത്യസന്ധത"
+  ],
+  "answer": 0,
+  "explanation": "സത്യത്തിന്റെ വിപരീതം അസത്യമാണ്."
+ },
+ {
+  "id": "t2-malayalam-009",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘വിദ്യ അഭ്യസിക്കുന്നവൻ’ എന്നതിന് ഒറ്റപ്പദം ഏത്?",
+  "options": [
+   "ഗുരു",
+   "അധ്യാപകൻ",
+   "വിദ്യാർഥി",
+   "വിദ്വാൻ"
+  ],
+  "answer": 2,
+  "explanation": "വിദ്യ അഭ്യസിക്കുന്നവൻ വിദ്യാർഥിയാണ്."
+ },
+ {
+  "id": "t2-malayalam-010",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘പോകുക’ എന്ന ക്രിയയുടെ ഭൂതകാലരൂപം ഏത്?",
+  "options": [
+   "പോകുന്നു",
+   "പോയി",
+   "പോകണം",
+   "പോകും"
+  ],
+  "answer": 1,
+  "explanation": "ഭൂതകാലത്തിൽ ‘പോയി’ എന്ന രൂപം വരുന്നു."
+ },
+ {
+  "id": "t2-malayalam-011",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘നീ എവിടെ പോകുന്നു?’ എന്ന വാക്യം ഏത് തരത്തിൽപ്പെടുന്നു?",
+  "options": [
+   "വിധ്യർഥം",
+   "ആജ്ഞാർഥം",
+   "നിഷേധാർഥം",
+   "പ്രശ്നാർഥം"
+  ],
+  "answer": 3,
+  "explanation": "ചോദ്യം ചോദിക്കുന്ന വാക്യമായതിനാൽ പ്രശ്നാർഥമാണ്."
+ },
+ {
+  "id": "t2-malayalam-012",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "‘കുട്ടി’ എന്ന പദത്തിന്റെ ബഹുവചനം ഏത്?",
+  "options": [
+   "കുട്ടി",
+   "കുട്ടിമാർ",
+   "കുട്ടികൾ",
+   "കുട്ടിയർ"
+  ],
+  "answer": 2,
+  "explanation": "‘-കൾ’ പ്രത്യയം ചേർത്ത് ബഹുവചനം ഉണ്ടാക്കുന്നു."
+ },
+ {
+  "id": "t2-malayalam-013",
+  "part": "malayalam",
+  "topic": "ml-expression",
+  "text": "ശരിയായ വാക്യം ഏത്?",
+  "options": [
+   "അവൻ ഇന്നലെ വന്നില്ല",
+   "അവൻ ഇന്നലെ വരുന്നില്ല",
+   "അവൻ ഇന്നലെ വരില്ല",
+   "അവൻ ഇന്നലെ വരണം"
+  ],
+  "answer": 0,
+  "explanation": "‘ഇന്നലെ’ എന്ന ഭൂതകാല സൂചകത്തോടൊപ്പം ‘വന്നില്ല’ എന്ന ഭൂതകാല നിഷേധരൂപമാണ് ചേരുക."
+ },
+ {
+  "id": "t2-malayalam-014",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘നെൽ + മണി = നെന്മണി’ ഏത് സന്ധിക്ക് ഉദാഹരണം?",
+  "options": [
+   "ആഗമസന്ധി",
+   "ആദേശസന്ധി",
+   "ലോപസന്ധി",
+   "ദ്വിത്വസന്ധി"
+  ],
+  "answer": 1,
+  "explanation": "‘ൽ’ എന്ന വർണത്തിന് പകരം ‘ൻ’ വരുന്നതിനാൽ ആദേശസന്ധിയാണ്."
+ },
+ {
+  "id": "t2-malayalam-015",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘അമ്മയോട്’ എന്ന പദം ഏത് വിഭക്തിയിൽപ്പെടുന്നു?",
+  "options": [
+   "പ്രയോജിക",
+   "സംബന്ധിക",
+   "ആധാരിക",
+   "സംയോജിക"
+  ],
+  "answer": 3,
+  "explanation": "‘-ഓട്’ പ്രത്യയം സംയോജിക വിഭക്തിയുടേതാണ്."
+ },
+ {
+  "id": "t2-malayalam-016",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘കൈമലർത്തുക’ എന്ന ശൈലിയുടെ അർഥം ഏത്?",
+  "options": [
+   "ഒന്നും ചെയ്യാനില്ലെന്ന് നിസ്സഹായത കാണിക്കുക",
+   "ഭക്ഷണം കഴിക്കുക",
+   "സഹായിക്കുക",
+   "കൈ കഴുകുക"
+  ],
+  "answer": 0,
+  "explanation": "കൈ മലർത്തുക എന്നാൽ നിസ്സഹായത കാണിച്ച് ഒഴിഞ്ഞുമാറുക എന്നാണ്."
+ },
+ {
+  "id": "t2-malayalam-017",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘അടിമേൽ അടിച്ചാൽ അമ്മിയും നീങ്ങും’ എന്ന പഴഞ്ചൊല്ലിന്റെ ആശയം ഏത്?",
+  "options": [
+   "അടി കൊള്ളരുത്",
+   "ദേഷ്യം നല്ലതല്ല",
+   "അമ്മി ഭാരമുള്ളതാണ്",
+   "നിരന്തര പരിശ്രമം കൊണ്ട് ഏത് കാര്യവും സാധിക്കും"
+  ],
+  "answer": 3,
+  "explanation": "തുടർച്ചയായ പരിശ്രമം കൊണ്ട് വലിയ തടസ്സങ്ങളും മറികടക്കാം."
+ },
+ {
+  "id": "t2-malayalam-018",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘വീണപൂവ്’ എന്ന കാവ്യം രചിച്ചതാര്?",
+  "options": [
+   "വള്ളത്തോൾ",
+   "കുമാരനാശാൻ",
+   "ചങ്ങമ്പുഴ",
+   "ഉള്ളൂർ"
+  ],
+  "answer": 1,
+  "explanation": "വീണപൂവ് കുമാരനാശാന്റെ കൃതിയാണ്."
+ },
+ {
+  "id": "t2-malayalam-019",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘നീലാകാശം’ എന്ന പദം ഏത് സമാസത്തിൽപ്പെടുന്നു?",
+  "options": [
+   "ബഹുവ്രീഹി",
+   "തത്പുരുഷൻ",
+   "കർമധാരയൻ",
+   "ദ്വന്ദ്വൻ"
+  ],
+  "answer": 2,
+  "explanation": "‘നീലമായ ആകാശം’ എന്ന് വിശേഷണ-വിശേഷ്യ ബന്ധമായതിനാൽ കർമധാരയനാണ്."
+ },
+ {
+  "id": "t2-malayalam-020",
+  "part": "malayalam",
+  "topic": "ml-language-knowledge",
+  "text": "‘ഉമാകേരളം’ എന്ന മഹാകാവ്യത്തിന്റെ കർത്താവ് ആരാണ്?",
+  "options": [
+   "എഴുത്തച്ഛൻ",
+   "ഉള്ളൂർ എസ്. പരമേശ്വരയ്യർ",
+   "കുമാരനാശാൻ",
+   "വള്ളത്തോൾ നാരായണമേനോൻ"
+  ],
+  "answer": 1,
+  "explanation": "ഉമാകേരളം രചിച്ചത് ഉള്ളൂർ എസ്. പരമേശ്വരയ്യരാണ്."
+ },
+ {
+  "id": "t2-physical-science-001",
+  "part": "physical-science",
+  "topic": "phy-waves",
+  "text": "A wave has a frequency of 50 Hz and a wavelength of 4 m. Its speed is:",
+  "options": [
+   "12.5 m/s",
+   "100 m/s",
+   "200 m/s",
+   "400 m/s"
+  ],
+  "answer": 2,
+  "explanation": "v = f x wavelength = 50 x 4 = 200 m/s."
+ },
+ {
+  "id": "t2-physical-science-002",
+  "part": "physical-science",
+  "topic": "phy-waves",
+  "text": "SONAR is a device that uses:",
+  "options": [
+   "Infrasonic waves",
+   "Radio waves",
+   "Ultrasonic waves",
+   "X-rays"
+  ],
+  "answer": 2,
+  "explanation": "SONAR measures depth and locates objects using reflected ultrasonic waves."
+ },
+ {
+  "id": "t2-physical-science-003",
+  "part": "physical-science",
+  "topic": "phy-light",
+  "text": "The defect of vision myopia is corrected using a:",
+  "options": [
+   "Concave lens",
+   "Plane mirror",
+   "Convex lens",
+   "Cylindrical lens only"
+  ],
+  "answer": 0,
+  "explanation": "A myopic eye focuses distant objects in front of the retina; a diverging concave lens corrects this."
+ },
+ {
+  "id": "t2-physical-science-004",
+  "part": "physical-science",
+  "topic": "phy-light",
+  "text": "The power of a convex lens of focal length 20 cm is:",
+  "options": [
+   "2 D",
+   "4 D",
+   "5 D",
+   "20 D"
+  ],
+  "answer": 2,
+  "explanation": "P = 1/f (in metres) = 1/0.2 = 5 D."
+ },
+ {
+  "id": "t2-physical-science-005",
+  "part": "physical-science",
+  "topic": "phy-force-pressure",
+  "text": "A body weighs 10 N in air. When fully immersed in water the buoyant force on it is 6 N. Its apparent weight in water is:",
+  "options": [
+   "4 N",
+   "6 N",
+   "10 N",
+   "16 N"
+  ],
+  "answer": 0,
+  "explanation": "Apparent weight = weight - buoyant force = 10 - 6 = 4 N."
+ },
+ {
+  "id": "t2-physical-science-006",
+  "part": "physical-science",
+  "topic": "phy-heat",
+  "text": "Which mode of heat transfer does not need a material medium?",
+  "options": [
+   "Convection",
+   "Both conduction and convection",
+   "Conduction",
+   "Radiation"
+  ],
+  "answer": 3,
+  "explanation": "Heat from the Sun reaches the Earth through space by radiation."
+ },
+ {
+  "id": "t2-physical-science-007",
+  "part": "physical-science",
+  "topic": "phy-motion",
+  "text": "A ball is thrown vertically upward with a speed of 20 m/s (g = 10 m/s²). The maximum height reached is:",
+  "options": [
+   "10 m",
+   "20 m",
+   "40 m",
+   "200 m"
+  ],
+  "answer": 1,
+  "explanation": "v² = 2gh gives h = 400/20 = 20 m."
+ },
+ {
+  "id": "t2-physical-science-008",
+  "part": "physical-science",
+  "topic": "phy-motion",
+  "text": "In uniform circular motion the centripetal force acts:",
+  "options": [
+   "Towards the centre",
+   "Along the direction of velocity",
+   "Along the tangent",
+   "Away from the centre"
+  ],
+  "answer": 0,
+  "explanation": "Centripetal force always points towards the centre of the circle."
+ },
+ {
+  "id": "t2-physical-science-009",
+  "part": "physical-science",
+  "topic": "phy-gravitation",
+  "text": "The escape velocity from the surface of the Earth is about:",
+  "options": [
+   "3 km/s",
+   "7.9 km/s",
+   "11.2 km/s",
+   "300 km/s"
+  ],
+  "answer": 2,
+  "explanation": "Escape velocity from the Earth is about 11.2 km/s."
+ },
+ {
+  "id": "t2-physical-science-010",
+  "part": "physical-science",
+  "topic": "phy-work-energy",
+  "text": "A machine does 600 J of work in 20 s. Its power is:",
+  "options": [
+   "20 W",
+   "30 W",
+   "120 W",
+   "12000 W"
+  ],
+  "answer": 1,
+  "explanation": "Power = work / time = 600 / 20 = 30 W."
+ },
+ {
+  "id": "t2-physical-science-011",
+  "part": "physical-science",
+  "topic": "phy-electricity-magnetism",
+  "text": "A potential difference of 12 V is applied across a 6 Ω resistor. The current is:",
+  "options": [
+   "0.5 A",
+   "2 A",
+   "6 A",
+   "72 A"
+  ],
+  "answer": 1,
+  "explanation": "I = V/R = 12/6 = 2 A."
+ },
+ {
+  "id": "t2-physical-science-012",
+  "part": "physical-science",
+  "topic": "phy-electricity-magnetism",
+  "text": "An ammeter is connected in a circuit:",
+  "options": [
+   "Across the battery only",
+   "In parallel with the component",
+   "In series with the component",
+   "In any way"
+  ],
+  "answer": 2,
+  "explanation": "An ammeter has very low resistance and must be in series."
+ },
+ {
+  "id": "t2-physical-science-013",
+  "part": "physical-science",
+  "topic": "phy-electricity-magnetism",
+  "text": "A lightning conductor protects a building because it:",
+  "options": [
+   "Attracts the lightning to the building",
+   "Safely conducts the charge to the earth through pointed ends",
+   "Reflects the light",
+   "Stores the charge"
+  ],
+  "answer": 1,
+  "explanation": "Pointed metal rods discharge the cloud's charge and carry it safely to the ground."
+ },
+ {
+  "id": "t2-physical-science-014",
+  "part": "physical-science",
+  "topic": "phy-current-effects-emi",
+  "text": "According to Faraday's law of electrolysis, the mass of a substance deposited is directly proportional to the:",
+  "options": [
+   "Volume of the vessel",
+   "Colour of the electrodes",
+   "Temperature of the electrolyte",
+   "Quantity of charge passed"
+  ],
+  "answer": 3,
+  "explanation": "m is proportional to the charge Q = It."
+ },
+ {
+  "id": "t2-physical-science-015",
+  "part": "physical-science",
+  "topic": "phy-current-effects-emi",
+  "text": "An electric motor works on the principle that a current-carrying conductor in a magnetic field:",
+  "options": [
+   "Becomes a magnet permanently",
+   "Gets cooled",
+   "Experiences a force",
+   "Loses charge"
+  ],
+  "answer": 2,
+  "explanation": "The force on a current-carrying conductor in a magnetic field turns the motor's coil."
+ },
+ {
+  "id": "t2-physical-science-016",
+  "part": "physical-science",
+  "topic": "phy-electronics",
+  "text": "A Zener diode is mainly used as a:",
+  "options": [
+   "Transformer",
+   "Voltage regulator",
+   "Amplifier",
+   "Oscillator"
+  ],
+  "answer": 1,
+  "explanation": "A Zener diode in reverse breakdown holds the voltage constant."
+ },
+ {
+  "id": "t2-physical-science-017",
+  "part": "physical-science",
+  "topic": "phy-electronics",
+  "text": "A transistor can be used as:",
+  "options": [
+   "An amplifier and a switch",
+   "Only a resistor",
+   "Only a fuse",
+   "Only a battery"
+  ],
+  "answer": 0,
+  "explanation": "Transistors amplify signals and switch currents on and off."
+ },
+ {
+  "id": "t2-physical-science-018",
+  "part": "physical-science",
+  "topic": "chem-changes",
+  "text": "When water is electrolysed, the volumes of hydrogen and oxygen produced are in the ratio:",
+  "options": [
+   "1 : 1",
+   "1 : 2",
+   "2 : 1",
+   "3 : 1"
+  ],
+  "answer": 2,
+  "explanation": "2H₂O gives 2H₂ + O₂, so hydrogen is twice the volume of oxygen."
+ },
+ {
+  "id": "t2-physical-science-019",
+  "part": "physical-science",
+  "topic": "chem-atoms-molecules",
+  "text": "In Bohr's model of the atom, electrons:",
+  "options": [
+   "Sit inside the nucleus",
+   "Are embedded in a positive sphere",
+   "Do not exist",
+   "Move in fixed circular orbits without radiating energy"
+  ],
+  "answer": 3,
+  "explanation": "Bohr proposed stable orbits of fixed energy."
+ },
+ {
+  "id": "t2-physical-science-020",
+  "part": "physical-science",
+  "topic": "chem-atoms-molecules",
+  "text": "Atoms of the same element with different mass numbers are called:",
+  "options": [
+   "Isotones",
+   "Allotropes",
+   "Isotopes",
+   "Isobars"
+  ],
+  "answer": 2,
+  "explanation": "Isotopes have the same atomic number but different numbers of neutrons."
+ },
+ {
+  "id": "t2-physical-science-021",
+  "part": "physical-science",
+  "topic": "chem-metals",
+  "text": "Aluminium is extracted from bauxite by:",
+  "options": [
+   "Reduction with carbon in a blast furnace",
+   "Electrolysis of molten alumina dissolved in cryolite",
+   "Distillation",
+   "Heating in air"
+  ],
+  "answer": 1,
+  "explanation": "Aluminium is too reactive for carbon reduction, so electrolysis is used."
+ },
+ {
+  "id": "t2-physical-science-022",
+  "part": "physical-science",
+  "topic": "chem-metals",
+  "text": "Brass is an alloy of:",
+  "options": [
+   "Lead and tin",
+   "Copper and tin",
+   "Iron and carbon",
+   "Copper and zinc"
+  ],
+  "answer": 3,
+  "explanation": "Brass = copper + zinc; bronze = copper + tin."
+ },
+ {
+  "id": "t2-physical-science-023",
+  "part": "physical-science",
+  "topic": "chem-solutions-colloids",
+  "text": "A solution that cannot dissolve any more solute at a given temperature is called:",
+  "options": [
+   "Saturated",
+   "Unsaturated",
+   "Colloidal",
+   "Dilute"
+  ],
+  "answer": 0,
+  "explanation": "A saturated solution holds the maximum solute possible at that temperature."
+ },
+ {
+  "id": "t2-physical-science-024",
+  "part": "physical-science",
+  "topic": "chem-matter-separation",
+  "text": "Chromatography is used to separate:",
+  "options": [
+   "Salt from water",
+   "Sand from water",
+   "Iron filings from sulphur",
+   "Components of a mixture of dyes or pigments"
+  ],
+  "answer": 3,
+  "explanation": "Different components move at different rates on the stationary phase."
+ },
+ {
+  "id": "t2-physical-science-025",
+  "part": "physical-science",
+  "topic": "chem-periodic-table",
+  "text": "Mendeleev arranged elements in his periodic table in the increasing order of their:",
+  "options": [
+   "Atomic number",
+   "Number of neutrons",
+   "Atomic mass",
+   "Density"
+  ],
+  "answer": 2,
+  "explanation": "Mendeleev's law was based on atomic mass; the modern law uses atomic number."
+ },
+ {
+  "id": "t2-physical-science-026",
+  "part": "physical-science",
+  "topic": "chem-periodic-table",
+  "text": "Group 17 elements are known as:",
+  "options": [
+   "Noble gases",
+   "Halogens",
+   "Alkali metals",
+   "Alkaline earth metals"
+  ],
+  "answer": 1,
+  "explanation": "Fluorine, chlorine, bromine and iodine are halogens."
+ },
+ {
+  "id": "t2-physical-science-027",
+  "part": "physical-science",
+  "topic": "chem-bonding",
+  "text": "Which molecule contains a triple covalent bond?",
+  "options": [
+   "N₂",
+   "H₂",
+   "Cl₂",
+   "O₂"
+  ],
+  "answer": 0,
+  "explanation": "Two nitrogen atoms share three pairs of electrons."
+ },
+ {
+  "id": "t2-physical-science-028",
+  "part": "physical-science",
+  "topic": "chem-non-metals",
+  "text": "Which gas is called the fuel of the future?",
+  "options": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "answer": 3,
+  "explanation": "Hydrogen burns to give only water and a lot of energy."
+ },
+ {
+  "id": "t2-physical-science-029",
+  "part": "physical-science",
+  "topic": "chem-non-metals",
+  "text": "Laughing gas is:",
+  "options": [
+   "Nitrous oxide",
+   "Nitrogen dioxide",
+   "Nitric oxide",
+   "Ammonia"
+  ],
+  "answer": 0,
+  "explanation": "Nitrous oxide (N₂O) is the laughing gas."
+ },
+ {
+  "id": "t2-physical-science-030",
+  "part": "physical-science",
+  "topic": "chem-organic",
+  "text": "The ability of carbon atoms to link with each other to form long chains is called:",
+  "options": [
+   "Isomerism",
+   "Allotropy",
+   "Catenation",
+   "Polarisation"
+  ],
+  "answer": 2,
+  "explanation": "Catenation explains the huge number of carbon compounds."
+ },
+ {
+  "id": "t2-physical-science-031",
+  "part": "physical-science",
+  "topic": "chem-acids-alkalis",
+  "text": "Hydrochloric acid reacts with sodium hydroxide to form:",
+  "options": [
+   "Hydrogen and oxygen",
+   "Sodium chloride and water",
+   "Sodium and chlorine",
+   "Sodium carbonate"
+  ],
+  "answer": 1,
+  "explanation": "Neutralisation: acid + base gives salt + water."
+ },
+ {
+  "id": "t2-physical-science-032",
+  "part": "physical-science",
+  "topic": "chem-gas-laws",
+  "text": "300 mL of a gas at 300 K is heated to 600 K at constant pressure. Its new volume is:",
+  "options": [
+   "150 mL",
+   "300 mL",
+   "600 mL",
+   "900 mL"
+  ],
+  "answer": 2,
+  "explanation": "Charles's law: V1/T1 = V2/T2, so V2 = 300 x 600 / 300 = 600 mL."
+ },
+ {
+  "id": "t2-physical-science-033",
+  "part": "physical-science",
+  "topic": "chem-mole-rates",
+  "text": "The number of molecules in one mole of a substance is:",
+  "options": [
+   "6.022 x 10²¹",
+   "6.022 x 10²²",
+   "6.022 x 10²³",
+   "6.022 x 10²⁴"
+  ],
+  "answer": 2,
+  "explanation": "This is Avogadro's number."
+ },
+ {
+  "id": "t2-physical-science-034",
+  "part": "physical-science",
+  "topic": "ped-science-india",
+  "text": "C. V. Raman received the Nobel Prize in Physics for his work on the:",
+  "options": [
+   "Theory of relativity",
+   "Scattering of light",
+   "Radioactivity",
+   "Structure of the atom"
+  ],
+  "answer": 1,
+  "explanation": "The Raman effect concerns the scattering of light."
+ },
+ {
+  "id": "t2-physical-science-035",
+  "part": "physical-science",
+  "topic": "ped-aims-objectives",
+  "text": "Which of the following is an objective in the affective domain?",
+  "options": [
+   "Draws a circuit diagram",
+   "Calculates the speed of a car",
+   "Recalls the definition of force",
+   "Appreciates the contributions of scientists"
+  ],
+  "answer": 3,
+  "explanation": "Appreciation, interest and attitudes belong to the affective domain."
+ },
+ {
+  "id": "t2-physical-science-036",
+  "part": "physical-science",
+  "topic": "ped-aims-objectives",
+  "text": "Which of these is a component of scientific attitude?",
+  "options": [
+   "Open-mindedness",
+   "Blind belief",
+   "Closed-mindedness",
+   "Superstition"
+  ],
+  "answer": 0,
+  "explanation": "Open-mindedness, curiosity and respect for evidence mark a scientific attitude."
+ },
+ {
+  "id": "t2-physical-science-037",
+  "part": "physical-science",
+  "topic": "ped-aims-objectives",
+  "text": "The disciplinary value of science teaching refers to:",
+  "options": [
+   "Giving pleasure in leisure time",
+   "Earning a livelihood",
+   "Training of the mind in reasoning and problem solving",
+   "Teaching discipline by punishment"
+  ],
+  "answer": 2,
+  "explanation": "Science trains the mind in observation, reasoning and problem solving."
+ },
+ {
+  "id": "t2-physical-science-038",
+  "part": "physical-science",
+  "topic": "ped-theory-basis",
+  "text": "Piaget's term for fitting new experiences into existing schemes is:",
+  "options": [
+   "Assimilation",
+   "Maturation",
+   "Equilibration",
+   "Accommodation"
+  ],
+  "answer": 0,
+  "explanation": "Assimilation fits new information into existing schemas; accommodation changes the schemas."
+ },
+ {
+  "id": "t2-physical-science-039",
+  "part": "physical-science",
+  "topic": "ped-theory-basis",
+  "text": "Gagne's hierarchy of learning begins with:",
+  "options": [
+   "Problem solving",
+   "Signal learning",
+   "Concept learning",
+   "Principle learning"
+  ],
+  "answer": 1,
+  "explanation": "Gagne's hierarchy runs from signal learning up to problem solving."
+ },
+ {
+  "id": "t2-physical-science-040",
+  "part": "physical-science",
+  "topic": "ped-planning",
+  "text": "A unit plan is:",
+  "options": [
+   "A plan for one period only",
+   "The annual examination schedule",
+   "A plan for teaching a whole unit or topic as an organised whole",
+   "A seating chart"
+  ],
+  "answer": 2,
+  "explanation": "A unit plan organises the teaching of a complete topic over several periods."
+ },
+ {
+  "id": "t2-physical-science-041",
+  "part": "physical-science",
+  "topic": "ped-planning",
+  "text": "Good instructional objectives in a lesson plan should be:",
+  "options": [
+   "Only about memory",
+   "Vague and general",
+   "Unrelated to content",
+   "Specific and measurable"
+  ],
+  "answer": 3,
+  "explanation": "Specific, measurable objectives make evaluation possible."
+ },
+ {
+  "id": "t2-physical-science-042",
+  "part": "physical-science",
+  "topic": "ped-models",
+  "text": "The advance organiser model of teaching is associated with:",
+  "options": [
+   "Ausubel",
+   "Skinner",
+   "Suchman",
+   "Pavlov"
+  ],
+  "answer": 0,
+  "explanation": "Ausubel's model presents an organiser to link new content with prior knowledge."
+ },
+ {
+  "id": "t2-physical-science-043",
+  "part": "physical-science",
+  "topic": "ped-models",
+  "text": "In the inquiry training model, the teacher answers the students' questions only with:",
+  "options": [
+   "Long explanations",
+   "Diagrams",
+   "Yes or no",
+   "Examples"
+  ],
+  "answer": 2,
+  "explanation": "Suchman's model uses yes/no questions so students must frame their own hypotheses."
+ },
+ {
+  "id": "t2-physical-science-044",
+  "part": "physical-science",
+  "topic": "ped-methods",
+  "text": "The demonstration method is most suitable when:",
+  "options": [
+   "Students already know the topic",
+   "Equipment is costly or experiments are dangerous",
+   "Each student has a full laboratory",
+   "No experiment is needed"
+  ],
+  "answer": 1,
+  "explanation": "The teacher can show costly or hazardous experiments safely."
+ },
+ {
+  "id": "t2-physical-science-045",
+  "part": "physical-science",
+  "topic": "ped-methods",
+  "text": "In the lecture-cum-demonstration method the teacher:",
+  "options": [
+   "Skips explanations",
+   "Lets students teach",
+   "Only lectures",
+   "Explains while performing experiments before the class"
+  ],
+  "answer": 3,
+  "explanation": "It combines explanation with experimental demonstration."
+ },
+ {
+  "id": "t2-physical-science-046",
+  "part": "physical-science",
+  "topic": "ped-methods",
+  "text": "Which of the following is a step in the problem-solving method?",
+  "options": [
+   "Ending the lesson",
+   "Defining the problem and collecting data",
+   "Memorising the answer",
+   "Dictating notes"
+  ],
+  "answer": 1,
+  "explanation": "Defining the problem, collecting data, forming and testing hypotheses are its steps."
+ },
+ {
+  "id": "t2-physical-science-047",
+  "part": "physical-science",
+  "topic": "ped-approaches",
+  "text": "The environmental approach to science teaching emphasises learning from:",
+  "options": [
+   "Memorisation",
+   "Only the textbook",
+   "The surroundings and local environment",
+   "Only the laboratory"
+  ],
+  "answer": 2,
+  "explanation": "It uses the learner's surroundings as a resource for science learning."
+ },
+ {
+  "id": "t2-physical-science-048",
+  "part": "physical-science",
+  "topic": "ped-curriculum",
+  "text": "Correlation in the science curriculum means:",
+  "options": [
+   "Increasing homework",
+   "Removing practicals",
+   "Teaching topics in isolation",
+   "Linking topics of physics with chemistry and other subjects"
+  ],
+  "answer": 3,
+  "explanation": "Correlation relates content across and within subjects."
+ },
+ {
+  "id": "t2-physical-science-049",
+  "part": "physical-science",
+  "topic": "ped-curriculum",
+  "text": "Which is a feature of a good science textbook?",
+  "options": [
+   "Accurate content with activities and illustrations",
+   "Only definitions",
+   "Crowded text without pictures",
+   "Outdated information"
+  ],
+  "answer": 0,
+  "explanation": "A good textbook is accurate, graded and activity-based."
+ },
+ {
+  "id": "t2-physical-science-050",
+  "part": "physical-science",
+  "topic": "ped-labs-clubs",
+  "text": "A science fair is organised mainly to:",
+  "options": [
+   "Sell equipment",
+   "Conduct examinations",
+   "Show projects and encourage scientific creativity",
+   "Replace classes"
+  ],
+  "answer": 2,
+  "explanation": "Fairs let students display projects and develop interest in science."
+ },
+ {
+  "id": "t2-physical-science-051",
+  "part": "physical-science",
+  "topic": "ped-evaluation",
+  "text": "Before constructing an achievement test, the first step is usually to prepare the:",
+  "options": [
+   "Result sheet",
+   "Blueprint",
+   "Certificates",
+   "Answer sheets"
+  ],
+  "answer": 1,
+  "explanation": "A blueprint plans the weightage of content, objectives and question types."
+ },
+ {
+  "id": "t2-physical-science-052",
+  "part": "physical-science",
+  "topic": "ped-evaluation",
+  "text": "Remedial teaching is given after:",
+  "options": [
+   "Diagnostic testing",
+   "Holiday",
+   "Admission",
+   "Annual day"
+  ],
+  "answer": 0,
+  "explanation": "Remedial teaching responds to difficulties found by diagnosis."
+ },
+ {
+  "id": "t2-physical-science-053",
+  "part": "physical-science",
+  "topic": "ped-professional",
+  "text": "Which of the following supports the professional development of teachers?",
+  "options": [
+   "Avoiding new methods",
+   "Working in isolation",
+   "Ignoring feedback",
+   "In-service training and workshops"
+  ],
+  "answer": 3,
+  "explanation": "Continuous training, workshops and reflection improve teaching."
+ }
+]
