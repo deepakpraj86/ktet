@@ -1,7 +1,9 @@
 // Offline support. Bump the number in CACHE when you change this file's ASSETS list;
-// every other cache is deleted on activate. Cached files are also refreshed in the
-// background on each visit, so a redeploy reaches returning users on their next load.
-const CACHE = 'ktet-v1';
+// every other cache is deleted on activate. Cached files are served immediately and refreshed
+// in the background (bypassing the HTTP cache), so a redeploy reaches returning users on the
+// visit after next. Entries are keyed by URL without the query string, so test.html?id=3 and
+// test.html share one entry and both get refreshed.
+const CACHE = 'ktet-v2';
 const ASSETS = [
   './',
   'index.html',
@@ -15,6 +17,7 @@ const ASSETS = [
   'js/result.js',
   'js/runner.js',
   'js/scoring.js',
+  'js/share.js',
   'js/store.js',
   'js/sw-register.js',
   'js/timer.js',
@@ -27,7 +30,7 @@ const ASSETS = [
 ];
 
 self.addEventListener('install', (event) => {
-  event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(ASSETS)).then(() => self.skipWaiting()));
+  event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(ASSETS.map((url) => new Request(url, { cache: 'reload' })))).then(() => self.skipWaiting()));
 });
 
 self.addEventListener('activate', (event) => {
@@ -40,12 +43,15 @@ self.addEventListener('activate', (event) => {
 
 self.addEventListener('fetch', (event) => {
   const request = event.request;
-  if (request.method !== 'GET' || new URL(request.url).origin !== self.location.origin) return;
+  const url = new URL(request.url);
+  if (request.method !== 'GET' || url.origin !== self.location.origin) return;
+  url.search = '';
+  const key = url.href;
   event.respondWith(
     caches.open(CACHE).then(async (cache) => {
-      const cached = await cache.match(request, { ignoreSearch: true });
-      const refresh = fetch(request).then((response) => {
-        if (response.ok) cache.put(request, response.clone());
+      const cached = await cache.match(key);
+      const refresh = fetch(request, { cache: 'no-cache' }).then((response) => {
+        if (response.ok) cache.put(key, response.clone());
         return response;
       }).catch(() => cached);
       return cached || refresh;

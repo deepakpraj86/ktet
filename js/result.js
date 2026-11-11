@@ -1,5 +1,6 @@
 import { h, clear } from './dom.js';
 import { scoreAttempt } from './scoring.js';
+import { decodeAnswers } from './share.js';
 import { getStore, loadBlueprint, loadTest, testId, testNumberFromUrl, showFatal, pct } from './data.js';
 
 const LETTERS = ['A', 'B', 'C', 'D'];
@@ -30,14 +31,21 @@ function reviewItem(q, i, pq) {
 async function start() {
   const number = testNumberFromUrl();
   if (!number) { showFatal('Unknown test.'); return; }
-  const attempt = getStore().getAttempts(testId(number)).at(-1);
+  let blueprint, questions;
+  try { [blueprint, questions] = await Promise.all([loadBlueprint(), loadTest(number)]); }
+  catch (e) { showFatal(e.message); return; }
+
+  let attempt = getStore().getAttempts(testId(number)).at(-1);
+  let unsaved = false;
+  if (!attempt) {
+    // Storage was blocked when the test was submitted: the answers arrive in the URL hash instead.
+    const answers = decodeAnswers(new URLSearchParams(location.hash.slice(1)).get('a'), questions.length);
+    if (answers) { attempt = { finishedAt: Date.now(), answers }; unsaved = true; }
+  }
   if (!attempt) {
     clear(app).append(h('p', {}, 'No attempt recorded for this test yet. ', h('a', { href: `test.html?id=${number}` }, 'Start it')));
     return;
   }
-  let blueprint, questions;
-  try { [blueprint, questions] = await Promise.all([loadBlueprint(), loadTest(number)]); }
-  catch (e) { showFatal(e.message); return; }
 
   const score = scoreAttempt(questions, attempt.answers);
   const partRows = blueprint.parts.map((p) => {
@@ -60,6 +68,8 @@ async function start() {
   draw();
 
   clear(app).append(
+    unsaved && h('p', { class: 'warning', role: 'status' },
+      'Your browser is blocking storage, so this result is shown once and is not saved. Reloading this page keeps it while the address stays the same.'),
     h('p', { class: 'big' }, `${pct(score.total, score.max)}% correct`),
     h('p', {}, new Date(attempt.finishedAt).toLocaleString()),
     breakdown('By part', partRows),

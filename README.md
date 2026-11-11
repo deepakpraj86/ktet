@@ -69,9 +69,10 @@ node tools/validate.mjs
 The builder spreads the correct answer evenly across A to D (options that are all numbers keep their
 order), so explanations must never refer to option letters. `validate.mjs` checks that each test has
 exactly the blueprint's number of questions per part and topic, four options, a valid answer, an
-explanation, and no repeated ids or question text across tests. If you change a data file, bump the
-`ktet-vN` cache name in `sw.js` only when you add or remove files; content changes reach returning
-users on their next visit.
+explanation, and no repeated ids or question text across tests. If you change a file, the service worker
+serves the cached copy first and refreshes it in the background, so returning users see the change
+on the visit after next. When you add or remove a file, add it to `ASSETS` in `sw.js` and bump the
+`ktet-vN` cache name.
 
 ## Publishing on GitHub Pages
 
