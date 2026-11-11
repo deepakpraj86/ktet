@@ -1,0 +1,10 @@
+{
+  "name": "ktet-mock-tests",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test \"tests/*.test.mjs\"",
+    "validate": "node tools/validate.mjs"
+  }
+}
