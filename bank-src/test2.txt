@@ -5,7 +5,7 @@ A method in which one adolescent is studied in depth over a long period is calle
 Which statement about heredity and environment in development is most accurate? ||| Heredity alone decides development ||| Environment alone decides development ||| Development results from the interaction of heredity and environment ||| Neither influences adolescent development ||| C ||| Modern psychology holds that both interact throughout development.
 
 ## psy-problems
-An adolescent who starts thumb-sucking again after the birth of a sibling shows the defence mechanism of: ||| Regression ||| Sublimation ||| Compensation ||| Projection ||| A ||| Regression is a return to behaviour typical of an earlier stage under stress.
+A 15-year-old who sulks and throws tantrums like a small child whenever he is under stress shows the defence mechanism of: ||| Regression ||| Sublimation ||| Compensation ||| Projection ||| A ||| Regression is a return to behaviour typical of an earlier stage under stress.
 The best way to help adolescents deal with negative peer pressure is to: ||| Isolate them from all friends ||| Develop their self-confidence and assertiveness ||| Punish them publicly ||| Ignore their friendships ||| B ||| Assertiveness and self-confidence help adolescents resist harmful pressure.
 
 ## psy-dev-theories
@@ -48,7 +48,7 @@ Positive feedback in the classroom mainly helps to: ||| Lower motivation ||| Bui
 Professional ethics requires a teacher to: ||| Share students' private records freely ||| Keep students' personal information confidential ||| Favour some pupils ||| Take money for marks ||| B ||| Confidentiality and fairness are basic duties of a teacher.
 
 ## teach-frameworks
-Under the RTE Act 2009, no child can be held back or expelled until the completion of: ||| Primary education ||| Elementary education ||| Secondary education ||| Higher secondary education ||| B ||| The Act's no-detention provision applies up to the end of elementary education.
+As originally enacted, the RTE Act 2009 provided that no child could be held back or expelled until the completion of: ||| Primary education ||| Elementary education ||| Secondary education ||| Higher secondary education ||| B ||| The original no-detention provision ran to the end of elementary education. The 2019 amendment lets states hold children back in some classes, but expulsion remains barred.
 Which of the following is a guiding principle of NCF 2005? ||| Connecting knowledge to life outside the school ||| Increasing the weight of textbooks ||| Making examinations the centre of schooling ||| Promoting rote learning ||| A ||| NCF 2005 asks that knowledge be linked to the learner's life beyond the school.
 
 ## ml-comprehension-prose
@@ -59,7 +59,7 @@ Which of the following is a guiding principle of NCF 2005? ||| Connecting knowle
 ## ml-comprehension-poetry
 വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “കുന്നിൻചെരിവിൽ കുളിരുംകാറ്റിൽ കുഞ്ഞിളം പൂക്കൾ ചിരിക്കുന്നു; പുഴയൊരു പാട്ടിൻ ശ്രുതിയും ചേർത്ത് പുഞ്ചിരിതൂകിയൊഴുകുന്നു.” ഈ വരികളിൽ പ്രധാനമായി വർണിക്കുന്നത് എന്താണ്? ||| നഗരജീവിതം ||| പ്രകൃതിഭംഗി ||| യുദ്ധം ||| ഉത്സവം ||| B ||| കുന്ന്, കാറ്റ്, പൂക്കൾ, പുഴ എന്നിവയുടെ ഭംഗിയാണ് വർണിക്കുന്നത്.
 വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “കുന്നിൻചെരിവിൽ കുളിരുംകാറ്റിൽ കുഞ്ഞിളം പൂക്കൾ ചിരിക്കുന്നു.” ഇവിടെ ‘ചിരിക്കുന്നു’ എന്ന പ്രയോഗം ആരെക്കുറിച്ചാണ്? ||| കുട്ടികൾ ||| പൂക്കൾ ||| കാറ്റ് ||| കുന്ന് ||| B ||| ‘കുഞ്ഞിളം പൂക്കൾ ചിരിക്കുന്നു’ എന്നാണ് വരി; പൂക്കളിൽ മനുഷ്യന്റെ ചിരി ആരോപിക്കുന്നു.
-വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “കാലം കഴിഞ്ഞാൽ തിരികെ വരില്ല, കർമം ചെയ്യുക സമയത്തിൽ.” ഈ വരികൾ നൽകുന്ന സന്ദേശം എന്താണ്? ||| കാലം തിരിച്ചുവരും ||| ജോലി സമയത്തുതന്നെ ചെയ്യണം ||| കർമം ചെയ്യരുത് ||| കാത്തിരിക്കുന്നതാണ് നല്ലത് ||| B ||| പോയ കാലം തിരികെ വരില്ല, അതിനാൽ കർമം സമയത്ത് ചെയ്യണമെന്നാണ് സന്ദേശം.
+വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “കാലം കഴിഞ്ഞാൽ തിരികെ വരില്ല, കർമം ചെയ്യുക സമയത്ത്.” ഈ വരികൾ നൽകുന്ന സന്ദേശം എന്താണ്? ||| കാലം തിരിച്ചുവരും ||| ജോലി സമയത്തുതന്നെ ചെയ്യണം ||| കർമം ചെയ്യരുത് ||| കാത്തിരിക്കുന്നതാണ് നല്ലത് ||| B ||| പോയ കാലം തിരികെ വരില്ല, അതിനാൽ കർമം സമയത്ത് ചെയ്യണമെന്നാണ് സന്ദേശം.
 
 ## ml-expression
 ‘ആകാശം’ എന്ന പദത്തിന്റെ പര്യായമല്ലാത്തത് ഏത്? ||| വാനം ||| നഭസ്സ് ||| ഭൂമി ||| അംബരം ||| C ||| വാനം, നഭസ്സ്, അംബരം എന്നിവ ആകാശത്തിന്റെ പര്യായങ്ങളാണ്; ഭൂമി വേറെയാണ്.
@@ -67,7 +67,7 @@ Which of the following is a guiding principle of NCF 2005? ||| Connecting knowle
 ‘വിദ്യ അഭ്യസിക്കുന്നവൻ’ എന്നതിന് ഒറ്റപ്പദം ഏത്? ||| അധ്യാപകൻ ||| വിദ്യാർഥി ||| വിദ്വാൻ ||| ഗുരു ||| B ||| വിദ്യ അഭ്യസിക്കുന്നവൻ വിദ്യാർഥിയാണ്.
 ‘പോകുക’ എന്ന ക്രിയയുടെ ഭൂതകാലരൂപം ഏത്? ||| പോകും ||| പോകുന്നു ||| പോയി ||| പോകണം ||| C ||| ഭൂതകാലത്തിൽ ‘പോയി’ എന്ന രൂപം വരുന്നു.
 ‘നീ എവിടെ പോകുന്നു?’ എന്ന വാക്യം ഏത് തരത്തിൽപ്പെടുന്നു? ||| വിധ്യർഥം ||| പ്രശ്നാർഥം ||| ആജ്ഞാർഥം ||| നിഷേധാർഥം ||| B ||| ചോദ്യം ചോദിക്കുന്ന വാക്യമായതിനാൽ പ്രശ്നാർഥമാണ്.
-‘കുട്ടി’ എന്ന പദത്തിന്റെ ബഹുവചനം ഏത്? ||| കുട്ടി ||| കുട്ടികൾ ||| കുട്ടിമാർ ||| കുട്ടിയർ ||| B ||| ‘-കൾ’ പ്രത്യയം ചേർത്ത് ബഹുവചനം ഉണ്ടാക്കുന്നു.
+‘കുട്ടി’ എന്ന പദത്തിന്റെ ബഹുവചനം ഏത്? ||| കുട്ടിങ്ങൾ ||| കുട്ടികൾ ||| കുട്ടിമാർ ||| കുട്ടിയർ ||| B ||| ‘-കൾ’ പ്രത്യയം ചേർത്ത് ബഹുവചനം ഉണ്ടാക്കുന്നു.
 ശരിയായ വാക്യം ഏത്? ||| അവൻ ഇന്നലെ വന്നില്ല ||| അവൻ ഇന്നലെ വരില്ല ||| അവൻ ഇന്നലെ വരുന്നില്ല ||| അവൻ ഇന്നലെ വരണം ||| A ||| ‘ഇന്നലെ’ എന്ന ഭൂതകാല സൂചകത്തോടൊപ്പം ‘വന്നില്ല’ എന്ന ഭൂതകാല നിഷേധരൂപമാണ് ചേരുക.
 
 ## ml-language-knowledge
@@ -173,7 +173,7 @@ A unit plan is: ||| A plan for one period only ||| A plan for teaching a whole u
 Good instructional objectives in a lesson plan should be: ||| Vague and general ||| Specific and measurable ||| Unrelated to content ||| Only about memory ||| B ||| Specific, measurable objectives make evaluation possible.
 
 ## ped-models
-The advance organiser model of teaching is associated with: ||| Ausubel ||| Skinner ||| Suchman ||| Pavlov ||| A ||| Ausubel's model presents an organiser to link new content with prior knowledge.
+The Biological Science Inquiry Model of teaching is associated with: ||| Joseph Schwab ||| Richard Suchman ||| David Ausubel ||| Jerome Bruner ||| A ||| Schwab designed this model to teach students the methods of scientific inquiry.
 In the inquiry training model, the teacher answers the students' questions only with: ||| Long explanations ||| Yes or no ||| Examples ||| Diagrams ||| B ||| Suchman's model uses yes/no questions so students must frame their own hypotheses.
 
 ## ped-methods

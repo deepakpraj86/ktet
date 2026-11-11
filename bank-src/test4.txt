@@ -15,7 +15,7 @@ In Kohlberg's pre-conventional level, moral reasoning is based on: ||| Punishmen
 
 ## learn-nature-factors
 Information held for only a second or two after it is perceived is in: ||| Sensory memory ||| Long-term memory ||| Semantic memory ||| Episodic memory ||| A ||| Sensory memory holds raw sensory input very briefly.
-According to the Yerkes-Dodson principle, performance is best when anxiety is: ||| Absent ||| Moderate ||| Very high ||| Extremely low ||| B ||| A moderate level of arousal improves performance.
+According to the Yerkes-Dodson principle, performance is best when arousal (anxiety) is: ||| Absent ||| Moderate ||| Very high ||| Extremely low ||| B ||| A moderate level of arousal improves performance.
 Interest in a subject is best described as: ||| A tendency to attend to and be involved with it ||| A kind of memory ||| A reflex ||| An inborn skill ||| A ||| Interest is a motivating tendency to attend to something.
 
 ## learn-creativity
@@ -67,8 +67,8 @@ The Right to Education Act came into force on: ||| 1 April 2010 ||| 15 August 20
 ‘ഗ്രന്ഥം എഴുതുന്നവൻ’ എന്നതിന് ഒറ്റപ്പദം ഏത്? ||| വായനക്കാരൻ ||| ഗ്രന്ഥകാരൻ ||| പ്രസാധകൻ ||| വിമർശകൻ ||| B ||| ഗ്രന്ഥം എഴുതുന്നവൻ ഗ്രന്ഥകാരൻ.
 ‘അച്ഛൻ എന്നെ വിളിച്ചു’ എന്ന വാക്യത്തിലെ കർത്താവ് ആര്? ||| അച്ഛൻ ||| ഞാൻ ||| വിളി ||| എന്നെ ||| A ||| ക്രിയ ചെയ്യുന്ന ആളാണ് കർത്താവ്; ഇവിടെ വിളിക്കുന്നത് അച്ഛനാണ്.
 ഉചിതമായ പദം ചേർത്ത് വാക്യം പൂർത്തിയാക്കുക: “കടുത്ത വെയിൽ കാരണം ഞങ്ങൾ മരത്തണലിൽ ......” ||| വിശ്രമിച്ചു ||| നീന്തി ||| ഓടി ||| പാടി ||| A ||| വെയിലിൽ നിന്ന് രക്ഷതേടി തണലിൽ വിശ്രമിക്കുന്നതാണ് യുക്തിസഹം.
-‘എഴുതുന്നു’ എന്ന വർത്തമാനകാല ക്രിയയുടെ ഭൂതകാലരൂപം ഏത്? ||| എഴുതും ||| എഴുതി ||| എഴുതണം ||| എഴുതിയാൽ ||| B ||| ഭൂതകാലത്തിൽ ‘എഴുതി’ എന്ന രൂപം വരുന്നു.
-‘കുഞ്ഞ്’ എന്ന പദത്തിന്റെ ബഹുവചനം ഏത്? ||| കുഞ്ഞുകൾ ||| കുഞ്ഞുങ്ങൾ ||| കുഞ്ഞന്മാർ ||| കുഞ്ഞർ ||| B ||| ‘കുഞ്ഞ്’ ന്റെ ബഹുവചനം ‘കുഞ്ഞുങ്ങൾ’.
+‘കവി’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ഏത്? ||| കവയിത്രി ||| കവിനി ||| കവിക ||| കവിയാൾ ||| A ||| ‘കവി’യുടെ സ്ത്രീലിംഗം ‘കവയിത്രി’.
+‘കുഞ്ഞ്’ എന്ന പദത്തിന്റെ ബഹുവചനം ഏത്? ||| കുഞ്ഞുകൾ ||| കുഞ്ഞുങ്ങൾ ||| കുഞ്ഞന്മാർ ||| കുഞ്ഞർ ||| B ||| ‘കുഞ്ഞ്’ എന്ന പദത്തിന്റെ ബഹുവചനം ‘കുഞ്ഞുങ്ങൾ’.
 
 ## ml-language-knowledge
 ‘മണി + അറ = മണിയറ’ ഏത് സന്ധിക്ക് ഉദാഹരണം? ||| ലോപസന്ധി ||| ആദേശസന്ധി ||| ആഗമസന്ധി ||| ദ്വിത്വസന്ധി ||| C ||| ‘യ്’ എന്ന വർണം പുതുതായി വരുന്നതിനാൽ ആഗമസന്ധി.
@@ -142,10 +142,10 @@ A covalent bond is formed by: ||| Transfer of electrons ||| Sharing of electron 
 
 ## chem-non-metals
 In the laboratory, hydrogen chloride gas is prepared by heating sodium chloride with: ||| Dilute nitric acid ||| Concentrated sulphuric acid ||| Water ||| Sodium hydroxide ||| B ||| NaCl + H₂SO₄ gives NaHSO₄ + HCl.
-Which gas is mainly responsible for the greenhouse effect? ||| Oxygen ||| Carbon dioxide ||| Nitrogen ||| Argon ||| B ||| Carbon dioxide traps heat in the atmosphere, causing global warming.
+Which of these gases is the main contributor to the enhanced greenhouse effect (global warming) caused by human activity? ||| Oxygen ||| Carbon dioxide ||| Nitrogen ||| Argon ||| B ||| Carbon dioxide released by burning fuels traps extra heat in the atmosphere.
 
 ## chem-organic
-Methane is the first member of the homologous series of: ||| Alkenes ||| Alkanes ||| Alkynes ||| Alcohols ||| B ||| CH₄ is the simplest alkane.
+Which of the following is an unsaturated hydrocarbon? ||| Ethane ||| Ethene ||| Methane ||| Propane ||| B ||| Ethene (C₂H₄) has a carbon-carbon double bond; the others have only single bonds.
 
 ## chem-acids-alkalis
 Antacid tablets are used to relieve acidity because they contain: ||| Acids ||| Bases that neutralise excess stomach acid ||| Salt only ||| Sugar ||| B ||| Mild bases such as magnesium hydroxide neutralise stomach acid.
@@ -196,4 +196,4 @@ An achievement test measures: ||| What the student has learned ||| Only intellig
 Open-book examinations mainly test: ||| Ability to apply and use information ||| Ability to memorise ||| Handwriting speed only ||| Attendance ||| A ||| Such tests focus on application, not recall.
 
 ## ped-professional
-Which of the following supports lifelong professional growth of a teacher? ||| Reading, research and participation in teacher forums ||| Refusing training ||| Using the same notes forever ||| Avoiding colleagues ||| A ||| Continuous reading, research and sharing improve practice.
+Observing one another's classes and giving feedback helps teachers by: ||| Sharing good practice and improving their teaching ||| Wasting class time ||| Lowering standards ||| Avoiding reflection ||| A ||| Peer observation is a practical way to learn from colleagues.

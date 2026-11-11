@@ -115,7 +115,7 @@
   "id": "t4-adolescent-psychology-009",
   "part": "adolescent-psychology",
   "topic": "learn-nature-factors",
-  "text": "According to the Yerkes-Dodson principle, performance is best when anxiety is:",
+  "text": "According to the Yerkes-Dodson principle, performance is best when arousal (anxiety) is:",
   "options": [
    "Very high",
    "Moderate",
@@ -535,15 +535,15 @@
   "id": "t4-malayalam-012",
   "part": "malayalam",
   "topic": "ml-expression",
-  "text": "‘എഴുതുന്നു’ എന്ന വർത്തമാനകാല ക്രിയയുടെ ഭൂതകാലരൂപം ഏത്?",
+  "text": "‘കവി’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ഏത്?",
   "options": [
-   "എഴുതണം",
-   "എഴുതും",
-   "എഴുതി",
-   "എഴുതിയാൽ"
+   "കവിക",
+   "കവിനി",
+   "കവയിത്രി",
+   "കവിയാൾ"
   ],
   "answer": 2,
-  "explanation": "ഭൂതകാലത്തിൽ ‘എഴുതി’ എന്ന രൂപം വരുന്നു."
+  "explanation": "‘കവി’യുടെ സ്ത്രീലിംഗം ‘കവയിത്രി’."
  },
  {
   "id": "t4-malayalam-013",
@@ -557,7 +557,7 @@
    "കുഞ്ഞന്മാർ"
   ],
   "answer": 1,
-  "explanation": "‘കുഞ്ഞ്’ ന്റെ ബഹുവചനം ‘കുഞ്ഞുങ്ങൾ’."
+  "explanation": "‘കുഞ്ഞ്’ എന്ന പദത്തിന്റെ ബഹുവചനം ‘കുഞ്ഞുങ്ങൾ’."
  },
  {
   "id": "t4-malayalam-014",
@@ -1053,7 +1053,7 @@
   "id": "t4-physical-science-029",
   "part": "physical-science",
   "topic": "chem-non-metals",
-  "text": "Which gas is mainly responsible for the greenhouse effect?",
+  "text": "Which of these gases is the main contributor to the enhanced greenhouse effect (global warming) caused by human activity?",
   "options": [
    "Carbon dioxide",
    "Nitrogen",
@@ -1061,21 +1061,21 @@
    "Oxygen"
   ],
   "answer": 0,
-  "explanation": "Carbon dioxide traps heat in the atmosphere, causing global warming."
+  "explanation": "Carbon dioxide released by burning fuels traps extra heat in the atmosphere."
  },
  {
   "id": "t4-physical-science-030",
   "part": "physical-science",
   "topic": "chem-organic",
-  "text": "Methane is the first member of the homologous series of:",
+  "text": "Which of the following is an unsaturated hydrocarbon?",
   "options": [
-   "Alkynes",
-   "Alkanes",
-   "Alkenes",
-   "Alcohols"
+   "Methane",
+   "Ethene",
+   "Ethane",
+   "Propane"
   ],
   "answer": 1,
-  "explanation": "CH₄ is the simplest alkane."
+  "explanation": "Ethene (C₂H₄) has a carbon-carbon double bond; the others have only single bonds."
  },
  {
   "id": "t4-physical-science-031",
@@ -1389,14 +1389,14 @@
   "id": "t4-physical-science-053",
   "part": "physical-science",
   "topic": "ped-professional",
-  "text": "Which of the following supports lifelong professional growth of a teacher?",
+  "text": "Observing one another's classes and giving feedback helps teachers by:",
   "options": [
-   "Reading, research and participation in teacher forums",
-   "Avoiding colleagues",
-   "Refusing training",
-   "Using the same notes forever"
+   "Sharing good practice and improving their teaching",
+   "Avoiding reflection",
+   "Wasting class time",
+   "Lowering standards"
   ],
   "answer": 0,
-  "explanation": "Continuous reading, research and sharing improve practice."
+  "explanation": "Peer observation is a practical way to learn from colleagues."
  }
 ]

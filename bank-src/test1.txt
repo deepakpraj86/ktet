@@ -28,7 +28,7 @@ Praising a student so that he repeats good behaviour is an example of: ||| Negat
 The gap between what a learner can do alone and what he can do with guidance is Vygotsky's: ||| Zone of Proximal Development ||| Schema ||| Scaffold ||| Equilibration ||| A ||| This gap is the Zone of Proximal Development; scaffolding is the support given within it.
 
 ## learn-special-needs
-Children with an IQ above 130 are usually classified as: ||| Slow learners ||| Gifted ||| Backward ||| Educable mentally retarded ||| B ||| An IQ above about 130 is the usual cut-off for giftedness.
+Children with an IQ above about 130 are usually classified as: ||| Slow learners ||| Gifted ||| Backward ||| Educable mentally retarded ||| B ||| An IQ above about 130 is the usual cut-off for giftedness.
 Inclusive education means: ||| Teaching children with disabilities only in special schools ||| Teaching only gifted children together ||| Educating children with and without disabilities together in regular classrooms with support ||| Admitting children without any support ||| C ||| Inclusion places all learners in the regular classroom with the supports they need.
 
 ## teach-nature-roles
@@ -67,12 +67,12 @@ The NCF 2005 recommends that learning should move away from rote methods and be 
 ‘ദയയില്ലാത്തവൻ’ എന്നതിന് ഒറ്റപ്പദം ഏത്? ||| നിർദയൻ ||| ദയാലു ||| സദയൻ ||| കരുണാമയൻ ||| A ||| ദയയില്ലാത്തവൻ എന്നതിന്റെ ഒറ്റപ്പദം നിർദയൻ.
 ‘കുട്ടി പുസ്തകം വായിച്ചു’ എന്ന വാക്യത്തിലെ ക്രിയ ഏത്? ||| കുട്ടി ||| പുസ്തകം ||| വായിച്ചു ||| ഇല്ല ||| C ||| പ്രവൃത്തിയെ സൂചിപ്പിക്കുന്ന പദമാണ് ക്രിയ.
 ഉചിതമായ പദം ചേർത്ത് വാക്യം പൂർത്തിയാക്കുക: “മഴ പെയ്തതിനാൽ ഞങ്ങൾ യാത്ര ......” ||| തുടർന്നു ||| മാറ്റിവെച്ചു ||| തുടങ്ങി ||| ആരംഭിച്ചു ||| B ||| മഴ കാരണം യാത്ര മാറ്റിവെക്കുന്നു എന്നതാണ് യുക്തിസഹം.
-താഴെ പറയുന്നവയിൽ ആജ്ഞാർഥ വാക്യം ഏത്? ||| നീ പുസ്തകം വായിക്കുന്നു ||| അവൻ പുസ്തകം വായിച്ചു ||| നീ പുസ്തകം വായിക്കൂ ||| അവൻ പുസ്തകം വായിക്കും ||| C ||| ഒരു കാര്യം ചെയ്യാൻ കൽപ്പിക്കുന്ന വാക്യമാണ് ആജ്ഞാർഥം.
+താഴെ പറയുന്നവയിൽ ആജ്ഞാർഥ വാക്യം ഏത്? ||| നീ പുസ്തകം വായിക്കുന്നു ||| അവൻ പുസ്തകം വായിച്ചു ||| നീ പുസ്തകം വായിക്കുക ||| അവൻ പുസ്തകം വായിക്കും ||| C ||| ഒരു കാര്യം ചെയ്യാൻ കൽപ്പിക്കുന്ന വാക്യമാണ് ആജ്ഞാർഥം.
 ‘കാണുക’ എന്ന ക്രിയയുടെ ഭൂതകാലരൂപം ഏത്? ||| കാണും ||| കാണുന്നു ||| കണ്ടു ||| കാണാൻ ||| C ||| ഭൂതകാലത്തിൽ ‘കണ്ടു’ എന്ന രൂപം വരുന്നു.
 
 ## ml-language-knowledge
 ‘തിരു + ഓണം = തിരുവോണം’ ഏത് സന്ധിക്ക് ഉദാഹരണമാണ്? ||| ലോപസന്ധി ||| ആദേശസന്ധി ||| ആഗമസന്ധി ||| ദ്വിത്വസന്ധി ||| C ||| ഇവിടെ ‘വ്’ എന്ന വർണം പുതുതായി വരുന്നതിനാൽ ആഗമസന്ധിയാണ്.
-‘കണ്ണിൽ എണ്ണയൊഴിച്ച് കാത്തിരിക്കുക’ എന്ന ശൈലിയുടെ അർഥം ഏത്? ||| കണ്ണിന് ചികിത്സ ചെയ്യുക ||| ഉറക്കമൊഴിഞ്ഞ് ജാഗ്രതയോടെ കാത്തിരിക്കുക ||| എണ്ണ വാങ്ങാൻ കാത്തിരിക്കുക ||| ദുഃഖിച്ചിരിക്കുക ||| B ||| അതീവ ശ്രദ്ധയോടെയും ഉറക്കമൊഴിച്ചും കാത്തിരിക്കുക എന്നാണ് ഇതിന്റെ അർഥം.
+‘കണ്ണിൽ എണ്ണയൊഴിച്ച് കാത്തിരിക്കുക’ എന്ന ശൈലിയുടെ അർഥം ഏത്? ||| കണ്ണിന് ചികിത്സ ചെയ്യുക ||| ഉറക്കമിളച്ച് ജാഗ്രതയോടെ കാത്തിരിക്കുക ||| എണ്ണ വാങ്ങാൻ കാത്തിരിക്കുക ||| ദുഃഖിച്ചിരിക്കുക ||| B ||| അതീവ ശ്രദ്ധയോടെയും ഉറക്കമൊഴിച്ചും കാത്തിരിക്കുക എന്നാണ് ഇതിന്റെ അർഥം.
 ‘ചക്കിനു വെച്ചത് കൊക്കിനു കൊണ്ടു’ എന്ന പഴഞ്ചൊല്ലിന്റെ ആശയം ഏത്? ||| ഉദ്ദേശിച്ചത് ഒന്ന്, സംഭവിച്ചത് മറ്റൊന്ന് ||| കഠിനാധ്വാനം വിജയം തരും ||| പക്ഷികളെ സംരക്ഷിക്കണം ||| ചക്ക വിലയേറിയതാണ് ||| A ||| ഒരാൾക്കായി കരുതിയത് മറ്റൊരാൾക്ക് കിട്ടുന്ന സന്ദർഭത്തിൽ ഇത് ഉപയോഗിക്കുന്നു.
 ‘കുട്ടിയെ’ എന്ന പദം ഏത് വിഭക്തിയിലാണ്? ||| നിർദ്ദേശിക ||| സംയോജിക ||| പ്രതിഗ്രാഹിക ||| സംബന്ധിക ||| C ||| ‘-എ’ പ്രത്യയം വരുന്നത് പ്രതിഗ്രാഹിക വിഭക്തിയിലാണ്.
 ‘കൃഷ്ണഗാഥ’ രചിച്ചതാര്? ||| എഴുത്തച്ഛൻ ||| ചെറുശ്ശേരി ||| കുഞ്ചൻ നമ്പ്യാർ ||| ഉള്ളൂർ ||| B ||| കൃഷ്ണഗാഥയുടെ കർത്താവ് ചെറുശ്ശേരിയാണ്.
@@ -81,7 +81,7 @@ The NCF 2005 recommends that learning should move away from rote methods and be 
 
 ## phy-waves
 The speed of sound is greatest in: ||| Air ||| Water ||| Steel ||| Vacuum ||| C ||| Sound travels fastest in solids; it cannot travel through vacuum.
-The siren of an approaching ambulance appears to rise in pitch. This is due to the: ||| Doppler effect ||| Reverberation ||| Resonance ||| Beats ||| A ||| The relative motion of source and listener changes the apparent frequency.
+The siren of an approaching ambulance sounds higher in pitch than its actual pitch. This is due to the: ||| Doppler effect ||| Reverberation ||| Resonance ||| Beats ||| A ||| The relative motion of source and listener changes the apparent frequency.
 
 ## phy-light
 An object is placed at the centre of curvature of a concave mirror of focal length 15 cm. The image distance is: ||| 15 cm ||| 30 cm ||| 45 cm ||| 7.5 cm ||| B ||| u = -30 cm, f = -15 cm, so 1/v = 1/f - 1/u = -1/15 + 1/30 = -1/30 and v = -30 cm.
@@ -131,7 +131,7 @@ Rusting of iron requires: ||| Oxygen only ||| Water only ||| Both oxygen and moi
 Which of the following is a colloid? ||| Salt solution ||| Milk ||| Sugar solution ||| Copper sulphate solution ||| B ||| Milk is a colloid (an emulsion) in which fat globules are dispersed in water.
 
 ## chem-matter-separation
-Two miscible liquids with different boiling points are separated by: ||| Filtration ||| Fractional distillation ||| Decantation ||| Sublimation ||| B ||| The liquid with the lower boiling point distils first.
+Oil and water, which do not mix, can be separated using a: ||| Separating funnel ||| Filter paper ||| Sublimation apparatus ||| Chromatography paper ||| A ||| The denser liquid is run off through the tap of a separating funnel.
 
 ## chem-periodic-table
 According to the Modern Periodic Law, properties of elements are periodic functions of their: ||| Atomic mass ||| Atomic number ||| Number of neutrons ||| Density ||| B ||| Moseley's modern periodic law uses atomic number.
@@ -162,7 +162,7 @@ Who is regarded as the father of the Indian space programme? ||| Homi J. Bhabha 
 ## ped-aims-objectives
 In the original Bloom's taxonomy of the cognitive domain, the highest level is: ||| Knowledge ||| Comprehension ||| Application ||| Evaluation ||| D ||| The original order is knowledge, comprehension, application, analysis, synthesis, evaluation.
 Which of the following is a science process skill? ||| Memorising ||| Observing ||| Copying ||| Reciting ||| B ||| Observing, classifying, measuring, inferring and predicting are process skills.
-The objective "the pupil can draw a labelled diagram of the human eye" belongs to the: ||| Cognitive domain ||| Affective domain ||| Psychomotor domain ||| Social domain ||| C ||| Drawing a diagram is a skill, so it is psychomotor.
+The objective "the pupil sets up the apparatus to study the image formed by a convex lens" belongs to the: ||| Cognitive domain ||| Affective domain ||| Psychomotor domain ||| Social domain ||| C ||| Setting up and handling apparatus is a manipulative skill, so it is psychomotor.
 
 ## ped-theory-basis
 According to constructivism, knowledge is: ||| Passively received from the teacher ||| Actively built by the learner ||| Fixed and unchangeable ||| Only learned by repetition ||| B ||| Learners construct knowledge from their experiences.

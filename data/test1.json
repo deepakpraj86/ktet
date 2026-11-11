@@ -213,7 +213,7 @@
   "id": "t1-adolescent-psychology-016",
   "part": "adolescent-psychology",
   "topic": "learn-special-needs",
-  "text": "Children with an IQ above 130 are usually classified as:",
+  "text": "Children with an IQ above about 130 are usually classified as:",
   "options": [
    "Educable mentally retarded",
    "Gifted",
@@ -540,7 +540,7 @@
    "അവൻ പുസ്തകം വായിച്ചു",
    "നീ പുസ്തകം വായിക്കുന്നു",
    "അവൻ പുസ്തകം വായിക്കും",
-   "നീ പുസ്തകം വായിക്കൂ"
+   "നീ പുസ്തകം വായിക്കുക"
   ],
   "answer": 3,
   "explanation": "ഒരു കാര്യം ചെയ്യാൻ കൽപ്പിക്കുന്ന വാക്യമാണ് ആജ്ഞാർഥം."
@@ -579,7 +579,7 @@
   "topic": "ml-language-knowledge",
   "text": "‘കണ്ണിൽ എണ്ണയൊഴിച്ച് കാത്തിരിക്കുക’ എന്ന ശൈലിയുടെ അർഥം ഏത്?",
   "options": [
-   "ഉറക്കമൊഴിഞ്ഞ് ജാഗ്രതയോടെ കാത്തിരിക്കുക",
+   "ഉറക്കമിളച്ച് ജാഗ്രതയോടെ കാത്തിരിക്കുക",
    "ദുഃഖിച്ചിരിക്കുക",
    "കണ്ണിന് ചികിത്സ ചെയ്യുക",
    "എണ്ണ വാങ്ങാൻ കാത്തിരിക്കുക"
@@ -675,7 +675,7 @@
   "id": "t1-physical-science-002",
   "part": "physical-science",
   "topic": "phy-waves",
-  "text": "The siren of an approaching ambulance appears to rise in pitch. This is due to the:",
+  "text": "The siren of an approaching ambulance sounds higher in pitch than its actual pitch. This is due to the:",
   "options": [
    "Reverberation",
    "Resonance",
@@ -983,15 +983,15 @@
   "id": "t1-physical-science-024",
   "part": "physical-science",
   "topic": "chem-matter-separation",
-  "text": "Two miscible liquids with different boiling points are separated by:",
+  "text": "Oil and water, which do not mix, can be separated using a:",
   "options": [
-   "Sublimation",
-   "Decantation",
-   "Fractional distillation",
-   "Filtration"
+   "Chromatography paper",
+   "Sublimation apparatus",
+   "Separating funnel",
+   "Filter paper"
   ],
   "answer": 2,
-  "explanation": "The liquid with the lower boiling point distils first."
+  "explanation": "The denser liquid is run off through the tap of a separating funnel."
  },
  {
   "id": "t1-physical-science-025",
@@ -1165,7 +1165,7 @@
   "id": "t1-physical-science-037",
   "part": "physical-science",
   "topic": "ped-aims-objectives",
-  "text": "The objective \"the pupil can draw a labelled diagram of the human eye\" belongs to the:",
+  "text": "The objective \"the pupil sets up the apparatus to study the image formed by a convex lens\" belongs to the:",
   "options": [
    "Psychomotor domain",
    "Cognitive domain",
@@ -1173,7 +1173,7 @@
    "Affective domain"
   ],
   "answer": 0,
-  "explanation": "Drawing a diagram is a skill, so it is psychomotor."
+  "explanation": "Setting up and handling apparatus is a manipulative skill, so it is psychomotor."
  },
  {
   "id": "t1-physical-science-038",

@@ -75,12 +75,12 @@
   "topic": "psy-dev-theories",
   "text": "The \"good boy, nice girl\" orientation in Kohlberg's theory belongs to the:",
   "options": [
-   "Conventional level",
    "Pre-conventional level",
    "Post-conventional level",
-   "Pre-moral level only"
+   "Pre-moral level only",
+   "Conventional level"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "Seeking approval from others is a conventional-level stage."
  },
  {
@@ -89,12 +89,12 @@
   "topic": "psy-dev-theories",
   "text": "Erikson's crisis of \"intimacy versus isolation\" occurs mainly in:",
   "options": [
-   "Early adulthood",
    "Childhood",
+   "Early adulthood",
    "Old age",
    "Infancy"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "Young adults form close relationships or become isolated."
  },
  {
@@ -104,11 +104,11 @@
   "text": "At the top of Maslow's hierarchy of needs is:",
   "options": [
    "Esteem needs",
+   "Self-actualisation",
    "Physiological needs",
-   "Safety needs",
-   "Self-actualisation"
+   "Safety needs"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "Self-actualisation, fulfilment of one's potential, is the highest need."
  },
  {
@@ -118,11 +118,11 @@
   "text": "Which of the following is a subjective factor that determines attention?",
   "options": [
    "Movement of the object",
-   "Interest",
    "Size of the object",
-   "Loudness of sound"
+   "Loudness of sound",
+   "Interest"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "Interest, attitude and motives lie within the person; size, loudness and movement are objective."
  },
  {
@@ -131,12 +131,12 @@
   "topic": "learn-nature-factors",
   "text": "Transfer of training from one hand to the other is called:",
   "options": [
-   "Vertical transfer",
    "Bilateral transfer",
+   "Vertical transfer",
    "Zero transfer",
    "Negative transfer"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "Bilateral transfer is the carry-over of skill from one side of the body to the other."
  },
  {
@@ -187,12 +187,12 @@
   "topic": "learn-theories",
   "text": "Thorndike's law of readiness states that learning is best when the learner is:",
   "options": [
-   "Physically and mentally prepared",
    "Forced",
+   "Physically and mentally prepared",
    "Distracted",
    "Tired"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "Readiness, physical and mental, makes learning satisfying and effective."
  },
  {
@@ -203,10 +203,10 @@
   "options": [
    "The teacher's age",
    "The colour of the book",
-   "The length of the school day",
-   "What the learner already knows"
+   "What the learner already knows",
+   "The length of the school day"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Ausubel's meaningful learning builds on the learner's existing knowledge."
  },
  {
@@ -243,12 +243,12 @@
   "topic": "teach-nature-roles",
   "text": "The main aim of teaching is to bring about:",
   "options": [
-   "Fear of the teacher",
    "Desirable changes in the learner's behaviour",
+   "Fear of the teacher",
    "Memorisation of facts only",
    "Silence in class"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "Teaching aims at desirable changes in knowledge, skills and attitudes."
  },
  {
@@ -257,12 +257,12 @@
   "topic": "teach-nature-roles",
   "text": "A teacher who sets goals and inspires pupils to work towards them is acting as a:",
   "options": [
-   "Leader",
    "Critic",
    "Clerk",
-   "Spectator"
+   "Spectator",
+   "Leader"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "A leader gives direction and inspires group effort."
  },
  {
@@ -273,10 +273,10 @@
   "options": [
    "The age of the building",
    "The number of trees",
-   "The colour of the school gate",
-   "The teacher's subject knowledge and communication skill"
+   "The teacher's subject knowledge and communication skill",
+   "The colour of the school gate"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Teacher competence and communication strongly affect teaching."
  },
  {
@@ -287,10 +287,10 @@
   "options": [
    "The teacher",
    "The previous year's textbook",
-   "Other students",
-   "A fixed standard only"
+   "A fixed standard only",
+   "Other students"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "Norm-referenced tests rank students against a group."
  },
  {
@@ -300,11 +300,11 @@
   "text": "Peer assessment means:",
   "options": [
    "The principal assesses",
+   "Students assess one another's work",
    "No one assesses",
-   "Parents assess",
-   "Students assess one another's work"
+   "Parents assess"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "Learners give feedback on each other's work using criteria."
  },
  {
@@ -313,12 +313,12 @@
   "topic": "teach-methods-evaluation",
   "text": "Which of the following is an effective use of ICT in the classroom?",
   "options": [
-   "Avoiding student activity",
    "Showing simulations and animations of scientific processes",
+   "Avoiding student activity",
    "Replacing all experiments",
    "Displaying only blank slides"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "Simulations make abstract ideas visible and interactive."
  },
  {
@@ -327,12 +327,12 @@
   "topic": "teach-classroom-mgmt",
   "text": "Which of the following reduces idle time and misbehaviour in the classroom?",
   "options": [
-   "Well-prepared lessons with smooth transitions",
    "Frequent punishment",
+   "Well-prepared lessons with smooth transitions",
    "Long lectures",
    "Unplanned lessons"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "Good planning keeps pupils engaged."
  },
  {
@@ -341,12 +341,12 @@
   "topic": "teach-personality-ethics",
   "text": "Commitment of a teacher to the profession is shown by:",
   "options": [
+   "Punctuality, preparation and care for learners",
    "Private tuition for own students at school time",
    "Late arrival",
-   "Punctuality, preparation and care for learners",
    "Skipping classes"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "Dedicated work and care for pupils show professional commitment."
  },
  {
@@ -367,15 +367,15 @@
   "id": "t5-adolescent-psychology-027",
   "part": "adolescent-psychology",
   "topic": "teach-frameworks",
-  "text": "Article 21A of the Constitution of India provides for:",
+  "text": "Article 21A, the right to education, was inserted into the Constitution by the:",
   "options": [
-   "Free and compulsory education for children aged 6 to 14",
-   "Freedom of speech",
-   "Right to property",
-   "Right to vote"
+   "86th Amendment",
+   "42nd Amendment",
+   "44th Amendment",
+   "73rd Amendment"
   ],
   "answer": 0,
-  "explanation": "The 86th Amendment inserted Article 21A."
+  "explanation": "The 86th Amendment of 2002 inserted Article 21A."
  },
  {
   "id": "t5-malayalam-001",
@@ -383,12 +383,12 @@
   "topic": "ml-comprehension-prose",
   "text": "ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “കൃഷി നമ്മുടെ നാടിന്റെ നട്ടെല്ലാണ്. കർഷകൻ വിയർപ്പൊഴുക്കുമ്പോഴാണ് നമ്മുടെ തീൻമേശയിൽ ആഹാരമെത്തുന്നത്. എന്നിട്ടും കർഷകന്റെ ജീവിതം പലപ്പോഴും കഷ്ടത്തിലാണ്.” ഈ ഭാഗത്തിൽ നിന്ന് മനസ്സിലാക്കാവുന്നത് എന്താണ്?",
   "options": [
-   "ആഹാരം ധാരാളം ഉണ്ട്",
-   "കൃഷി ആവശ്യമില്ല",
    "കർഷകർ സുഖമായി ജീവിക്കുന്നു",
-   "നമുക്ക് ആഹാരം നൽകുന്ന കർഷകരുടെ ജീവിതം പലപ്പോഴും കഷ്ടത്തിലാണ്"
+   "കൃഷി ആവശ്യമില്ല",
+   "നമുക്ക് ആഹാരം നൽകുന്ന കർഷകരുടെ ജീവിതം പലപ്പോഴും കഷ്ടത്തിലാണ്",
+   "ആഹാരം ധാരാളം ഉണ്ട്"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "ഖണ്ഡികയുടെ അവസാനവാക്യം കർഷകരുടെ കഷ്ടത്തെക്കുറിച്ച് പറയുന്നു."
  },
  {
@@ -398,11 +398,11 @@
   "text": "ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഗുരുവിനോടുള്ള ബഹുമാനം വിദ്യാർഥിയുടെ ആദ്യത്തെ ഗുണമാണ്. ബഹുമാനമുള്ളവർക്ക് മാത്രമേ അറിവ് ഉള്ളിൽ ഉറയ്ക്കൂ.” ഖണ്ഡിക അനുസരിച്ച് അറിവ് ഉള്ളിൽ ഉറയ്ക്കുന്നത് ആർക്കാണ്?",
   "options": [
    "ഒറ്റയ്ക്കിരിക്കുന്നവർക്ക്",
-   "ബഹുമാനമുള്ളവർക്ക്",
    "മടിയുള്ളവർക്ക്",
-   "ധനികർക്ക്"
+   "ധനികർക്ക്",
+   "ബഹുമാനമുള്ളവർക്ക്"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "‘ബഹുമാനമുള്ളവർക്ക് മാത്രമേ അറിവ് ഉള്ളിൽ ഉറയ്ക്കൂ’ എന്ന് ഖണ്ഡികയിൽ പറയുന്നു."
  },
  {
@@ -411,12 +411,12 @@
   "topic": "ml-comprehension-prose",
   "text": "ഖണ്ഡിക വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ദേശസ്നേഹം എന്നാൽ നമ്മുടെ നാടിനെ സ്നേഹിക്കുകയും അതിന്റെ പുരോഗതിക്കായി പ്രവർത്തിക്കുകയും ചെയ്യുക എന്നതാണ്. വെറും മുദ്രാവാക്യങ്ങൾ വിളിക്കുന്നതിൽ അത് ഒതുങ്ങുന്നില്ല.” ദേശസ്നേഹത്തെ ലേഖകൻ എങ്ങനെ വിശദീകരിക്കുന്നു?",
   "options": [
-   "വിദേശത്ത് പോകൽ",
-   "മുദ്രാവാക്യം വിളിക്കൽ മാത്രം",
    "നാടിനെ സ്നേഹിച്ച് അതിന്റെ പുരോഗതിക്കായി പ്രവർത്തിക്കൽ",
-   "രാഷ്ട്രീയത്തിൽ ചേരൽ"
+   "രാഷ്ട്രീയത്തിൽ ചേരൽ",
+   "വിദേശത്ത് പോകൽ",
+   "മുദ്രാവാക്യം വിളിക്കൽ മാത്രം"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "നാടിനെ സ്നേഹിക്കുകയും പുരോഗതിക്കായി പ്രവർത്തിക്കുകയും ചെയ്യലാണ് ദേശസ്നേഹം എന്ന് ഖണ്ഡിക പറയുന്നു."
  },
  {
@@ -425,12 +425,12 @@
   "topic": "ml-comprehension-poetry",
   "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “മഴ വന്നു മണ്ണിൻ മണം പൊങ്ങി, മയിലുകൾ നൃത്തം ചെയ്തു; കുട്ടികൾ കൂട്ടമായ് മുറ്റത്തിറങ്ങി, കളിവള്ളം തോട്ടിലൊഴുക്കി.” ഈ വരികൾ ഏത് കാലത്തെ വർണിക്കുന്നു?",
   "options": [
-   "വേനൽക്കാലം",
    "ശൈത്യകാലം",
-   "വസന്തകാലം",
-   "മഴക്കാലം"
+   "മഴക്കാലം",
+   "വേനൽക്കാലം",
+   "വസന്തകാലം"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "‘മഴ വന്നു’, ‘കളിവള്ളം തോട്ടിലൊഴുക്കി’ എന്നീ പ്രയോഗങ്ങൾ മഴക്കാലത്തെ കാണിക്കുന്നു."
  },
  {
@@ -439,12 +439,12 @@
   "topic": "ml-comprehension-poetry",
   "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “മഴ വന്നു മണ്ണിൻ മണം പൊങ്ങി, മയിലുകൾ നൃത്തം ചെയ്തു.” മഴ വന്നപ്പോൾ മയിലുകൾ എന്തു ചെയ്തു?",
   "options": [
-   "നൃത്തം ചെയ്തു",
    "പാടി",
+   "ഒളിച്ചു",
    "ഉറങ്ങി",
-   "ഒളിച്ചു"
+   "നൃത്തം ചെയ്തു"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "വരിയിൽ ‘മയിലുകൾ നൃത്തം ചെയ്തു’ എന്ന് പറയുന്നു."
  },
  {
@@ -453,12 +453,12 @@
   "topic": "ml-comprehension-poetry",
   "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “കുട്ടികൾ കൂട്ടമായ് മുറ്റത്തിറങ്ങി, കളിവള്ളം തോട്ടിലൊഴുക്കി.” ഇവിടെ കുട്ടികളുടെ മാനസികാവസ്ഥ എന്താണ്?",
   "options": [
-   "ഭയം",
-   "സന്തോഷം",
+   "ദുഃഖം",
    "ദേഷ്യം",
-   "ദുഃഖം"
+   "സന്തോഷം",
+   "ഭയം"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "കൂട്ടമായി ഇറങ്ങി കളിവള്ളമൊഴുക്കുന്നത് സന്തോഷത്തെ കാണിക്കുന്നു."
  },
  {
@@ -468,11 +468,11 @@
   "text": "‘പുഷ്പം’ എന്ന പദത്തിന്റെ പര്യായമല്ലാത്തത് ഏത്?",
   "options": [
    "സുമം",
-   "കുസുമം",
    "ഫലം",
+   "കുസുമം",
    "പൂവ്"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "പൂവ്, സുമം, കുസുമം എന്നിവ പുഷ്പത്തിന്റെ പര്യായങ്ങളാണ്."
  },
  {
@@ -482,11 +482,11 @@
   "text": "‘ഉയർച്ച’ എന്ന പദത്തിന്റെ വിപരീതപദം ഏത്?",
   "options": [
    "ഉന്നതി",
-   "വളർച്ച",
    "പുരോഗതി",
-   "താഴ്ച"
+   "താഴ്ച",
+   "വളർച്ച"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "ഉയർച്ചയുടെ വിപരീതം താഴ്ചയാണ്."
  },
  {
@@ -495,27 +495,27 @@
   "topic": "ml-expression",
   "text": "‘വേദം അറിയുന്നവൻ’ എന്നതിന് ഒറ്റപ്പദം ഏത്?",
   "options": [
+   "വൈദ്യൻ",
    "വേദാന്തി",
    "വേദനാകാരൻ",
-   "വേദജ്ഞൻ",
-   "വൈദ്യൻ"
+   "വേദജ്ഞൻ"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "വേദം അറിയുന്നവൻ വേദജ്ഞൻ."
  },
  {
   "id": "t5-malayalam-010",
   "part": "malayalam",
   "topic": "ml-expression",
-  "text": "‘വരുക’ എന്ന ക്രിയയുടെ ഭൂതകാലരൂപം ഏത്?",
+  "text": "‘രാജാവ്’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ഏത്?",
   "options": [
-   "വരണം",
-   "വന്നു",
-   "വരുന്നു",
-   "വരും"
+   "രാജ്ഞി",
+   "രാജി",
+   "രാജ്യ",
+   "രാജിക"
   ],
-  "answer": 1,
-  "explanation": "ഭൂതകാലത്തിൽ ‘വന്നു’ എന്ന രൂപം വരുന്നു."
+  "answer": 0,
+  "explanation": "‘രാജാവ്’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ‘രാജ്ഞി’ ആണ്."
  },
  {
   "id": "t5-malayalam-011",
@@ -523,13 +523,13 @@
   "topic": "ml-expression",
   "text": "‘പുസ്തകം’ എന്ന പദത്തിന്റെ ബഹുവചനം ഏത്?",
   "options": [
-   "പുസ്തകങ്ങൾ",
-   "പുസ്തകമാർ",
    "പുസ്തകികൾ",
+   "പുസ്തകമാർ",
+   "പുസ്തകങ്ങൾ",
    "പുസ്തകർ"
   ],
-  "answer": 0,
-  "explanation": "‘പുസ്തകം’ ന്റെ ബഹുവചനം ‘പുസ്തകങ്ങൾ’."
+  "answer": 2,
+  "explanation": "‘പുസ്തകം’ എന്ന പദത്തിന്റെ ബഹുവചനം ‘പുസ്തകങ്ങൾ’."
  },
  {
   "id": "t5-malayalam-012",
@@ -537,12 +537,12 @@
   "topic": "ml-expression",
   "text": "ഉചിതമായ പദം ചേർത്ത് പൂരിപ്പിക്കുക: “കഠിനാധ്വാനം ചെയ്താൽ വിജയം ......”",
   "options": [
-   "പോകും",
-   "കിട്ടില്ല",
    "കിട്ടും",
-   "മറക്കും"
+   "മറക്കും",
+   "പോകും",
+   "കിട്ടില്ല"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "കഠിനാധ്വാനം വിജയത്തിലേക്ക് നയിക്കുമെന്ന് അർഥം."
  },
  {
@@ -551,27 +551,27 @@
   "topic": "ml-expression",
   "text": "‘വരൂ’ എന്ന പദം ഉൾക്കൊള്ളുന്ന വാക്യത്തിൽ ഏത് അർഥമാണ് വ്യക്തമാകുന്നത്?",
   "options": [
-   "നിഷേധം",
-   "അഭ്യർഥന/ക്ഷണം",
    "ചോദ്യം മാത്രം",
-   "ഭൂതകാലം"
+   "ഭൂതകാലം",
+   "നിഷേധം",
+   "അഭ്യർഥന/ക്ഷണം"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "‘വരൂ’ എന്നത് ക്ഷണിക്കുന്നതോ അഭ്യർഥിക്കുന്നതോ ആയ രൂപമാണ്."
  },
  {
   "id": "t5-malayalam-014",
   "part": "malayalam",
   "topic": "ml-language-knowledge",
-  "text": "മലയാളത്തിലെ ചില്ലക്ഷരങ്ങളുടെ എണ്ണം (ൺ, ൻ, ർ, ൽ, ൾ) എത്ര?",
+  "text": "മലയാളത്തിൽ സാധാരണയായി പഠിപ്പിക്കുന്ന ചില്ലക്ഷരങ്ങൾ എത്ര?",
   "options": [
    "3",
    "4",
    "5",
-   "6"
+   "7"
   ],
   "answer": 2,
-  "explanation": "ണ്‍, ന്‍, ര്‍, ല്‍, ള്‍ എന്നിങ്ങനെ അഞ്ച് ചില്ലക്ഷരങ്ങളാണ് സാധാരണയായി പറയുന്നത്."
+  "explanation": "ണ്‍, ന്‍, ര്‍, ല്‍, ള്‍ എന്നിങ്ങനെ അഞ്ച് ചില്ലക്ഷരങ്ങളാണ് സാധാരണ പഠിപ്പിക്കുന്നത്; ൿ എന്ന ആറാമത്തെ ചില്ല വളരെ അപൂർവമായേ ഉപയോഗിക്കുന്നുള്ളൂ."
  },
  {
   "id": "t5-malayalam-015",
@@ -579,12 +579,12 @@
   "topic": "ml-language-knowledge",
   "text": "‘ച’ വർഗത്തിലെ അനുനാസികം ഏത്?",
   "options": [
-   "ങ",
-   "ന",
    "ണ",
-   "ഞ"
+   "ഞ",
+   "ന",
+   "ങ"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "ച വർഗം: ച ഛ ജ ഝ ഞ; ഇതിലെ അനുനാസികം ‘ഞ’."
  },
  {
@@ -593,12 +593,12 @@
   "topic": "ml-language-knowledge",
   "text": "‘അവനാൽ’ എന്ന പദം ഏത് വിഭക്തിയിൽപ്പെടുന്നു?",
   "options": [
-   "പ്രയോജിക",
-   "സംയോജിക",
    "ആധാരിക",
-   "സംബന്ധിക"
+   "സംയോജിക",
+   "സംബന്ധിക",
+   "പ്രയോജിക"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "‘-ആൽ’ പ്രത്യയം പ്രയോജിക വിഭക്തിയുടേതാണ്."
  },
  {
@@ -607,12 +607,12 @@
   "topic": "ml-language-knowledge",
   "text": "‘മുതലക്കണ്ണീർ ഒഴുക്കുക’ എന്ന ശൈലിയുടെ അർഥം ഏത്?",
   "options": [
+   "കപടദുഃഖം കാണിക്കുക",
    "സന്തോഷിക്കുക",
    "ആത്മാർഥമായി കരയുക",
-   "ഭയപ്പെടുക",
-   "കപടദുഃഖം കാണിക്കുക"
+   "ഭയപ്പെടുക"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "ഉള്ളിൽ ദുഃഖമില്ലാതെ കരയുന്നതായി ഭാവിക്കുക എന്നാണ് ഇതിന്റെ അർഥം."
  },
  {
@@ -621,12 +621,12 @@
   "topic": "ml-language-knowledge",
   "text": "‘ചൂടുവെള്ളത്തിൽ വീണ പൂച്ച പച്ചവെള്ളത്തെ പേടിക്കും’ എന്ന പഴഞ്ചൊല്ലിന്റെ ആശയം ഏത്?",
   "options": [
-   "ഒരിക്കൽ ദുരനുഭവം ഉണ്ടായവർ ചെറിയ കാര്യങ്ങളെപ്പോലും ഭയക്കും",
-   "ചൂടുവെള്ളം നല്ലതാണ്",
    "പച്ചവെള്ളം ശുദ്ധമാണ്",
-   "പൂച്ചകൾ വെള്ളം ഇഷ്ടപ്പെടുന്നു"
+   "പൂച്ചകൾ വെള്ളം ഇഷ്ടപ്പെടുന്നു",
+   "ഒരിക്കൽ ദുരനുഭവം ഉണ്ടായവർ ചെറിയ കാര്യങ്ങളെപ്പോലും ഭയക്കും",
+   "ചൂടുവെള്ളം നല്ലതാണ്"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "മുൻ അനുഭവത്തിന്റെ ഭയം സമാനമായ ചെറിയ കാര്യങ്ങളിലും ഉണ്ടാകും എന്നാണ് ഇതിന്റെ ആശയം."
  },
  {
@@ -635,12 +635,12 @@
   "topic": "ml-language-knowledge",
   "text": "‘ഖസാക്കിന്റെ ഇതിഹാസം’ എന്ന നോവൽ രചിച്ചതാര്?",
   "options": [
-   "ബഷീർ",
    "തകഴി",
    "ഒ. വി. വിജയൻ",
+   "ബഷീർ",
    "എം. ടി. വാസുദേവൻ നായർ"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "ഖസാക്കിന്റെ ഇതിഹാസം ഒ. വി. വിജയന്റെ കൃതിയാണ്."
  },
  {
@@ -649,12 +649,12 @@
   "topic": "ml-language-knowledge",
   "text": "‘രമണൻ’ എന്ന കാവ്യം രചിച്ചതാര്?",
   "options": [
-   "വള്ളത്തോൾ",
-   "ചങ്ങമ്പുഴ കൃഷ്ണപിള്ള",
+   "പി. കുഞ്ഞിരാമൻ നായർ",
    "ഇടശ്ശേരി",
-   "പി. കുഞ്ഞിരാമൻ നായർ"
+   "വള്ളത്തോൾ",
+   "ചങ്ങമ്പുഴ കൃഷ്ണപിള്ള"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "രമണൻ ചങ്ങമ്പുഴയുടെ പ്രശസ്ത കാവ്യമാണ്."
  },
  {
@@ -677,12 +677,12 @@
   "topic": "phy-waves",
   "text": "Sound waves of frequency below 20 Hz are called:",
   "options": [
-   "Ultrasonic waves",
    "Infrasonic waves",
-   "Radio waves",
-   "Audible waves"
+   "Ultrasonic waves",
+   "Audible waves",
+   "Radio waves"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "Infrasound lies below the audible range of 20 Hz to 20 kHz."
  },
  {
@@ -706,11 +706,11 @@
   "text": "When white light passes through a glass prism, the colour that deviates the least is:",
   "options": [
    "Violet",
+   "Red",
    "Green",
-   "Blue",
-   "Red"
+   "Blue"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "Red has the longest wavelength and bends least."
  },
  {
@@ -719,12 +719,12 @@
   "topic": "phy-force-pressure",
   "text": "Capillary rise of a liquid is greater in a tube of:",
   "options": [
-   "Narrower bore",
-   "Any bore equally",
    "Wider bore",
-   "Larger length only"
+   "Larger length only",
+   "Narrower bore",
+   "Any bore equally"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "Rise h = 2T cos(theta)/(r rho g), so a smaller radius gives a greater rise."
  },
  {
@@ -733,12 +733,12 @@
   "topic": "phy-heat",
   "text": "Transfer of heat in liquids and gases by the actual movement of the particles is called:",
   "options": [
-   "Reflection",
-   "Conduction",
+   "Radiation",
    "Convection",
-   "Radiation"
+   "Conduction",
+   "Reflection"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "Convection currents carry heat in fluids."
  },
  {
@@ -761,12 +761,12 @@
   "topic": "phy-motion",
   "text": "Passengers in a bus fall forward when it stops suddenly. This is explained by:",
   "options": [
-   "Newton's first law (inertia)",
    "Ohm's law",
+   "Newton's third law",
    "Law of gravitation",
-   "Newton's third law"
+   "Newton's first law (inertia)"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "The body tends to continue in its state of motion."
  },
  {
@@ -775,12 +775,12 @@
   "topic": "phy-gravitation",
   "text": "A solar eclipse occurs when the:",
   "options": [
+   "Moon comes between the Sun and the Earth",
    "Mars comes near the Earth",
-   "Earth comes between the Sun and the Moon",
    "Sun comes between the Earth and the Moon",
-   "Moon comes between the Sun and the Earth"
+   "Earth comes between the Sun and the Moon"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "The Moon's shadow falls on the Earth during a solar eclipse."
  },
  {
@@ -817,12 +817,12 @@
   "topic": "phy-electricity-magnetism",
   "text": "A fuse wire is made of a material having:",
   "options": [
+   "Magnetic properties",
    "High melting point",
    "Low melting point",
-   "Magnetic properties",
    "Very high resistance only"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "A low melting point lets it melt and break the circuit when the current is too high."
  },
  {
@@ -831,12 +831,12 @@
   "topic": "phy-electricity-magnetism",
   "text": "An electroscope is used to:",
   "options": [
-   "Measure current",
-   "Measure temperature",
    "Detect the presence of electric charge",
-   "Measure sound"
+   "Measure current",
+   "Measure sound",
+   "Measure temperature"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "The leaves of a gold-leaf electroscope diverge when charged."
  },
  {
@@ -845,12 +845,12 @@
   "topic": "phy-current-effects-emi",
   "text": "A solenoid carrying current behaves like:",
   "options": [
-   "A resistor only",
-   "A bar magnet",
    "A battery",
-   "A capacitor"
+   "A capacitor",
+   "A resistor only",
+   "A bar magnet"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "The magnetic field of a current-carrying solenoid resembles that of a bar magnet."
  },
  {
@@ -859,12 +859,12 @@
   "topic": "phy-current-effects-emi",
   "text": "The split ring (commutator) in a DC generator is used to:",
   "options": [
+   "Cool the coil",
    "Reverse the connections to the external circuit every half rotation to give direct current",
    "Produce alternating current",
-   "Increase the voltage",
-   "Cool the coil"
+   "Increase the voltage"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "The commutator keeps the output current in one direction."
  },
  {
@@ -887,10 +887,10 @@
   "topic": "phy-electronics",
   "text": "With a rise in temperature, the resistance of a semiconductor generally:",
   "options": [
+   "Increases",
    "Remains constant",
-   "Becomes infinite",
    "Decreases",
-   "Increases"
+   "Becomes infinite"
   ],
   "answer": 2,
   "explanation": "More carriers are released at higher temperature, so resistance falls."
@@ -901,12 +901,12 @@
   "topic": "chem-changes",
   "text": "Dissolving quicklime (calcium oxide) in water is:",
   "options": [
+   "An exothermic process",
    "A physical change without heat",
-   "An endothermic process",
    "A nuclear change",
-   "An exothermic process"
+   "An endothermic process"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "Slaking of lime releases a large amount of heat."
  },
  {
@@ -929,12 +929,12 @@
   "topic": "chem-atoms-molecules",
   "text": "The neutron was discovered by:",
   "options": [
-   "Chadwick",
    "Rutherford",
    "J. J. Thomson",
-   "Bohr"
+   "Bohr",
+   "Chadwick"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "James Chadwick discovered the neutron in 1932."
  },
  {
@@ -943,12 +943,12 @@
   "topic": "chem-metals",
   "text": "Sodium is stored under kerosene because it:",
   "options": [
-   "Is a gas",
-   "Is radioactive",
+   "Is heavy",
    "Is very reactive with air and water",
-   "Is heavy"
+   "Is radioactive",
+   "Is a gas"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "Sodium reacts vigorously with oxygen and moisture."
  },
  {
@@ -957,12 +957,12 @@
   "topic": "chem-metals",
   "text": "Rust is chiefly:",
   "options": [
-   "Iron sulphide",
-   "Iron chloride",
    "Pure iron",
-   "Hydrated iron(III) oxide"
+   "Iron sulphide",
+   "Hydrated iron(III) oxide",
+   "Iron chloride"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Rust is hydrated iron(III) oxide, Fe₂O₃.xH₂O."
  },
  {
@@ -972,11 +972,11 @@
   "text": "Fog is a colloid in which:",
   "options": [
    "A gas is dispersed in a liquid",
-   "A liquid is dispersed in a gas",
    "A solid is dispersed in a gas",
+   "A liquid is dispersed in a gas",
    "A solid is dispersed in a liquid"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "Fog is an aerosol of tiny water droplets in air."
  },
  {
@@ -985,12 +985,12 @@
   "topic": "chem-matter-separation",
   "text": "The different components of petroleum are separated by:",
   "options": [
-   "Evaporation",
-   "Magnetic separation",
    "Fractional distillation",
-   "Filtration"
+   "Filtration",
+   "Evaporation",
+   "Magnetic separation"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "Components with different boiling points are collected in different fractions."
  },
  {
@@ -999,12 +999,12 @@
   "topic": "chem-periodic-table",
   "text": "Lithium, sodium and potassium belong to the group of:",
   "options": [
-   "Alkali metals",
+   "Noble gases",
    "Alkaline earth metals",
    "Halogens",
-   "Noble gases"
+   "Alkali metals"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "Group 1 elements are the alkali metals."
  },
  {
@@ -1013,9 +1013,9 @@
   "topic": "chem-periodic-table",
   "text": "In the modern periodic table, metals are found mainly on the:",
   "options": [
-   "Right side",
-   "Left side",
    "Bottom right only",
+   "Left side",
+   "Right side",
    "Extreme top only"
   ],
   "answer": 1,
@@ -1041,12 +1041,12 @@
   "topic": "chem-non-metals",
   "text": "Chlorine is widely used for:",
   "options": [
-   "Fuelling vehicles",
-   "Cooling",
+   "Purifying drinking water",
    "Making diamonds",
-   "Purifying drinking water"
+   "Fuelling vehicles",
+   "Cooling"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "Chlorination kills germs in water."
  },
  {
@@ -1055,27 +1055,27 @@
   "topic": "chem-non-metals",
   "text": "The hardest natural substance, an allotrope of carbon, is:",
   "options": [
-   "Graphite",
    "Coke",
    "Diamond",
-   "Charcoal"
+   "Charcoal",
+   "Graphite"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "In diamond every carbon atom is bonded tetrahedrally to four others."
  },
  {
   "id": "t5-physical-science-030",
   "part": "physical-science",
   "topic": "chem-organic",
-  "text": "The molecular formula of ethane is:",
+  "text": "The functional group present in alcohols is:",
   "options": [
-   "C₂H₆",
-   "C₃H₈",
-   "C₂H₄",
-   "CH₄"
+   "-OH",
+   "-COOH",
+   "-CHO",
+   "-NH₂"
   ],
   "answer": 0,
-  "explanation": "Ethane is the alkane with two carbon atoms: C₂H₆."
+  "explanation": "Alcohols contain the hydroxyl (-OH) group."
  },
  {
   "id": "t5-physical-science-031",
@@ -1084,8 +1084,8 @@
   "text": "The common name of sodium hydrogencarbonate is:",
   "options": [
    "Washing soda",
-   "Caustic soda",
    "Bleaching powder",
+   "Caustic soda",
    "Baking soda"
   ],
   "answer": 3,
@@ -1111,12 +1111,12 @@
   "topic": "chem-mole-rates",
   "text": "A catalyst increases the rate of a reaction by:",
   "options": [
-   "Raising the temperature",
-   "Lowering the activation energy",
+   "Increasing the products' mass",
    "Being used up completely",
-   "Increasing the products' mass"
+   "Lowering the activation energy",
+   "Raising the temperature"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "A catalyst provides an alternative path with lower activation energy and is not consumed."
  },
  {
@@ -1126,9 +1126,9 @@
   "text": "Who is regarded as the father of the Indian nuclear programme?",
   "options": [
    "Vikram Sarabhai",
-   "J. C. Bose",
+   "C. V. Raman",
    "Homi J. Bhabha",
-   "C. V. Raman"
+   "J. C. Bose"
   ],
   "answer": 2,
   "explanation": "Homi J. Bhabha founded the Atomic Energy programme in India."
@@ -1139,12 +1139,12 @@
   "topic": "ped-aims-objectives",
   "text": "The phrase \"scientific temper\" was popularised in India by:",
   "options": [
-   "B. R. Ambedkar",
+   "Jawaharlal Nehru",
    "Mahatma Gandhi",
    "Sardar Patel",
-   "Jawaharlal Nehru"
+   "B. R. Ambedkar"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "Nehru used the term in \"The Discovery of India\"."
  },
  {
@@ -1153,12 +1153,12 @@
   "topic": "ped-aims-objectives",
   "text": "In the affective domain taxonomy, the lowest level is:",
   "options": [
-   "Receiving",
-   "Valuing",
+   "Responding",
    "Characterisation",
-   "Responding"
+   "Valuing",
+   "Receiving"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "The order is receiving, responding, valuing, organisation, characterisation."
  },
  {
@@ -1169,8 +1169,8 @@
   "options": [
    "Communicating",
    "Classifying",
-   "Measuring",
-   "Predicting"
+   "Predicting",
+   "Measuring"
   ],
   "answer": 1,
   "explanation": "Classifying sorts things by shared properties."
@@ -1181,12 +1181,12 @@
   "topic": "ped-theory-basis",
   "text": "\"Learning by doing\" is the educational idea most closely associated with:",
   "options": [
-   "Pavlov",
+   "John Dewey",
    "Freud",
    "Binet",
-   "John Dewey"
+   "Pavlov"
   ],
-  "answer": 3,
+  "answer": 0,
   "explanation": "Dewey advocated experiential, activity-based learning."
  },
  {
@@ -1195,10 +1195,10 @@
   "topic": "ped-theory-basis",
   "text": "In a constructivist science class, the teacher first:",
   "options": [
+   "Gives a test",
    "Ends the lesson",
-   "Gives the final answer",
    "Finds out the pupils' prior ideas",
-   "Gives a test"
+   "Gives the final answer"
   ],
   "answer": 2,
   "explanation": "Prior knowledge is the starting point for new understanding."
@@ -1209,12 +1209,12 @@
   "topic": "ped-planning",
   "text": "The introduction of a lesson should mainly:",
   "options": [
-   "Give homework",
-   "Motivate pupils and link with previous knowledge",
+   "Confuse pupils",
    "Finish the content",
-   "Confuse pupils"
+   "Give homework",
+   "Motivate pupils and link with previous knowledge"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "A good introduction arouses interest and recalls earlier learning."
  },
  {
@@ -1223,12 +1223,12 @@
   "topic": "ped-planning",
   "text": "Which Indian satellite is dedicated to educational broadcasting?",
   "options": [
-   "EDUSAT",
    "Aryabhata",
+   "EDUSAT",
    "INSAT-1A",
    "Chandrayaan"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "EDUSAT was launched in 2004 for educational services."
  },
  {
@@ -1237,12 +1237,12 @@
   "topic": "ped-models",
   "text": "Which of the following belongs to the information processing family of teaching models?",
   "options": [
-   "Role play model",
-   "Concept attainment model",
    "Programmed instruction model",
-   "Group investigation model"
+   "Group investigation model",
+   "Role play model",
+   "Concept attainment model"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "Concept attainment, inductive thinking and advance organiser models belong to the information processing family."
  },
  {
@@ -1251,12 +1251,12 @@
   "topic": "ped-models",
   "text": "In the 5E model, the \"Elaborate\" phase asks pupils to:",
   "options": [
+   "Wait silently",
    "Extend their understanding to new situations",
-   "Only copy notes",
    "Forget the concept",
-   "Wait silently"
+   "Only copy notes"
   ],
-  "answer": 0,
+  "answer": 1,
   "explanation": "Elaboration applies the concept to new contexts."
  },
  {
@@ -1265,12 +1265,12 @@
   "topic": "ped-methods",
   "text": "In the scientific method, a tentative explanation that can be tested is called a:",
   "options": [
-   "Result",
-   "Law",
    "Hypothesis",
-   "Conclusion"
+   "Conclusion",
+   "Law",
+   "Result"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "A hypothesis is a testable proposed explanation."
  },
  {
@@ -1279,12 +1279,12 @@
   "topic": "ped-methods",
   "text": "The assignment method in science is used mainly to:",
   "options": [
-   "Reduce learning",
    "Punish students",
-   "Replace the teacher",
-   "Encourage self-study and practice"
+   "Reduce learning",
+   "Encourage self-study and practice",
+   "Replace the teacher"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Assignments extend learning beyond the class through independent work."
  },
  {
@@ -1293,12 +1293,12 @@
   "topic": "ped-methods",
   "text": "The investigatory method is mainly a:",
   "options": [
-   "Dictation method",
    "Rote method",
-   "Teacher monologue",
-   "Learner-centred method of finding answers by investigation"
+   "Learner-centred method of finding answers by investigation",
+   "Dictation method",
+   "Teacher monologue"
   ],
-  "answer": 3,
+  "answer": 1,
   "explanation": "Learners plan and carry out investigations to answer questions."
  },
  {
@@ -1307,12 +1307,12 @@
   "topic": "ped-approaches",
   "text": "The problem-solving approach in science teaching mainly develops:",
   "options": [
-   "Handwriting",
+   "Rote memory",
    "Silence",
-   "Reasoning and the ability to apply knowledge",
-   "Rote memory"
+   "Handwriting",
+   "Reasoning and the ability to apply knowledge"
   ],
-  "answer": 2,
+  "answer": 3,
   "explanation": "It trains pupils to define, investigate and solve problems."
  },
  {
@@ -1321,12 +1321,12 @@
   "topic": "ped-curriculum",
   "text": "A child-centred curriculum is one that:",
   "options": [
-   "Ignores learners",
-   "Is based on the interests and needs of learners",
    "Has no activities",
-   "Is fixed by the printer"
+   "Is fixed by the printer",
+   "Is based on the interests and needs of learners",
+   "Ignores learners"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "Its content and activities are chosen around learners' needs and interests."
  },
  {
@@ -1336,9 +1336,9 @@
   "text": "Good illustrations in a science textbook:",
   "options": [
    "Help learners understand concepts",
+   "Waste space",
    "Replace all text",
-   "Should be avoided",
-   "Waste space"
+   "Should be avoided"
   ],
   "answer": 0,
   "explanation": "Clear diagrams and pictures support understanding."
@@ -1349,8 +1349,8 @@
   "topic": "ped-labs-clubs",
   "text": "Field trips organised by a science club help pupils to:",
   "options": [
-   "Stop studying",
    "Avoid learning",
+   "Stop studying",
    "Miss classes",
    "Observe and learn from nature directly"
   ],
@@ -1363,12 +1363,12 @@
   "topic": "ped-evaluation",
   "text": "A criterion-referenced test judges a student's performance against:",
   "options": [
-   "Chance",
    "A fixed standard of mastery",
+   "Chance",
    "Other students' scores",
    "The teacher's mood"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "It checks whether the learner has reached a set criterion."
  },
  {
@@ -1377,12 +1377,12 @@
   "topic": "ped-evaluation",
   "text": "Short-answer questions are mainly useful for testing:",
   "options": [
-   "Recall and brief explanation of facts",
-   "Only essay writing",
    "Only handwriting",
-   "Only creativity"
+   "Only creativity",
+   "Recall and brief explanation of facts",
+   "Only essay writing"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "They require brief, precise answers."
  },
  {
@@ -1391,12 +1391,12 @@
   "topic": "ped-professional",
   "text": "The teacher's role in curriculum development is to:",
   "options": [
-   "Only copy textbooks",
-   "Avoid any contribution",
+   "Reject change",
    "Give feedback from classroom experience",
-   "Reject change"
+   "Avoid any contribution",
+   "Only copy textbooks"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "Teachers contribute practical feedback and ideas for improving the curriculum."
  }
 ]

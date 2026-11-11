@@ -189,11 +189,11 @@
   "options": [
    "Intelligence quotient",
    "Age",
-   "Environment (life space)",
+   "Psychological environment",
    "Heredity"
   ],
   "answer": 2,
-  "explanation": "Behaviour is a function of the person and the environment, B = f(P, E)."
+  "explanation": "Behaviour is a function of the person and the environment, B = f(P, E); together they form the life space."
  },
  {
   "id": "t3-adolescent-psychology-015",
@@ -269,15 +269,15 @@
   "id": "t3-adolescent-psychology-020",
   "part": "adolescent-psychology",
   "topic": "teach-nature-roles",
-  "text": "Which of the following best describes a good teacher's role in a learner-centred classroom?",
+  "text": "A teacher who influences pupils by setting an example through his own conduct and values acts as a:",
   "options": [
    "Source of all knowledge",
    "Strict punisher",
-   "Facilitator of learning experiences",
+   "Role model",
    "Passive observer"
   ],
   "answer": 2,
-  "explanation": "The teacher organises experiences that let learners construct knowledge."
+  "explanation": "Pupils learn values by observing the teacher's behaviour."
  },
  {
   "id": "t3-adolescent-psychology-021",
@@ -451,7 +451,7 @@
   "id": "t3-malayalam-006",
   "part": "malayalam",
   "topic": "ml-comprehension-poetry",
-  "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഒരു തൈ നടാം, ഒരു തണൽ തരും; ഒരു കാലത്ത് തണലായ് നിൽക്കും.” ഈ വരികൾ പ്രോത്സാഹിപ്പിക്കുന്നത് എന്താണ്?",
+  "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഒരു തൈ നടാം നമുക്കിന്ന്, നാളെയതൊരു തണലായ് നിൽക്കും.” ഈ വരികൾ പ്രോത്സാഹിപ്പിക്കുന്നത് എന്താണ്?",
   "options": [
    "യാത്ര",
    "വീടുപണി",
@@ -459,7 +459,7 @@
    "മരം മുറിക്കൽ"
   ],
   "answer": 2,
-  "explanation": "തൈ നട്ടാൽ അത് പിന്നീട് തണൽ നൽകും എന്ന് വരികൾ പറയുന്നു."
+  "explanation": "ഇന്ന് തൈ നട്ടാൽ നാളെ അത് തണൽ നൽകും എന്ന് വരികൾ പറയുന്നു."
  },
  {
   "id": "t3-malayalam-007",
@@ -529,7 +529,7 @@
    "അധ്യാപകി"
   ],
   "answer": 0,
-  "explanation": "‘അധ്യാപകൻ’ന്റെ സ്ത്രീലിംഗം ‘അധ്യാപിക’."
+  "explanation": "‘അധ്യാപകൻ’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ‘അധ്യാപിക’."
  },
  {
   "id": "t3-malayalam-012",
@@ -708,10 +708,10 @@
    "Only reflection",
    "Only diffraction",
    "Polarisation",
-   "Dispersion, refraction and total internal reflection"
+   "Dispersion, refraction and internal reflection"
   ],
   "answer": 3,
-  "explanation": "Sunlight is dispersed and refracted by water drops and internally reflected."
+  "explanation": "Sunlight is refracted and dispersed on entering a water drop, reflected inside it, and refracted again on leaving."
  },
  {
   "id": "t3-physical-science-005",
@@ -829,7 +829,7 @@
   "id": "t3-physical-science-013",
   "part": "physical-science",
   "topic": "phy-electricity-magnetism",
-  "text": "A charged rod is brought near, but does not touch, an isolated metal sphere, which is then earthed and the rod removed. The sphere becomes charged by:",
+  "text": "A charged rod is brought near, but does not touch, an isolated metal sphere. While the rod is still near, the sphere is earthed, the earth connection is then removed, and finally the rod is taken away. The sphere becomes charged by:",
   "options": [
    "Induction",
    "Friction",
@@ -1095,7 +1095,7 @@
   "id": "t3-physical-science-032",
   "part": "physical-science",
   "topic": "chem-gas-laws",
-  "text": "One mole of any gas at STP occupies a volume of:",
+  "text": "One mole of any gas at STP (273 K, 1 atm) occupies a volume of:",
   "options": [
    "2.24 L",
    "11.2 L",
@@ -1103,7 +1103,7 @@
    "44.8 L"
   ],
   "answer": 2,
-  "explanation": "The molar volume of a gas at STP is 22.4 L."
+  "explanation": "The molar volume of a gas at 273 K and 1 atm is 22.4 L."
  },
  {
   "id": "t3-physical-science-033",
@@ -1305,15 +1305,15 @@
   "id": "t3-physical-science-047",
   "part": "physical-science",
   "topic": "ped-approaches",
-  "text": "The constructivist approach differs from the behaviourist approach because in it learners:",
+  "text": "The scientific process approach to teaching science emphasises:",
   "options": [
-   "Build their own understanding from experience",
-   "Avoid activity",
-   "Receive knowledge passively",
-   "Are conditioned by rewards only"
+   "Learning by using the processes scientists use, such as observing, hypothesising and experimenting",
+   "Listening only",
+   "Memorising laws",
+   "Copying notes"
   ],
   "answer": 0,
-  "explanation": "Constructivism stresses learners' own construction of meaning."
+  "explanation": "Pupils learn science by practising the processes of science."
  },
  {
   "id": "t3-physical-science-048",

@@ -31,7 +31,7 @@
   "id": "t2-adolescent-psychology-003",
   "part": "adolescent-psychology",
   "topic": "psy-problems",
-  "text": "An adolescent who starts thumb-sucking again after the birth of a sibling shows the defence mechanism of:",
+  "text": "A 15-year-old who sulks and throws tantrums like a small child whenever he is under stress shows the defence mechanism of:",
   "options": [
    "Regression",
    "Projection",
@@ -353,7 +353,7 @@
   "id": "t2-adolescent-psychology-026",
   "part": "adolescent-psychology",
   "topic": "teach-frameworks",
-  "text": "Under the RTE Act 2009, no child can be held back or expelled until the completion of:",
+  "text": "As originally enacted, the RTE Act 2009 provided that no child could be held back or expelled until the completion of:",
   "options": [
    "Secondary education",
    "Higher secondary education",
@@ -361,7 +361,7 @@
    "Primary education"
   ],
   "answer": 2,
-  "explanation": "The Act's no-detention provision applies up to the end of elementary education."
+  "explanation": "The original no-detention provision ran to the end of elementary education. The 2019 amendment lets states hold children back in some classes, but expulsion remains barred."
  },
  {
   "id": "t2-adolescent-psychology-027",
@@ -451,7 +451,7 @@
   "id": "t2-malayalam-006",
   "part": "malayalam",
   "topic": "ml-comprehension-poetry",
-  "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “കാലം കഴിഞ്ഞാൽ തിരികെ വരില്ല, കർമം ചെയ്യുക സമയത്തിൽ.” ഈ വരികൾ നൽകുന്ന സന്ദേശം എന്താണ്?",
+  "text": "വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “കാലം കഴിഞ്ഞാൽ തിരികെ വരില്ല, കർമം ചെയ്യുക സമയത്ത്.” ഈ വരികൾ നൽകുന്ന സന്ദേശം എന്താണ്?",
   "options": [
    "കാലം തിരിച്ചുവരും",
    "ജോലി സമയത്തുതന്നെ ചെയ്യണം",
@@ -537,7 +537,7 @@
   "topic": "ml-expression",
   "text": "‘കുട്ടി’ എന്ന പദത്തിന്റെ ബഹുവചനം ഏത്?",
   "options": [
-   "കുട്ടി",
+   "കുട്ടിങ്ങൾ",
    "കുട്ടിമാർ",
    "കുട്ടികൾ",
    "കുട്ടിയർ"
@@ -1235,15 +1235,15 @@
   "id": "t2-physical-science-042",
   "part": "physical-science",
   "topic": "ped-models",
-  "text": "The advance organiser model of teaching is associated with:",
+  "text": "The Biological Science Inquiry Model of teaching is associated with:",
   "options": [
-   "Ausubel",
-   "Skinner",
-   "Suchman",
-   "Pavlov"
+   "Joseph Schwab",
+   "Richard Suchman",
+   "David Ausubel",
+   "Jerome Bruner"
   ],
   "answer": 0,
-  "explanation": "Ausubel's model presents an organiser to link new content with prior knowledge."
+  "explanation": "Schwab designed this model to teach students the methods of scientific inquiry."
  },
  {
   "id": "t2-physical-science-043",

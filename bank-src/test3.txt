@@ -24,7 +24,7 @@ Which of the following is a barrier to creativity in the classroom? ||| Freedom 
 
 ## learn-theories
 Bandura's social learning theory states that people learn largely by: ||| Observing and imitating models ||| Trial and error alone ||| Reward and punishment alone ||| Instinct ||| A ||| Observational learning from models is the core of Bandura's theory.
-Kurt Lewin's field theory explains behaviour as a function of the person and the: ||| Heredity ||| Environment (life space) ||| Intelligence quotient ||| Age ||| B ||| Behaviour is a function of the person and the environment, B = f(P, E).
+Kurt Lewin's field theory explains behaviour as a function of the person and the: ||| Heredity ||| Psychological environment ||| Intelligence quotient ||| Age ||| B ||| Behaviour is a function of the person and the environment, B = f(P, E); together they form the life space.
 In classical conditioning, repeatedly presenting the conditioned stimulus without the unconditioned stimulus leads to: ||| Extinction ||| Reinforcement ||| Generalisation ||| Discrimination ||| A ||| The conditioned response gradually disappears: extinction.
 
 ## learn-special-needs
@@ -34,7 +34,7 @@ Gifted children are best helped through: ||| Enrichment and acceleration program
 ## teach-nature-roles
 Before planning a lesson, an effective teacher first tries to know the learners': ||| Needs and prior knowledge ||| Family income ||| Religion ||| Birthdays ||| A ||| Identifying learner needs and prior knowledge is the basis of planning.
 A teacher who advises learners and shows them the right path acts as a: ||| Guide ||| Judge ||| Dictator ||| Clerk ||| A ||| A guide helps learners find their own way.
-Which of the following best describes a good teacher's role in a learner-centred classroom? ||| Source of all knowledge ||| Facilitator of learning experiences ||| Strict punisher ||| Passive observer ||| B ||| The teacher organises experiences that let learners construct knowledge.
+A teacher who influences pupils by setting an example through his own conduct and values acts as a: ||| Source of all knowledge ||| Role model ||| Strict punisher ||| Passive observer ||| B ||| Pupils learn values by observing the teacher's behaviour.
 
 ## teach-methods-evaluation
 A seminar is a teaching technique in which: ||| The teacher reads the text aloud ||| Participants present and discuss a prepared topic ||| Students copy notes ||| The class is silent ||| B ||| In a seminar participants prepare and present papers followed by discussion.
@@ -59,14 +59,14 @@ Which of the following is prohibited by the RTE Act 2009? ||| Free textbooks |||
 ## ml-comprehension-poetry
 വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “വിദ്യ നേടുക നാം ജീവിതത്തിൻ വെളിച്ചമാകുമത് നിശ്ചയം; വിനയമോടെ പഠിച്ചിടേണം വിജയമെത്തും പിന്നാലെ.” ഈ വരികളിലെ സന്ദേശം എന്താണ്? ||| വിദ്യ ജീവിതത്തിന് വെളിച്ചമാണ്; വിനയത്തോടെ പഠിച്ചാൽ വിജയം ലഭിക്കും ||| പഠിക്കേണ്ടതില്ല ||| വിജയം കാത്തിരിക്കണം ||| വെളിച്ചം വേണ്ട ||| A ||| വിദ്യയുടെ പ്രാധാന്യവും വിനയത്തോടെയുള്ള പഠനവുമാണ് വരികളുടെ കാതൽ.
 വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “വിനയമോടെ പഠിച്ചിടേണം വിജയമെത്തും പിന്നാലെ.” ‘വിനയമോടെ’ എന്ന പദത്തിന്റെ അർഥം എന്താണ്? ||| അഹങ്കാരത്തോടെ ||| എളിമയോടെ ||| ദേഷ്യത്തോടെ ||| അലസതയോടെ ||| B ||| വിനയം എന്നാൽ എളിമ എന്നാണ് അർഥം.
-വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഒരു തൈ നടാം, ഒരു തണൽ തരും; ഒരു കാലത്ത് തണലായ് നിൽക്കും.” ഈ വരികൾ പ്രോത്സാഹിപ്പിക്കുന്നത് എന്താണ്? ||| മരം മുറിക്കൽ ||| മരം നടൽ ||| വീടുപണി ||| യാത്ര ||| B ||| തൈ നട്ടാൽ അത് പിന്നീട് തണൽ നൽകും എന്ന് വരികൾ പറയുന്നു.
+വരികൾ വായിച്ച് ഉത്തരം തിരഞ്ഞെടുക്കുക: “ഒരു തൈ നടാം നമുക്കിന്ന്, നാളെയതൊരു തണലായ് നിൽക്കും.” ഈ വരികൾ പ്രോത്സാഹിപ്പിക്കുന്നത് എന്താണ്? ||| മരം മുറിക്കൽ ||| മരം നടൽ ||| വീടുപണി ||| യാത്ര ||| B ||| ഇന്ന് തൈ നട്ടാൽ നാളെ അത് തണൽ നൽകും എന്ന് വരികൾ പറയുന്നു.
 
 ## ml-expression
 ‘സൂര്യൻ’ എന്ന പദത്തിന്റെ പര്യായമല്ലാത്തത് ഏത്? ||| ഭാനു ||| ആദിത്യൻ ||| ദിവാകരൻ ||| ചന്ദ്രൻ ||| D ||| ഭാനു, ആദിത്യൻ, ദിവാകരൻ എന്നിവ സൂര്യന്റെ പര്യായങ്ങളാണ്.
 ‘സുഖം’ എന്ന പദത്തിന്റെ വിപരീതപദം ഏത്? ||| ദുഃഖം ||| സന്തോഷം ||| ആനന്ദം ||| ഉല്ലാസം ||| A ||| സുഖത്തിന്റെ വിപരീതം ദുഃഖമാണ്.
 ‘ഗ്രാമത്തിൽ താമസിക്കുന്നവൻ’ എന്നതിന് ഒറ്റപ്പദം ഏത്? ||| നാഗരികൻ ||| ഗ്രാമീണൻ ||| വിദേശി ||| യാത്രികൻ ||| B ||| ഗ്രാമത്തിൽ താമസിക്കുന്നവൻ ഗ്രാമീണനാണ്.
 ‘ചെയ്യുക’ എന്ന ക്രിയയുടെ ഭാവികാലരൂപം ഏത്? ||| ചെയ്തു ||| ചെയ്യുന്നു ||| ചെയ്യും ||| ചെയ്ത ||| C ||| ഭാവികാലത്തിൽ ‘ചെയ്യും’ എന്ന രൂപം വരുന്നു.
-‘അധ്യാപകൻ’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ഏത്? ||| അധ്യാപിക ||| അധ്യാപകി ||| അധ്യാപൻ ||| അധ്യാപക ||| A ||| ‘അധ്യാപകൻ’ന്റെ സ്ത്രീലിംഗം ‘അധ്യാപിക’.
+‘അധ്യാപകൻ’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ഏത്? ||| അധ്യാപിക ||| അധ്യാപകി ||| അധ്യാപൻ ||| അധ്യാപക ||| A ||| ‘അധ്യാപകൻ’ എന്ന പദത്തിന്റെ സ്ത്രീലിംഗം ‘അധ്യാപിക’.
 ഉചിതമായ പദം ചേർത്ത് വാക്യം പൂർത്തിയാക്കുക: “പഠിച്ചാൽ മാത്രം പോരാ, പഠിച്ചത് ......” ||| മറക്കണം ||| പ്രയോഗത്തിൽ വരുത്തണം ||| ഒളിച്ചുവെക്കണം ||| ഉപേക്ഷിക്കണം ||| B ||| പഠിച്ചത് പ്രയോഗത്തിൽ കൊണ്ടുവരണമെന്നതാണ് യുക്തിസഹം.
 ശരിയായ വാക്യം തിരഞ്ഞെടുക്കുക: ||| ഞാൻ നാളെ നിങ്ങളെ കണ്ടു ||| ഞാൻ നാളെ നിങ്ങളെ കാണും ||| ഞാൻ ഇന്നലെ നിങ്ങളെ കാണും ||| ഞാൻ ഇന്നലെ നിങ്ങളെ കാണുന്നു ||| B ||| ‘നാളെ’ എന്ന ഭാവികാല സൂചകത്തോടൊപ്പം ‘കാണും’ എന്ന ഭാവികാലരൂപമാണ് ചേരുക.
 
@@ -85,7 +85,7 @@ Reverberation is: ||| The persistence of sound due to repeated reflections ||| A
 
 ## phy-light
 The refractive index of glass is 1.5 and the speed of light in vacuum is 3 x 10⁸ m/s. The speed of light in glass is: ||| 1 x 10⁸ m/s ||| 2 x 10⁸ m/s ||| 3 x 10⁸ m/s ||| 4.5 x 10⁸ m/s ||| B ||| v = c/n = 3 x 10⁸ / 1.5 = 2 x 10⁸ m/s.
-Which of the following phenomena are involved in the formation of a rainbow? ||| Dispersion, refraction and total internal reflection ||| Only reflection ||| Only diffraction ||| Polarisation ||| A ||| Sunlight is dispersed and refracted by water drops and internally reflected.
+Which of the following phenomena are involved in the formation of a rainbow? ||| Dispersion, refraction and internal reflection ||| Only reflection ||| Only diffraction ||| Polarisation ||| A ||| Sunlight is refracted and dispersed on entering a water drop, reflected inside it, and refracted again on leaving.
 
 ## phy-force-pressure
 A liquid drop takes a spherical shape because of: ||| Gravity ||| Surface tension ||| Viscosity ||| Density ||| B ||| Surface tension tends to minimise the surface area, giving a sphere.
@@ -106,7 +106,7 @@ Which of the following is a non-conventional source of energy? ||| Coal ||| Petr
 ## phy-electricity-magnetism
 A current of 2 A flows through a 5 Ω resistor for 10 s. The heat produced is: ||| 20 J ||| 100 J ||| 200 J ||| 1000 J ||| C ||| H = I²Rt = 4 x 5 x 10 = 200 J.
 The direction of the magnetic field around a straight current-carrying conductor is given by: ||| Fleming's left-hand rule ||| Right-hand thumb rule ||| Lenz's law ||| Ohm's law ||| B ||| Thumb along the current gives field direction by the curl of the fingers.
-A charged rod is brought near, but does not touch, an isolated metal sphere, which is then earthed and the rod removed. The sphere becomes charged by: ||| Conduction ||| Induction ||| Friction ||| Radiation ||| B ||| Charging without contact, using earthing, is charging by induction.
+A charged rod is brought near, but does not touch, an isolated metal sphere. While the rod is still near, the sphere is earthed, the earth connection is then removed, and finally the rod is taken away. The sphere becomes charged by: ||| Conduction ||| Induction ||| Friction ||| Radiation ||| B ||| Charging without contact, using earthing, is charging by induction.
 
 ## phy-current-effects-emi
 The property of a coil by which it opposes any change of current through itself is called: ||| Mutual induction ||| Self induction ||| Resistance ||| Capacitance ||| B ||| Self induction arises from the coil's own changing magnetic flux.
@@ -151,7 +151,7 @@ The general formula of alkanes is: ||| CnH2n ||| CnH2n+2 ||| CnH2n-2 ||| CnHn ||
 Acids turn which litmus paper red? ||| Blue litmus ||| Red litmus ||| Neither ||| Both ||| A ||| Acids change blue litmus to red.
 
 ## chem-gas-laws
-One mole of any gas at STP occupies a volume of: ||| 2.24 L ||| 11.2 L ||| 22.4 L ||| 44.8 L ||| C ||| The molar volume of a gas at STP is 22.4 L.
+One mole of any gas at STP (273 K, 1 atm) occupies a volume of: ||| 2.24 L ||| 11.2 L ||| 22.4 L ||| 44.8 L ||| C ||| The molar volume of a gas at 273 K and 1 atm is 22.4 L.
 
 ## chem-mole-rates
 Powdered marble reacts faster with acid than marble lumps because of its larger: ||| Surface area ||| Density ||| Colour ||| Mass ||| A ||| A larger surface area exposes more particles to the reactant.
@@ -182,7 +182,7 @@ The deductive method proceeds from: ||| Particular to general ||| General rule t
 A major merit of the laboratory method is that it: ||| Gives first-hand experience and develops skills ||| Saves time always ||| Needs no equipment ||| Avoids observation ||| A ||| Students gain direct experience and manipulative skills.
 
 ## ped-approaches
-The constructivist approach differs from the behaviourist approach because in it learners: ||| Receive knowledge passively ||| Build their own understanding from experience ||| Are conditioned by rewards only ||| Avoid activity ||| B ||| Constructivism stresses learners' own construction of meaning.
+The scientific process approach to teaching science emphasises: ||| Learning by using the processes scientists use, such as observing, hypothesising and experimenting ||| Memorising laws ||| Copying notes ||| Listening only ||| A ||| Pupils learn science by practising the processes of science.
 
 ## ped-curriculum
 A modern trend in science curriculum construction is to make it: ||| Teacher-centred and bookish ||| Learner-centred and activity-based ||| Examination-oriented only ||| Free of experiments ||| B ||| Modern curricula favour activity-based, learner-centred approaches.
